@@ -1,152 +1,182 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/work/noaa/amb-verif                        		  0.0		  0.0%		  9.3		Sun 13 Jun 2021 00:20:24 GMT
-dturner                                     		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
+/work/noaa/amb-verif                        		  0.0		  0.0%		  9.3		Tue 15 Jun 2021 00:35:12 GMT
+dturner                                     		  0.0		  0.0%				Tue 15 Jun 2021 00:35:11 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 00:35:12 GMT
 
-/work/noaa/ap-fc                            		  0.1		  0.3%		 40.8		Sun 13 Jun 2021 00:20:50 GMT
-KaYee                                       		  0.1		  0.3%				Sun 13 Jun 2021 00:20:50 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:20:50 GMT
+/work/noaa/ap-fc                            		  0.1		  0.3%		 40.8		Tue 15 Jun 2021 00:35:48 GMT
+KaYee                                       		  0.1		  0.3%				Tue 15 Jun 2021 00:35:48 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 00:35:48 GMT
 
-/work/noaa/chem-var                         		  0.0		  0.0%		  4.6		Sun 13 Jun 2021 00:20:24 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
-pagowski                                    		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
-MAPP_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
-mapp_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 00:20:24 GMT
+/work/noaa/chem-var                         		  0.0		  0.0%		  4.6		Tue 15 Jun 2021 00:40:17 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 00:40:17 GMT
+pagowski                                    		  0.0		  0.0%				Tue 15 Jun 2021 00:40:17 GMT
+MAPP_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 00:40:17 GMT
+mapp_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 00:40:17 GMT
 
-/work/noaa/comgsi                           		 25.7		 92.4%		 27.8		Sun 13 Jun 2021 01:48:36 GMT
-ibanos                                      		 23.6		 84.8%				Sun 13 Jun 2021 01:42:03 GMT
-cctong                                      		  1.9		  6.9%				Sun 13 Jun 2021 01:46:28 GMT
-will                                        		  0.2		  0.7%				Sun 13 Jun 2021 00:40:54 GMT
-mhu                                         		  0.0		  0.1%				Sun 13 Jun 2021 01:48:36 GMT
-gge                                         		  0.0		  0.0%				Sun 13 Jun 2021 01:48:20 GMT
-anaconda3                                   		  0.0		  0.0%				Sun 13 Jun 2021 01:44:22 GMT
-Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Sun 13 Jun 2021 00:40:54 GMT
-MPMC                                        		  0.0		  0.0%				Sun 13 Jun 2021 01:48:20 GMT
-modulefiles                                 		  0.0		  0.0%				Sun 13 Jun 2021 01:48:20 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:48:36 GMT
+/work/noaa/co2                              		241.1		 81.2%		296.9		Wed 16 Jun 2021 10:42:11 GMT
+andy                                        		135.6		 45.7%				Tue 15 Jun 2021 20:31:47 GMT
+METEO                                       		 59.8		 20.2%				Tue 15 Jun 2021 04:27:50 GMT
+kschuldt                                    		 36.9		 12.4%				Tue 15 Jun 2021 12:55:47 GMT
+sbasu                                       		 25.2		  8.5%				Wed 16 Jun 2021 03:23:25 GMT
+Lei.Hu                                      		 17.4		  5.9%				Wed 16 Jun 2021 04:38:22 GMT
+john                                        		 10.0		  3.4%				Tue 15 Jun 2021 05:53:40 GMT
+kaushik                                     		  8.8		  3.0%				Wed 16 Jun 2021 08:47:17 GMT
+footprint                                   		  5.1		  1.7%				Wed 16 Jun 2021 10:42:04 GMT
+mtrudeau                                    		  4.9		  1.6%				Tue 15 Jun 2021 21:03:18 GMT
+REGINV_python                               		  3.2		  1.1%				Wed 16 Jun 2021 06:16:39 GMT
+dmunro                                      		  1.7		  0.6%				Wed 16 Jun 2021 06:04:15 GMT
+GFED-CASA                                   		  1.6		  0.6%				Tue 15 Jun 2021 01:32:11 GMT
+input                                       		  1.1		  0.4%				Tue 15 Jun 2021 01:04:43 GMT
+youmioh                                     		  0.7		  0.2%				Tue 15 Jun 2021 05:12:56 GMT
+nislam                                      		  0.4		  0.1%				Tue 15 Jun 2021 01:12:07 GMT
+lori                                        		  0.1		  0.0%				Tue 15 Jun 2021 21:04:55 GMT
+miniconda3                                  		  0.0		  0.0%				Tue 15 Jun 2021 13:08:18 GMT
+tools                                       		  0.0		  0.0%				Tue 15 Jun 2021 00:40:38 GMT
+Sourish.Basu                                		  0.0		  0.0%				Tue 15 Jun 2021 04:28:33 GMT
+lib                                         		  0.0		  0.0%				Wed 16 Jun 2021 06:06:20 GMT
+model_output                                		  0.0		  0.0%				Wed 16 Jun 2021 06:04:17 GMT
+bin                                         		  0.0		  0.0%				Tue 15 Jun 2021 00:40:40 GMT
+share                                       		  0.0		  0.0%				Tue 15 Jun 2021 21:04:55 GMT
+.~                                          		  0.0		  0.0%				Wed 16 Jun 2021 08:47:17 GMT
+bharat                                      		  0.0		  0.0%				Tue 15 Jun 2021 04:28:33 GMT
+conda_pkg_list.yml                          		  0.0		  0.0%				Wed 16 Jun 2021 06:04:17 GMT
+dush.eo.13Feb21                             		  0.0		  0.0%				Tue 15 Jun 2021 00:40:38 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Wed 16 Jun 2021 10:42:11 GMT
 
-/work/noaa/dtc-hwrf                         		 29.9		 78.7%		 38.0		Sun 13 Jun 2021 00:52:54 GMT
-ekalina                                     		  8.6		 22.5%				Sun 13 Jun 2021 00:46:52 GMT
-lpan                                        		  6.4		 16.8%				Sun 13 Jun 2021 00:48:57 GMT
-mbiswas                                     		  5.6		 14.8%				Sun 13 Jun 2021 00:44:15 GMT
-scrub                                       		  4.4		 11.5%				Sun 13 Jun 2021 00:50:46 GMT
-scrub-mbiswas                               		  3.4		  9.0%				Sun 13 Jun 2021 00:50:14 GMT
-sbao                                        		  1.6		  4.2%				Sun 13 Jun 2021 00:52:54 GMT
-noscrub                                     		  0.3		  0.8%				Sun 13 Jun 2021 00:40:26 GMT
-save                                        		  0.0		  0.0%				Sun 13 Jun 2021 00:49:46 GMT
-hafs_build_script                           		  0.0		  0.0%				Sun 13 Jun 2021 00:46:52 GMT
-jfrimel                                     		  0.0		  0.0%				Sun 13 Jun 2021 00:52:54 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:52:54 GMT
+/work/noaa/comgsi                           		 26.9		 96.7%		 27.8		Tue 15 Jun 2021 01:36:24 GMT
+ibanos                                      		 24.8		 89.0%				Tue 15 Jun 2021 01:32:44 GMT
+cctong                                      		  1.9		  6.9%				Tue 15 Jun 2021 01:35:55 GMT
+will                                        		  0.2		  0.7%				Tue 15 Jun 2021 00:40:57 GMT
+mhu                                         		  0.0		  0.1%				Tue 15 Jun 2021 01:36:24 GMT
+gge                                         		  0.0		  0.0%				Tue 15 Jun 2021 01:36:16 GMT
+anaconda3                                   		  0.0		  0.0%				Tue 15 Jun 2021 01:34:14 GMT
+Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Tue 15 Jun 2021 00:40:57 GMT
+MPMC                                        		  0.0		  0.0%				Tue 15 Jun 2021 01:36:16 GMT
+modulefiles                                 		  0.0		  0.0%				Tue 15 Jun 2021 01:36:16 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:36:24 GMT
 
-/work/noaa/gmtb                             		 11.4		 94.4%		 12.1		Sun 13 Jun 2021 00:43:44 GMT
-manzhang                                    		  6.2		 51.5%				Sun 13 Jun 2021 00:42:11 GMT
-tufuk                                       		  1.5		 12.3%				Sun 13 Jun 2021 00:41:57 GMT
-scrub                                       		  0.9		  7.1%				Sun 13 Jun 2021 00:40:26 GMT
-lcarson                                     		  0.7		  6.1%				Sun 13 Jun 2021 00:42:56 GMT
-noscrub                                     		  0.7		  5.5%				Sun 13 Jun 2021 00:41:57 GMT
-lpan                                        		  0.6		  5.4%				Sun 13 Jun 2021 00:41:35 GMT
-xiasun                                      		  0.5		  4.0%				Sun 13 Jun 2021 00:42:53 GMT
-dheinzel                                    		  0.3		  2.3%				Sun 13 Jun 2021 00:43:44 GMT
-jedwards                                    		  0.0		  0.3%				Sun 13 Jun 2021 00:42:27 GMT
-mharrold                                    		  0.0		  0.0%				Sun 13 Jun 2021 00:42:53 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:43:44 GMT
+/work/noaa/dtc-hwrf                         		 29.9		 78.7%		 38.0		Tue 15 Jun 2021 00:57:44 GMT
+ekalina                                     		  8.6		 22.5%				Tue 15 Jun 2021 00:49:07 GMT
+lpan                                        		  6.4		 16.8%				Tue 15 Jun 2021 00:51:48 GMT
+mbiswas                                     		  5.6		 14.8%				Tue 15 Jun 2021 00:45:54 GMT
+scrub                                       		  4.4		 11.5%				Tue 15 Jun 2021 00:54:20 GMT
+scrub-mbiswas                               		  3.4		  9.0%				Tue 15 Jun 2021 00:53:36 GMT
+sbao                                        		  1.6		  4.3%				Tue 15 Jun 2021 00:57:44 GMT
+noscrub                                     		  0.3		  0.8%				Tue 15 Jun 2021 00:40:18 GMT
+save                                        		  0.0		  0.0%				Tue 15 Jun 2021 00:53:01 GMT
+hafs_build_script                           		  0.0		  0.0%				Tue 15 Jun 2021 00:49:07 GMT
+jfrimel                                     		  0.0		  0.0%				Tue 15 Jun 2021 00:57:44 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 00:57:44 GMT
 
-/work/noaa/gsd-fv3                          		  0.0		  0.0%		 31.5		Sun 13 Jun 2021 00:40:25 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 00:40:25 GMT
+/work/noaa/gmtb                             		 11.4		 94.4%		 12.1		Tue 15 Jun 2021 01:04:44 GMT
+manzhang                                    		  6.2		 51.5%				Tue 15 Jun 2021 01:03:39 GMT
+tufuk                                       		  1.5		 12.4%				Tue 15 Jun 2021 01:03:29 GMT
+scrub                                       		  0.9		  7.1%				Tue 15 Jun 2021 01:02:24 GMT
+lcarson                                     		  0.7		  6.1%				Tue 15 Jun 2021 01:04:10 GMT
+noscrub                                     		  0.7		  5.5%				Tue 15 Jun 2021 01:03:29 GMT
+lpan                                        		  0.6		  5.4%				Tue 15 Jun 2021 01:03:12 GMT
+xiasun                                      		  0.5		  4.0%				Tue 15 Jun 2021 01:04:08 GMT
+dheinzel                                    		  0.3		  2.3%				Tue 15 Jun 2021 01:04:44 GMT
+jedwards                                    		  0.0		  0.3%				Tue 15 Jun 2021 01:03:51 GMT
+mharrold                                    		  0.0		  0.0%				Tue 15 Jun 2021 01:04:08 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:04:44 GMT
 
-/work/noaa/gsd-fv3-dev                      		 40.4		 28.0%		144.5		Sun 13 Jun 2021 01:13:30 GMT
-pagowski                                    		 20.6		 14.2%				Sun 13 Jun 2021 01:06:44 GMT
-bgreen                                      		  7.5		  5.2%				Sun 13 Jun 2021 01:13:27 GMT
-lpan                                        		  6.9		  4.7%				Sun 13 Jun 2021 01:02:27 GMT
-bhuang                                      		  2.1		  1.5%				Sun 13 Jun 2021 01:10:19 GMT
-gsketefia                                   		  2.0		  1.4%				Sun 13 Jun 2021 01:01:32 GMT
-swei                                        		  0.9		  0.6%				Sun 13 Jun 2021 01:13:30 GMT
-beck                                        		  0.3		  0.2%				Sun 13 Jun 2021 01:02:34 GMT
-slu                                         		  0.1		  0.1%				Sun 13 Jun 2021 01:07:40 GMT
-bohuang                                     		  0.0		  0.0%				Sun 13 Jun 2021 01:07:05 GMT
-UFS_SRW_App                                 		  0.0		  0.0%				Sun 13 Jun 2021 01:00:25 GMT
-MAPP_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 01:02:27 GMT
-model_data                                  		  0.0		  0.0%				Sun 13 Jun 2021 01:07:05 GMT
-jwolff                                      		  0.0		  0.0%				Sun 13 Jun 2021 01:07:40 GMT
-mapp_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 01:02:27 GMT
-mpagowsk                                    		  0.0		  0.0%				Sun 13 Jun 2021 01:02:27 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:13:30 GMT
+/work/noaa/gsd-fv3                          		  0.0		  0.0%		 31.5		Tue 15 Jun 2021 01:02:23 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:02:23 GMT
 
-/work/noaa/gsd-fv3-test                     		  0.2		  0.5%		 33.2		Sun 13 Jun 2021 01:01:27 GMT
-kavulich                                    		  0.2		  0.5%				Sun 13 Jun 2021 01:01:27 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:01:27 GMT
+/work/noaa/gsd-fv3-dev                      		 40.4		 28.0%		144.5		Tue 15 Jun 2021 01:29:30 GMT
+pagowski                                    		 20.6		 14.2%				Tue 15 Jun 2021 01:26:42 GMT
+bgreen                                      		  7.5		  5.2%				Tue 15 Jun 2021 01:29:30 GMT
+lpan                                        		  6.9		  4.7%				Tue 15 Jun 2021 01:25:32 GMT
+bhuang                                      		  2.1		  1.5%				Tue 15 Jun 2021 01:27:47 GMT
+gsketefia                                   		  2.0		  1.4%				Tue 15 Jun 2021 01:24:42 GMT
+swei                                        		  0.9		  0.6%				Tue 15 Jun 2021 01:29:30 GMT
+beck                                        		  0.3		  0.2%				Tue 15 Jun 2021 01:25:45 GMT
+slu                                         		  0.1		  0.1%				Tue 15 Jun 2021 01:26:55 GMT
+bohuang                                     		  0.0		  0.0%				Tue 15 Jun 2021 01:26:48 GMT
+UFS_SRW_App                                 		  0.0		  0.0%				Tue 15 Jun 2021 01:24:20 GMT
+MAPP_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 01:25:32 GMT
+model_data                                  		  0.0		  0.0%				Tue 15 Jun 2021 01:26:48 GMT
+jwolff                                      		  0.0		  0.0%				Tue 15 Jun 2021 01:26:55 GMT
+mapp_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 01:25:32 GMT
+mpagowsk                                    		  0.0		  0.0%				Tue 15 Jun 2021 01:25:32 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:29:30 GMT
 
-/work/noaa/gsd-hpcs                         		  5.2		 10.1%		 51.5		Sun 13 Jun 2021 01:02:20 GMT
-dheinzel                                    		  3.3		  6.5%				Sun 13 Jun 2021 01:01:52 GMT
-govett                                      		  1.6		  3.1%				Sun 13 Jun 2021 01:01:27 GMT
-SENA                                        		  0.2		  0.3%				Sun 13 Jun 2021 01:02:20 GMT
-charrop                                     		  0.1		  0.1%				Sun 13 Jun 2021 01:01:19 GMT
-jacques                                     		  0.0		  0.0%				Sun 13 Jun 2021 01:02:09 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:02:20 GMT
+/work/noaa/gsd-fv3-test                     		  0.2		  0.5%		 33.2		Tue 15 Jun 2021 01:24:40 GMT
+kavulich                                    		  0.2		  0.5%				Tue 15 Jun 2021 01:24:40 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:24:40 GMT
 
-/work/noaa/hmtb                             		  0.0		  0.0%		 86.7		Sun 13 Jun 2021 01:20:25 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:20:25 GMT
+/work/noaa/gsd-hpcs                         		  5.2		 10.1%		 51.5		Tue 15 Jun 2021 01:41:48 GMT
+dheinzel                                    		  3.3		  6.5%				Tue 15 Jun 2021 01:41:32 GMT
+govett                                      		  1.6		  3.1%				Tue 15 Jun 2021 01:41:27 GMT
+SENA                                        		  0.2		  0.3%				Tue 15 Jun 2021 01:41:48 GMT
+charrop                                     		  0.1		  0.1%				Tue 15 Jun 2021 01:41:25 GMT
+jacques                                     		  0.0		  0.0%				Tue 15 Jun 2021 01:41:43 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:41:48 GMT
 
-/work/noaa/noaa-det                         		  0.0		  0.0%		129.0		Sun 13 Jun 2021 01:20:34 GMT
-mayfield                                    		  0.2		  0.2%				Sun 13 Jun 2021 01:20:34 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:20:34 GMT
+/work/noaa/hmtb                             		  0.0		  0.0%		 86.7		Tue 15 Jun 2021 01:40:59 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:40:59 GMT
 
-/work/noaa/qosap                            		  0.0		  0.0%		182.8		Sun 13 Jun 2021 01:20:25 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:20:25 GMT
-sditchek                                    		  0.0		  0.0%				Sun 13 Jun 2021 01:20:25 GMT
-akren                                       		  0.0		  0.0%				Sun 13 Jun 2021 01:20:25 GMT
+/work/noaa/noaa-det                         		  0.0		  0.0%		129.0		Tue 15 Jun 2021 01:46:43 GMT
+mayfield                                    		  0.2		  0.2%				Tue 15 Jun 2021 01:46:43 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 01:46:43 GMT
 
-/work/noaa/rtrr                             		  0.0		  0.0%		 31.5		Sun 13 Jun 2021 01:40:26 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:40:26 GMT
-mhu                                         		  0.0		  0.0%				Sun 13 Jun 2021 01:40:26 GMT
-rli                                         		  0.0		  0.0%				Sun 13 Jun 2021 01:40:26 GMT
+/work/noaa/qosap                            		  0.0		  0.0%		182.8		Tue 15 Jun 2021 02:03:30 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
+sditchek                                    		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
+akren                                       		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
 
-/work/noaa/rtruc                            		  0.0		  0.0%		  2.3		Sun 13 Jun 2021 01:40:25 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:40:25 GMT
+/work/noaa/rtrr                             		  0.0		  0.0%		 31.5		Tue 15 Jun 2021 02:03:30 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
+mhu                                         		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
+rli                                         		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
 
-/work/noaa/ufs-phys                         		  9.7		 48.8%		 19.9		Sun 13 Jun 2021 01:41:49 GMT
-lybarger                                    		  5.8		 29.3%				Sun 13 Jun 2021 01:40:41 GMT
-knewman                                     		  3.4		 17.2%				Sun 13 Jun 2021 01:41:49 GMT
-ekalina                                     		  0.4		  2.2%				Sun 13 Jun 2021 01:41:30 GMT
-egrell                                      		  0.0		  0.1%				Sun 13 Jun 2021 01:40:41 GMT
-gsketefia                                   		  0.0		  0.0%				Sun 13 Jun 2021 01:40:56 GMT
-lpan                                        		  0.0		  0.0%				Sun 13 Jun 2021 01:40:54 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 01:41:49 GMT
-fv3sar_vx                                   		  0.0		  0.0%				Sun 13 Jun 2021 01:40:55 GMT
-hertneky                                    		  0.0		  0.0%				Sun 13 Jun 2021 01:40:54 GMT
-manzhang                                    		  0.0		  0.0%				Sun 13 Jun 2021 01:41:49 GMT
+/work/noaa/rtruc                            		  0.0		  0.0%		  2.3		Tue 15 Jun 2021 02:03:30 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:03:30 GMT
 
-/work/noaa/wrf-chem                         		  0.1		  0.3%		 22.3		Sun 13 Jun 2021 02:01:09 GMT
-Jordan                                      		  0.1		  0.3%				Sun 13 Jun 2021 02:01:01 GMT
-slu                                         		  0.0		  0.0%				Sun 13 Jun 2021 02:01:09 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 02:01:09 GMT
-KaYee                                       		  0.0		  0.0%				Sun 13 Jun 2021 02:01:01 GMT
-pagowski                                    		  0.0		  0.0%				Sun 13 Jun 2021 02:01:01 GMT
-MAPP_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 02:01:01 GMT
-mapp_2018                                   		  0.0		  0.0%				Sun 13 Jun 2021 02:01:01 GMT
+/work/noaa/ufs-phys                         		  9.7		 48.8%		 19.9		Tue 15 Jun 2021 02:05:08 GMT
+lybarger                                    		  5.8		 29.3%				Tue 15 Jun 2021 02:03:51 GMT
+knewman                                     		  3.4		 17.2%				Tue 15 Jun 2021 02:05:06 GMT
+ekalina                                     		  0.4		  2.2%				Tue 15 Jun 2021 02:04:48 GMT
+egrell                                      		  0.0		  0.1%				Tue 15 Jun 2021 02:03:51 GMT
+gsketefia                                   		  0.0		  0.0%				Tue 15 Jun 2021 02:04:06 GMT
+lpan                                        		  0.0		  0.0%				Tue 15 Jun 2021 02:04:04 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:05:08 GMT
+fv3sar_vx                                   		  0.0		  0.0%				Tue 15 Jun 2021 02:04:05 GMT
+hertneky                                    		  0.0		  0.0%				Tue 15 Jun 2021 02:04:04 GMT
+manzhang                                    		  0.0		  0.0%				Tue 15 Jun 2021 02:05:06 GMT
 
-/work/noaa/wrfruc                           		301.0		 79.5%		378.5		Sun 13 Jun 2021 05:57:12 GMT
-gge                                         		162.2		 42.9%				Sun 13 Jun 2021 02:26:05 GMT
-ejames                                      		 75.3		 19.9%				Sun 13 Jun 2021 05:49:49 GMT
-terra                                       		 34.9		  9.2%				Sun 13 Jun 2021 02:15:14 GMT
-mhu                                         		 20.7		  5.5%				Sun 13 Jun 2021 05:57:12 GMT
-mayfield                                    		  4.7		  1.2%				Sun 13 Jun 2021 02:00:35 GMT
-cctong                                      		  3.0		  0.8%				Sun 13 Jun 2021 02:03:03 GMT
-ibanos                                      		  0.3		  0.1%				Sun 13 Jun 2021 05:49:51 GMT
-strahan                                     		  0.0		  0.0%				Sun 13 Jun 2021 02:15:21 GMT
-czhou                                       		  0.0		  0.0%				Sun 13 Jun 2021 02:02:44 GMT
-jdduda                                      		  0.0		  0.0%				Sun 13 Jun 2021 02:00:37 GMT
-llin                                        		  0.0		  0.0%				Sun 13 Jun 2021 02:03:05 GMT
-cholt                                       		  0.0		  0.0%				Sun 13 Jun 2021 05:49:52 GMT
-rli                                         		  0.0		  0.0%				Sun 13 Jun 2021 05:49:52 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 05:57:12 GMT
+/work/noaa/wrf-chem                         		  0.1		  0.3%		 22.3		Tue 15 Jun 2021 02:31:10 GMT
+Jordan                                      		  0.1		  0.3%				Tue 15 Jun 2021 02:30:57 GMT
+slu                                         		  0.0		  0.0%				Tue 15 Jun 2021 02:31:05 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:31:10 GMT
+KaYee                                       		  0.0		  0.0%				Tue 15 Jun 2021 02:30:57 GMT
+pagowski                                    		  0.0		  0.0%				Tue 15 Jun 2021 02:30:57 GMT
+MAPP_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 02:30:57 GMT
+mapp_2018                                   		  0.0		  0.0%				Tue 15 Jun 2021 02:30:57 GMT
 
-/work/noaa/zrtrr                            		  5.3		  3.5%		149.8		Sun 13 Jun 2021 02:07:03 GMT
-scrub                                       		  4.8		  3.2%				Sun 13 Jun 2021 02:01:18 GMT
-strahan                                     		  0.5		  0.3%				Sun 13 Jun 2021 02:07:02 GMT
-noscrub                                     		  0.0		  0.0%				Sun 13 Jun 2021 02:07:03 GMT
-mhu                                         		  0.0		  0.0%				Sun 13 Jun 2021 02:07:03 GMT
-rli                                         		  0.0		  0.0%				Sun 13 Jun 2021 02:07:03 GMT
---unseen-by-du--                            		  0.0		  0.0%				Sun 13 Jun 2021 02:07:03 GMT
+/work/noaa/wrfruc                           		301.0		 79.5%		378.5		Tue 15 Jun 2021 03:39:51 GMT
+gge                                         		162.2		 42.9%				Tue 15 Jun 2021 02:51:12 GMT
+ejames                                      		 75.3		 19.9%				Tue 15 Jun 2021 03:38:15 GMT
+terra                                       		 34.9		  9.2%				Tue 15 Jun 2021 02:40:25 GMT
+mhu                                         		 20.7		  5.5%				Tue 15 Jun 2021 03:39:49 GMT
+mayfield                                    		  4.7		  1.2%				Tue 15 Jun 2021 02:30:42 GMT
+cctong                                      		  3.0		  0.8%				Tue 15 Jun 2021 02:32:10 GMT
+ibanos                                      		  0.3		  0.1%				Tue 15 Jun 2021 03:38:16 GMT
+strahan                                     		  0.0		  0.0%				Tue 15 Jun 2021 02:40:39 GMT
+czhou                                       		  0.0		  0.0%				Tue 15 Jun 2021 02:31:53 GMT
+jdduda                                      		  0.0		  0.0%				Tue 15 Jun 2021 02:30:44 GMT
+llin                                        		  0.0		  0.0%				Tue 15 Jun 2021 02:32:12 GMT
+cholt                                       		  0.0		  0.0%				Tue 15 Jun 2021 03:38:16 GMT
+rli                                         		  0.0		  0.0%				Tue 15 Jun 2021 03:38:16 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 03:39:51 GMT
+
+/work/noaa/zrtrr                            		  5.3		  3.5%		149.8		Tue 15 Jun 2021 02:34:33 GMT
+scrub                                       		  4.8		  3.2%				Tue 15 Jun 2021 02:31:03 GMT
+strahan                                     		  0.5		  0.3%				Tue 15 Jun 2021 02:34:31 GMT
+noscrub                                     		  0.0		  0.0%				Tue 15 Jun 2021 02:34:31 GMT
+mhu                                         		  0.0		  0.0%				Tue 15 Jun 2021 02:34:31 GMT
+rli                                         		  0.0		  0.0%				Tue 15 Jun 2021 02:34:31 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Tue 15 Jun 2021 02:34:33 GMT
 
