@@ -1,18 +1,18 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Wed 08 Feb 2023 00:20:22 GMT
-dturner                                     		  0.0		  0.0%				Wed 08 Feb 2023 00:20:22 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 00:20:22 GMT
+/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Fri 10 Feb 2023 00:20:44 GMT
+dturner                                     		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
 
-/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Wed 08 Feb 2023 00:20:51 GMT
-KaYee                                       		  0.2		 17.0%				Wed 08 Feb 2023 00:20:51 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 00:20:51 GMT
+/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Fri 10 Feb 2023 00:21:31 GMT
+KaYee                                       		  0.2		 17.0%				Fri 10 Feb 2023 00:21:31 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 00:21:31 GMT
 
-/work/noaa/chem-var                         		  0.0		  0.0%		  0.9		Wed 08 Feb 2023 00:40:20 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 00:40:20 GMT
-pagowski                                    		  0.0		  0.0%				Wed 08 Feb 2023 00:40:19 GMT
-MAPP_2018                                   		  0.0		  0.0%				Wed 08 Feb 2023 00:40:20 GMT
-mapp_2018                                   		  0.0		  0.0%				Wed 08 Feb 2023 00:40:19 GMT
+/work/noaa/chem-var                         		  0.0		  0.0%		  0.9		Fri 10 Feb 2023 00:20:44 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
+pagowski                                    		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
+MAPP_2018                                   		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
+mapp_2018                                   		  0.0		  0.0%				Fri 10 Feb 2023 00:20:44 GMT
 
 /work/noaa/co2                              		229.9		 70.8%		324.7		Wed 08 Feb 2023 05:06:10 GMT
 --unseen-by-du--                            		143.3		 44.1%				Wed 08 Feb 2023 05:06:10 GMT
@@ -68,56 +68,56 @@ python                                      		  0.0		  0.0%				Wed 08 Feb 2023 0
 sibarrae                                    		  0.0		  0.0%				Wed 08 Feb 2023 04:46:23 GMT
 kaushik                                     		  0.0		  0.0%				Wed 08 Feb 2023 04:48:39 GMT
 
-/work/noaa/comgsi                           		  2.1		  7.6%		 27.8		Wed 08 Feb 2023 00:46:01 GMT
-cctong                                      		  1.8		  6.5%				Wed 08 Feb 2023 00:44:14 GMT
-tsupinie                                    		  0.2		  0.9%				Wed 08 Feb 2023 00:45:32 GMT
-will                                        		  0.1		  0.2%				Wed 08 Feb 2023 00:41:39 GMT
-mhu                                         		  0.0		  0.0%				Wed 08 Feb 2023 00:46:01 GMT
-gge                                         		  0.0		  0.0%				Wed 08 Feb 2023 00:45:53 GMT
-anaconda3                                   		  0.0		  0.0%				Wed 08 Feb 2023 00:42:59 GMT
-Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Wed 08 Feb 2023 00:41:39 GMT
-MPMC                                        		  0.0		  0.0%				Wed 08 Feb 2023 00:45:53 GMT
-modulefiles                                 		  0.0		  0.0%				Wed 08 Feb 2023 00:45:53 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 00:46:01 GMT
+/work/noaa/comgsi                           		  2.1		  7.6%		 27.8		Fri 10 Feb 2023 00:47:17 GMT
+cctong                                      		  1.8		  6.5%				Fri 10 Feb 2023 00:46:17 GMT
+tsupinie                                    		  0.2		  0.9%				Fri 10 Feb 2023 00:46:47 GMT
+will                                        		  0.1		  0.2%				Fri 10 Feb 2023 00:42:22 GMT
+mhu                                         		  0.0		  0.0%				Fri 10 Feb 2023 00:47:17 GMT
+gge                                         		  0.0		  0.0%				Fri 10 Feb 2023 00:47:04 GMT
+anaconda3                                   		  0.0		  0.0%				Fri 10 Feb 2023 00:44:14 GMT
+Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Fri 10 Feb 2023 00:42:22 GMT
+MPMC                                        		  0.0		  0.0%				Fri 10 Feb 2023 00:47:04 GMT
+modulefiles                                 		  0.0		  0.0%				Fri 10 Feb 2023 00:47:04 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 00:47:17 GMT
 
-/work/noaa/dtc-hwrf                         		 36.7		 96.6%		 38.0		Wed 08 Feb 2023 01:32:15 GMT
-scrub-mbiswas                               		 23.8		 62.5%				Wed 08 Feb 2023 01:27:03 GMT
-scrub                                       		  4.4		 11.5%				Wed 08 Feb 2023 01:27:20 GMT
-mbiswas                                     		  3.3		  8.6%				Wed 08 Feb 2023 01:05:11 GMT
-noscrub                                     		  3.0		  7.9%				Wed 08 Feb 2023 01:01:02 GMT
-scrub_mbiswas                               		  0.9		  2.4%				Wed 08 Feb 2023 01:05:22 GMT
-scrub-scrub                                 		  0.8		  2.1%				Wed 08 Feb 2023 01:00:39 GMT
-sbao                                        		  0.6		  1.5%				Wed 08 Feb 2023 01:32:15 GMT
-lpan                                        		  0.3		  0.8%				Wed 08 Feb 2023 01:07:35 GMT
-save                                        		  0.2		  0.6%				Wed 08 Feb 2023 01:20:40 GMT
-ekalina                                     		  0.0		  0.0%				Wed 08 Feb 2023 01:05:11 GMT
-feature_hafs_thompson_workflow.tar          		  0.0		  0.0%				Wed 08 Feb 2023 01:32:15 GMT
-hafs_build_script                           		  0.0		  0.0%				Wed 08 Feb 2023 01:05:22 GMT
-jfrimel                                     		  0.0		  0.0%				Wed 08 Feb 2023 01:32:15 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 01:32:15 GMT
+/work/noaa/dtc-hwrf                         		 21.3		 55.9%		 38.0		Fri 10 Feb 2023 01:17:12 GMT
+scrub-mbiswas                               		  8.1		 21.4%				Fri 10 Feb 2023 01:12:30 GMT
+scrub                                       		  4.4		 11.5%				Fri 10 Feb 2023 01:12:58 GMT
+mbiswas                                     		  3.3		  8.6%				Fri 10 Feb 2023 00:48:04 GMT
+noscrub                                     		  3.0		  7.9%				Fri 10 Feb 2023 00:40:44 GMT
+scrub_mbiswas                               		  0.9		  2.4%				Fri 10 Feb 2023 00:48:31 GMT
+scrub-scrub                                 		  0.8		  2.1%				Fri 10 Feb 2023 00:40:33 GMT
+sbao                                        		  0.6		  1.5%				Fri 10 Feb 2023 01:17:12 GMT
+lpan                                        		  0.3		  0.8%				Fri 10 Feb 2023 00:55:17 GMT
+save                                        		  0.2		  0.6%				Fri 10 Feb 2023 01:10:47 GMT
+ekalina                                     		  0.0		  0.0%				Fri 10 Feb 2023 00:48:04 GMT
+feature_hafs_thompson_workflow.tar          		  0.0		  0.0%				Fri 10 Feb 2023 01:17:12 GMT
+hafs_build_script                           		  0.0		  0.0%				Fri 10 Feb 2023 00:48:31 GMT
+jfrimel                                     		  0.0		  0.0%				Fri 10 Feb 2023 01:17:12 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 01:17:12 GMT
 
-/work/noaa/gmtb                             		  2.2		  9.4%		 23.2		Wed 08 Feb 2023 01:12:13 GMT
-lcarson                                     		  0.7		  3.2%				Wed 08 Feb 2023 01:12:12 GMT
-lpan                                        		  0.6		  2.8%				Wed 08 Feb 2023 01:03:45 GMT
-P7_JessicaP                                 		  0.4		  1.9%				Wed 08 Feb 2023 01:03:47 GMT
-manzhang                                    		  0.2		  0.8%				Wed 08 Feb 2023 01:04:27 GMT
-xiasun                                      		  0.1		  0.4%				Wed 08 Feb 2023 01:12:06 GMT
-jedwards                                    		  0.0		  0.2%				Wed 08 Feb 2023 01:04:51 GMT
---unseen-by-du--                            		  0.0		  0.1%				Wed 08 Feb 2023 01:12:13 GMT
-noscrub                                     		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
-mharrold                                    		  0.0		  0.0%				Wed 08 Feb 2023 01:12:06 GMT
-jessicap.tar                                		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
-jessicap                                    		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
-knewman                                     		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
-dheinzel                                    		  0.0		  0.0%				Wed 08 Feb 2023 01:12:13 GMT
-scrub                                       		  0.0		  0.0%				Wed 08 Feb 2023 01:00:16 GMT
-tufuk                                       		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
-usage.log                                   		  0.0		  0.0%				Wed 08 Feb 2023 01:03:47 GMT
+/work/noaa/gmtb                             		 20.0		 86.2%		 23.2		Fri 10 Feb 2023 00:53:24 GMT
+manzhang                                    		 18.0		 77.5%				Fri 10 Feb 2023 00:44:37 GMT
+lcarson                                     		  0.7		  3.2%				Fri 10 Feb 2023 00:53:23 GMT
+lpan                                        		  0.6		  2.8%				Fri 10 Feb 2023 00:42:09 GMT
+P7_JessicaP                                 		  0.4		  1.9%				Fri 10 Feb 2023 00:42:16 GMT
+xiasun                                      		  0.1		  0.4%				Fri 10 Feb 2023 00:53:15 GMT
+jedwards                                    		  0.0		  0.2%				Fri 10 Feb 2023 00:45:30 GMT
+--unseen-by-du--                            		  0.0		  0.1%				Fri 10 Feb 2023 00:53:24 GMT
+noscrub                                     		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
+mharrold                                    		  0.0		  0.0%				Fri 10 Feb 2023 00:53:16 GMT
+jessicap.tar                                		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
+jessicap                                    		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
+knewman                                     		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
+dheinzel                                    		  0.0		  0.0%				Fri 10 Feb 2023 00:53:24 GMT
+scrub                                       		  0.0		  0.0%				Fri 10 Feb 2023 00:40:13 GMT
+tufuk                                       		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
+usage.log                                   		  0.0		  0.0%				Fri 10 Feb 2023 00:42:16 GMT
 
-/work/noaa/gsd-fv3                          		  1.0		105.3%		  0.9		Wed 08 Feb 2023 01:20:38 GMT
-Shan.Sun                                    		  1.0		105.3%				Wed 08 Feb 2023 01:20:38 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 01:20:38 GMT
-jhenders                                    		  0.0		  0.0%				Wed 08 Feb 2023 01:20:38 GMT
+/work/noaa/gsd-fv3                          		  1.0		105.3%		  0.9		Fri 10 Feb 2023 01:00:57 GMT
+Shan.Sun                                    		  1.0		105.3%				Fri 10 Feb 2023 01:00:57 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 01:00:57 GMT
+jhenders                                    		  0.0		  0.0%				Fri 10 Feb 2023 01:00:57 GMT
 
 /work/noaa/gsd-fv3-dev                      		 73.9		 99.6%		 74.2		Wed 08 Feb 2023 04:25:44 GMT
 pagowski                                    		 47.8		 64.4%				Wed 08 Feb 2023 03:54:31 GMT
@@ -248,6 +248,36 @@ rli                                         		  0.0		  0.0%				Wed 08 Feb 2023 0
 
 /work2/noaa/chem-var                        		  0.0		  0.0%		  0.9		Wed 08 Feb 2023 05:20:22 GMT
 --unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 05:20:22 GMT
+
+/work2/noaa/co2                             		111.5		 26.1%		426.8		Fri 10 Feb 2023 01:10:22 GMT
+andy                                        		200.6		 47.0%				Thu 09 Feb 2023 02:27:21 GMT
+kaushik                                     		 58.9		 13.8%				Wed 08 Feb 2023 15:15:08 GMT
+METEO                                       		 53.7		 12.6%				Fri 10 Feb 2023 01:10:18 GMT
+youmioh                                     		 12.6		  2.9%				Wed 08 Feb 2023 11:45:39 GMT
+sbasu                                       		  9.0		  2.1%				Wed 08 Feb 2023 10:33:23 GMT
+Lei.Hu                                      		  8.9		  2.1%				Wed 08 Feb 2023 12:21:47 GMT
+dengf                                       		  1.8		  0.4%				Wed 08 Feb 2023 11:58:46 GMT
+footprint                                   		  0.9		  0.2%				Wed 08 Feb 2023 12:27:13 GMT
+aschuh                                      		  0.2		  0.0%				Wed 08 Feb 2023 16:02:27 GMT
+lori                                        		  0.0		  0.0%				Wed 08 Feb 2023 10:48:01 GMT
+input                                       		  0.0		  0.0%				Wed 08 Feb 2023 11:55:57 GMT
+miniconda3                                  		  0.0		  0.0%				Wed 08 Feb 2023 16:02:05 GMT
+tools                                       		  0.0		  0.0%				Wed 08 Feb 2023 11:45:52 GMT
+lbruhwil                                    		  0.0		  0.0%				Fri 10 Feb 2023 01:10:22 GMT
+sibarrae                                    		  0.0		  0.0%				Wed 08 Feb 2023 10:42:30 GMT
+tmp                                         		  0.0		  0.0%				Fri 10 Feb 2023 01:10:18 GMT
+test-aed                                    		  0.0		  0.0%				Wed 08 Feb 2023 16:03:57 GMT
+lib                                         		  0.0		  0.0%				Wed 08 Feb 2023 16:03:57 GMT
+bin                                         		  0.0		  0.0%				Wed 08 Feb 2023 16:02:05 GMT
+test                                        		  0.0		  0.0%				Wed 08 Feb 2023 16:03:57 GMT
+pkg.yml                                     		  0.0		  0.0%				Wed 08 Feb 2023 10:48:01 GMT
+conda_pkg_list.yml                          		  0.0		  0.0%				Wed 08 Feb 2023 12:21:47 GMT
+py27.yml                                    		  0.0		  0.0%				Wed 08 Feb 2023 05:40:21 GMT
+dask.yml                                    		  0.0		  0.0%				Wed 08 Feb 2023 05:40:22 GMT
+dush.16Oct2021                              		  0.0		  0.0%				Wed 08 Feb 2023 11:55:57 GMT
+mtrudeau                                    		  0.0		  0.0%				Wed 08 Feb 2023 05:40:21 GMT
+nislam                                      		  0.0		  0.0%				Wed 08 Feb 2023 16:03:57 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 10 Feb 2023 01:10:22 GMT
 
 /work2/noaa/comgsi                          		  0.0		  0.0%		 27.8		Wed 08 Feb 2023 05:40:21 GMT
 --unseen-by-du--                            		  0.0		  0.0%				Wed 08 Feb 2023 05:40:21 GMT
