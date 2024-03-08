@@ -1,20 +1,20 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Wed 06 Mar 2024 00:20:12 GMT
-dturner                                     		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
+/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Fri 08 Mar 2024 00:20:17 GMT
+dturner                                     		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
 
-/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Wed 06 Mar 2024 00:20:39 GMT
-KaYee                                       		  0.2		 17.0%				Wed 06 Mar 2024 00:20:39 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 06 Mar 2024 00:20:39 GMT
+/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Fri 08 Mar 2024 00:20:41 GMT
+KaYee                                       		  0.2		 17.0%				Fri 08 Mar 2024 00:20:41 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 08 Mar 2024 00:20:41 GMT
 
-/work/noaa/chem-var                         		  0.0		  0.1%		  0.9		Wed 06 Mar 2024 00:20:12 GMT
-bhuang                                      		  0.0		  0.1%				Wed 06 Mar 2024 00:20:12 GMT
-all_lost_files_chem_var.txt                 		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
---unseen-by-du--                            		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
-pagowski                                    		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
-MAPP_2018                                   		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
-mapp_2018                                   		  0.0		  0.0%				Wed 06 Mar 2024 00:20:12 GMT
+/work/noaa/chem-var                         		  0.0		  0.1%		  0.9		Fri 08 Mar 2024 00:20:17 GMT
+bhuang                                      		  0.0		  0.1%				Fri 08 Mar 2024 00:20:17 GMT
+all_lost_files_chem_var.txt                 		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
+pagowski                                    		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
+MAPP_2018                                   		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
+mapp_2018                                   		  0.0		  0.0%				Fri 08 Mar 2024 00:20:17 GMT
 
 /work/noaa/co2                              		247.9		 76.3%		324.7		Wed 06 Mar 2024 03:15:04 GMT
 --unseen-by-du--                            		156.4		 48.2%				Wed 06 Mar 2024 03:15:04 GMT
@@ -264,6 +264,41 @@ rli                                         		  0.0		  0.0%				Wed 06 Mar 2024 0
 
 /work2/noaa/chem-var                        		  0.0		  0.0%		  0.9		Wed 06 Mar 2024 03:02:31 GMT
 --unseen-by-du--                            		  0.0		  0.0%				Wed 06 Mar 2024 03:02:31 GMT
+
+/work2/noaa/co2                             		355.8		 83.4%		426.8		Fri 08 Mar 2024 00:38:37 GMT
+andy                                        		331.3		 77.6%				Thu 07 Mar 2024 03:18:14 GMT
+METEO                                       		 88.7		 20.8%				Fri 08 Mar 2024 00:36:06 GMT
+dengf                                       		 74.8		 17.5%				Wed 06 Mar 2024 08:24:22 GMT
+kaushik                                     		 68.1		 15.9%				Wed 06 Mar 2024 10:21:23 GMT
+youmioh                                     		 16.0		  3.8%				Wed 06 Mar 2024 07:16:08 GMT
+sbasu                                       		 11.4		  2.7%				Wed 06 Mar 2024 06:43:07 GMT
+Lei.Hu                                      		  9.3		  2.2%				Wed 06 Mar 2024 08:27:48 GMT
+input                                       		  2.0		  0.5%				Wed 06 Mar 2024 07:40:08 GMT
+GFED-CASA                                   		  1.8		  0.4%				Wed 06 Mar 2024 03:15:09 GMT
+aschuh                                      		  1.5		  0.4%				Wed 06 Mar 2024 10:45:51 GMT
+footprint                                   		  0.9		  0.2%				Wed 06 Mar 2024 08:34:08 GMT
+sibarrae                                    		  0.7		  0.2%				Wed 06 Mar 2024 06:46:21 GMT
+lbruhwil                                    		  0.1		  0.0%				Fri 08 Mar 2024 00:38:37 GMT
+kschuldt                                    		  0.1		  0.0%				Wed 06 Mar 2024 11:04:00 GMT
+lori                                        		  0.1		  0.0%				Wed 06 Mar 2024 06:47:03 GMT
+rastogi                                     		  0.0		  0.0%				Wed 06 Mar 2024 10:45:52 GMT
+matt                                        		  0.0		  0.0%				Wed 06 Mar 2024 11:03:54 GMT
+miniconda3                                  		  0.0		  0.0%				Wed 06 Mar 2024 10:35:51 GMT
+tools                                       		  0.0		  0.0%				Wed 06 Mar 2024 07:16:24 GMT
+lib                                         		  0.0		  0.0%				Wed 06 Mar 2024 11:04:09 GMT
+bin                                         		  0.0		  0.0%				Wed 06 Mar 2024 10:35:51 GMT
+bin-hercules                                		  0.0		  0.0%				Wed 06 Mar 2024 03:15:10 GMT
+python                                      		  0.0		  0.0%				Wed 06 Mar 2024 11:04:09 GMT
+pkg.yml                                     		  0.0		  0.0%				Wed 06 Mar 2024 06:47:03 GMT
+conda_pkg_list.yml                          		  0.0		  0.0%				Wed 06 Mar 2024 08:27:48 GMT
+py27.yml                                    		  0.0		  0.0%				Wed 06 Mar 2024 03:02:31 GMT
+dask.yml                                    		  0.0		  0.0%				Wed 06 Mar 2024 03:02:31 GMT
+dush.16Oct2021                              		  0.0		  0.0%				Wed 06 Mar 2024 07:40:08 GMT
+mtrudeau                                    		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
+pedro                                       		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
+nislam                                      		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
+8732                                        		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Fri 08 Mar 2024 00:38:37 GMT
 
 /work2/noaa/comgsi                          		  0.0		  0.0%		 27.8		Wed 06 Mar 2024 03:02:31 GMT
 --unseen-by-du--                            		  0.0		  0.0%				Wed 06 Mar 2024 03:02:31 GMT
