@@ -1,28 +1,30 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/mnt/lfs5/BMC/amb-verif                     		 43.0		110.1%		 39.1		Tue 11 Jun 2024 22:46:27 GMT
-realtime                                    		 27.1		 69.5%				Tue 11 Jun 2024 22:42:49 GMT
---unseen-by-du--                            		 15.8		 40.5%				Tue 11 Jun 2024 22:46:27 GMT
-anaconda                                    		  0.0		  0.0%				Tue 11 Jun 2024 22:45:28 GMT
-anaconda3                                   		  0.0		  0.0%				Tue 11 Jun 2024 21:33:23 GMT
-miniconda                                   		  0.0		  0.0%				Tue 11 Jun 2024 22:46:26 GMT
-Anaconda3-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Tue 11 Jun 2024 22:46:27 GMT
-Anaconda2-2018.12-Linux-x86_64.sh           		  0.0		  0.0%				Tue 11 Jun 2024 22:46:26 GMT
-Anaconda2-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Tue 11 Jun 2024 21:29:33 GMT
-METplus_ensemble                            		  0.0		  0.0%				Tue 11 Jun 2024 22:42:50 GMT
-backfill                                    		  0.0		  0.0%				Tue 11 Jun 2024 21:29:32 GMT
-mhu_lib.tar                                 		  0.0		  0.0%				Tue 11 Jun 2024 22:46:27 GMT
-METplus                                     		  0.0		  0.0%				Tue 11 Jun 2024 22:46:27 GMT
-RAPdev1                                     		  0.0		  0.0%				Tue 11 Jun 2024 21:29:33 GMT
-duh.log                                     		  0.0		  0.0%				Tue 11 Jun 2024 21:29:33 GMT
-.usage_scan.csv                             		  0.0		  0.0%				Tue 11 Jun 2024 22:46:27 GMT
-acars_retro_data                            		  0.0		  0.0%				Tue 11 Jun 2024 22:46:26 GMT
-alcott                                      		  0.0		  0.0%				Tue 11 Jun 2024 22:46:27 GMT
-pb_amdar_qc                                 		  0.0		  0.0%				Tue 11 Jun 2024 21:29:33 GMT
-RAP-smoke                                   		  0.0		  0.0%				Tue 11 Jun 2024 21:33:23 GMT
-RTMA_background                             		  0.0		  0.0%				Tue 11 Jun 2024 22:42:49 GMT
-HRRR-smoke                                  		  0.0		  0.0%				Tue 11 Jun 2024 22:42:50 GMT
-SAR_FV3_GSD                                 		  0.0		  0.0%				Tue 11 Jun 2024 22:46:26 GMT
+/mnt/lfs5/BMC/amb-verif                     		 44.5		114.0%		 39.1		Thu 13 Jun 2024 01:10:36 GMT
+realtime                                    		 30.5		 78.0%				Thu 13 Jun 2024 01:08:50 GMT
+--unseen-by-du--                            		 13.9		 35.7%				Thu 13 Jun 2024 01:10:36 GMT
+natalieb                                    		  0.1		  0.3%				Thu 13 Jun 2024 00:18:25 GMT
+anaconda                                    		  0.0		  0.0%				Thu 13 Jun 2024 01:10:17 GMT
+anaconda3                                   		  0.0		  0.0%				Thu 13 Jun 2024 00:18:55 GMT
+miniconda                                   		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+Anaconda3-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+Anaconda2-2018.12-Linux-x86_64.sh           		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+Anaconda2-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Thu 13 Jun 2024 00:18:25 GMT
+METplus_ensemble                            		  0.0		  0.0%				Thu 13 Jun 2024 01:08:51 GMT
+backfill                                    		  0.0		  0.0%				Thu 13 Jun 2024 00:18:24 GMT
+mhu_lib.tar                                 		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+METplus                                     		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+RAPdev1                                     		  0.0		  0.0%				Thu 13 Jun 2024 00:18:25 GMT
+duh.log                                     		  0.0		  0.0%				Thu 13 Jun 2024 00:18:25 GMT
+.usage_scan.csv                             		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+acars_retro_data                            		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+alcott                                      		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+pb_amdar_qc                                 		  0.0		  0.0%				Thu 13 Jun 2024 00:18:25 GMT
+RAP-smoke                                   		  0.0		  0.0%				Thu 13 Jun 2024 00:18:55 GMT
+RTMA_background                             		  0.0		  0.0%				Thu 13 Jun 2024 01:08:50 GMT
+HRRR-smoke                                  		  0.0		  0.0%				Thu 13 Jun 2024 01:08:51 GMT
+pb_amdar_stats_dir                          		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
+SAR_FV3_GSD                                 		  0.0		  0.0%				Thu 13 Jun 2024 01:10:36 GMT
 hrw_arw                                     		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
 rocoto_test                                 		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
 rap_ops_mesonet_uselists                    		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
@@ -64,70 +66,76 @@ nssl_wrf                                    		  0.0		  0.0%				Wed 31 Dec 1969 2
 ensemble_verif                              		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
 ncl_extraction_1.12                         		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
 
-/mnt/lfs5/BMC/wrfruc                        		 58.7		  8.6%		683.6		Tue 11 Jun 2024 22:46:21 GMT
-jjhu                                        		 85.7		 12.5%				Tue 11 Jun 2024 22:22:11 GMT
-HRRRE                                       		 62.0		  9.1%				Tue 11 Jun 2024 22:46:19 GMT
-jdduda                                      		 46.9		  6.9%				Tue 11 Jun 2024 21:54:02 GMT
-ejames                                      		 28.4		  4.2%				Tue 11 Jun 2024 22:02:58 GMT
-WoF_BC                                      		 10.7		  1.6%				Tue 11 Jun 2024 22:25:33 GMT
-aback                                       		  7.3		  1.1%				Tue 11 Jun 2024 22:05:41 GMT
-gge                                         		  1.3		  0.2%				Tue 11 Jun 2024 22:19:47 GMT
-MPAS_global_mesh                            		  0.8		  0.1%				Tue 11 Jun 2024 22:07:07 GMT
-jenglish                                    		  0.7		  0.1%				Tue 11 Jun 2024 22:09:34 GMT
-MPAS_small_3km                              		  0.2		  0.0%				Tue 11 Jun 2024 21:30:15 GMT
-jamison                                     		  0.2		  0.0%				Tue 11 Jun 2024 22:04:42 GMT
-jensen                                      		  0.1		  0.0%				Tue 11 Jun 2024 22:07:07 GMT
-Donald.E.Lippi                              		  0.1		  0.0%				Tue 11 Jun 2024 21:30:05 GMT
-murdzek                                     		  0.1		  0.0%				Tue 11 Jun 2024 22:46:21 GMT
-MPAS_CONUS_12km                             		  0.1		  0.0%				Tue 11 Jun 2024 22:04:48 GMT
-Xia.Sun                                     		  0.0		  0.0%				Tue 11 Jun 2024 21:54:05 GMT
-bjallen                                     		  0.0		  0.0%				Tue 11 Jun 2024 21:29:09 GMT
-Gang.Zhao                                   		  0.0		  0.0%				Tue 11 Jun 2024 22:22:49 GMT
-rocky8_porting                              		  0.0		  0.0%				Tue 11 Jun 2024 21:30:50 GMT
-ddowell                                     		  0.0		  0.0%				Tue 11 Jun 2024 21:30:15 GMT
-aiden.pape                                  		  0.0		  0.0%				Tue 11 Jun 2024 22:06:59 GMT
-smirnova                                    		  0.0		  0.0%				Tue 11 Jun 2024 21:30:13 GMT
-ashley.fanning                              		  0.0		  0.0%				Tue 11 Jun 2024 22:04:46 GMT
-Samuel.Trahan                               		  0.0		  0.0%				Tue 11 Jun 2024 22:04:42 GMT
-RTMA_3D_dev                                 		  0.0		  0.0%				Tue 11 Jun 2024 21:29:11 GMT
-gge.verif                                   		  0.0		  0.0%				Tue 11 Jun 2024 22:05:42 GMT
-llin                                        		  0.0		  0.0%				Tue 11 Jun 2024 22:05:42 GMT
-cholt                                       		  0.0		  0.0%				Tue 11 Jun 2024 22:25:33 GMT
+/mnt/lfs5/BMC/wrfruc                        		 73.6		 10.8%		683.6		Thu 13 Jun 2024 01:32:13 GMT
+jjhu                                        		 85.7		 12.5%				Thu 13 Jun 2024 01:11:41 GMT
+HRRRE                                       		 63.1		  9.2%				Thu 13 Jun 2024 01:32:12 GMT
+jdduda                                      		 46.9		  6.9%				Thu 13 Jun 2024 00:43:16 GMT
+ejames                                      		 29.0		  4.2%				Thu 13 Jun 2024 00:52:55 GMT
+WoF_BC                                      		 14.7		  2.1%				Thu 13 Jun 2024 01:13:51 GMT
+aback                                       		  9.0		  1.3%				Thu 13 Jun 2024 00:55:22 GMT
+jensen                                      		  3.2		  0.5%				Thu 13 Jun 2024 00:59:06 GMT
+gge                                         		  1.3		  0.2%				Thu 13 Jun 2024 01:09:58 GMT
+MPAS_global_mesh                            		  0.9		  0.1%				Thu 13 Jun 2024 00:59:07 GMT
+jenglish                                    		  0.7		  0.1%				Thu 13 Jun 2024 01:01:42 GMT
+MPAS_small_3km                              		  0.2		  0.0%				Thu 13 Jun 2024 00:19:19 GMT
+smirnova                                    		  0.2		  0.0%				Thu 13 Jun 2024 00:19:18 GMT
+jamison                                     		  0.2		  0.0%				Thu 13 Jun 2024 00:53:49 GMT
+Donald.E.Lippi                              		  0.1		  0.0%				Thu 13 Jun 2024 00:19:15 GMT
+murdzek                                     		  0.1		  0.0%				Thu 13 Jun 2024 01:32:13 GMT
+MPAS_CONUS_12km                             		  0.1		  0.0%				Thu 13 Jun 2024 00:53:54 GMT
+ddowell                                     		  0.1		  0.0%				Thu 13 Jun 2024 00:20:36 GMT
+HRRRv5                                      		  0.0		  0.0%				Thu 13 Jun 2024 00:56:35 GMT
+Xia.Sun                                     		  0.0		  0.0%				Thu 13 Jun 2024 00:43:20 GMT
+bjallen                                     		  0.0		  0.0%				Thu 13 Jun 2024 00:18:39 GMT
+Gang.Zhao                                   		  0.0		  0.0%				Thu 13 Jun 2024 01:12:20 GMT
+rocky8_porting                              		  0.0		  0.0%				Thu 13 Jun 2024 00:20:52 GMT
+aiden.pape                                  		  0.0		  0.0%				Thu 13 Jun 2024 00:57:48 GMT
+jderrico                                    		  0.0		  0.0%				Thu 13 Jun 2024 01:14:09 GMT
+ashley.fanning                              		  0.0		  0.0%				Thu 13 Jun 2024 00:53:52 GMT
+Samuel.Trahan                               		  0.0		  0.0%				Thu 13 Jun 2024 00:53:49 GMT
+RTMA_3D_dev                                 		  0.0		  0.0%				Thu 13 Jun 2024 00:18:39 GMT
+gge.verif                                   		  0.0		  0.0%				Thu 13 Jun 2024 00:55:25 GMT
+llin                                        		  0.0		  0.0%				Thu 13 Jun 2024 00:56:35 GMT
+cholt                                       		  0.0		  0.0%				Thu 13 Jun 2024 01:14:09 GMT
 standalone                                  		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
---unseen-by-du--                            		  0.0		  0.0%				Tue 11 Jun 2024 22:46:21 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Thu 13 Jun 2024 01:32:13 GMT
 
-/mnt/lfs5/BMC/nrtrr                         		  3.1		  3.1%		 97.7		Tue 11 Jun 2024 21:36:49 GMT
-archive                                     		  2.8		  2.9%				Tue 11 Jun 2024 21:29:08 GMT
-HRRR_HI                                     		  1.2		  1.2%				Tue 11 Jun 2024 21:36:49 GMT
-ncl_graphics                                		  1.1		  1.1%				Tue 11 Jun 2024 21:36:09 GMT
-HRRR_CAR                                    		  0.6		  0.6%				Tue 11 Jun 2024 21:29:15 GMT
-Craig.Hartsough                             		  0.6		  0.6%				Tue 11 Jun 2024 21:29:26 GMT
-RDAS_DATA                                   		  0.0		  0.0%				Tue 11 Jun 2024 21:29:12 GMT
-pygraf_rrfs_a                               		  0.0		  0.0%				Tue 11 Jun 2024 21:36:49 GMT
-pygraf_hrrr_ak                              		  0.0		  0.0%				Tue 11 Jun 2024 21:29:09 GMT
-pygraf_hrrr_ncep                            		  0.0		  0.0%				Tue 11 Jun 2024 21:29:09 GMT
-pygraf_rap_ncep                             		  0.0		  0.0%				Tue 11 Jun 2024 21:29:26 GMT
-pygraf_hrrr_car                             		  0.0		  0.0%				Tue 11 Jun 2024 21:29:08 GMT
-pygraf_rtma_a                               		  0.0		  0.0%				Tue 11 Jun 2024 21:29:09 GMT
-pygraf_hrrr_hi                              		  0.0		  0.0%				Tue 11 Jun 2024 21:36:49 GMT
+/mnt/lfs5/BMC/nrtrr                         		  6.1		  6.2%		 97.7		Thu 13 Jun 2024 00:22:49 GMT
+archive                                     		  2.8		  2.9%				Thu 13 Jun 2024 00:17:17 GMT
+HRRR_CAR                                    		  1.7		  1.7%				Thu 13 Jun 2024 00:17:32 GMT
+ncl_graphics                                		  1.5		  1.6%				Thu 13 Jun 2024 00:22:40 GMT
+MPAS_NSSL                                   		  0.6		  0.6%				Thu 13 Jun 2024 00:17:18 GMT
+Craig.Hartsough                             		  0.6		  0.6%				Thu 13 Jun 2024 00:17:37 GMT
+HRRR_HI                                     		  0.4		  0.4%				Thu 13 Jun 2024 00:22:48 GMT
+RDAS_DATA                                   		  0.0		  0.0%				Thu 13 Jun 2024 00:17:20 GMT
+pygraf_rrfs_a                               		  0.0		  0.0%				Thu 13 Jun 2024 00:22:49 GMT
+pygraf_rrfs_a_ens                           		  0.0		  0.0%				Thu 13 Jun 2024 00:22:48 GMT
+pygraf_rrfs_na_3km_ncep                     		  0.0		  0.0%				Thu 13 Jun 2024 00:17:33 GMT
+pygraf_gfs                                  		  0.0		  0.0%				Thu 13 Jun 2024 00:17:34 GMT
+pygraf_rap_ncep                             		  0.0		  0.0%				Thu 13 Jun 2024 00:17:38 GMT
+pygraf_hrrr_ncep                            		  0.0		  0.0%				Thu 13 Jun 2024 00:17:18 GMT
+pygraf_hrrr_ak                              		  0.0		  0.0%				Thu 13 Jun 2024 00:17:17 GMT
+pygraf_hrrr_car                             		  0.0		  0.0%				Thu 13 Jun 2024 00:17:17 GMT
+pygraf_hrrr_hi                              		  0.0		  0.0%				Thu 13 Jun 2024 00:22:48 GMT
+pygraf_rtma_a                               		  0.0		  0.0%				Thu 13 Jun 2024 00:17:17 GMT
 VERIF_GRAPHICS                              		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT
---unseen-by-du--                            		  0.0		  0.0%				Tue 11 Jun 2024 21:36:49 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Thu 13 Jun 2024 00:22:49 GMT
 
-/mnt/lfs5/BMC/rtwbl                         		 15.3		  4.7%		322.3		Tue 11 Jun 2024 21:41:45 GMT
-rap-chem                                    		 14.0		  4.3%				Tue 11 Jun 2024 21:41:45 GMT
-mtoy                                        		 11.1		  3.4%				Tue 11 Jun 2024 21:37:58 GMT
-olson                                       		  9.7		  3.0%				Tue 11 Jun 2024 21:40:25 GMT
-WFIP3                                       		  7.6		  2.4%				Tue 11 Jun 2024 21:35:37 GMT
-Sudheer                                     		  1.4		  0.4%				Tue 11 Jun 2024 21:37:08 GMT
-Xia.Sun                                     		  1.3		  0.4%				Tue 11 Jun 2024 21:30:34 GMT
-mhu                                         		  0.5		  0.2%				Tue 11 Jun 2024 21:36:35 GMT
-Jordan                                      		  0.2		  0.1%				Tue 11 Jun 2024 21:34:30 GMT
---unseen-by-du--                            		  0.0		  0.0%				Tue 11 Jun 2024 21:41:45 GMT
+/mnt/lfs5/BMC/rtwbl                         		 21.7		  6.7%		322.3		Thu 13 Jun 2024 00:27:49 GMT
+rap-chem                                    		 15.2		  4.7%				Thu 13 Jun 2024 00:27:49 GMT
+olson                                       		 12.5		  3.9%				Thu 13 Jun 2024 00:26:25 GMT
+mtoy                                        		 11.1		  3.4%				Thu 13 Jun 2024 00:23:46 GMT
+WFIP3                                       		  9.1		  2.8%				Thu 13 Jun 2024 00:21:36 GMT
+Sudheer                                     		  1.4		  0.4%				Thu 13 Jun 2024 00:23:01 GMT
+Xia.Sun                                     		  1.3		  0.4%				Thu 13 Jun 2024 00:19:03 GMT
+mhu                                         		  0.5		  0.2%				Thu 13 Jun 2024 00:22:26 GMT
+Jordan                                      		  0.2		  0.1%				Thu 13 Jun 2024 00:20:58 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Thu 13 Jun 2024 00:27:49 GMT
 
-/mnt/lfs5/BMC/gsd-fv3                       		  0.0		  0.0%		 36.1		Tue 11 Jun 2024 21:45:34 GMT
-jamison                                     		  0.3		  0.9%				Tue 11 Jun 2024 21:45:34 GMT
---unseen-by-du--                            		  0.0		  0.0%				Tue 11 Jun 2024 21:45:34 GMT
+/mnt/lfs5/BMC/gsd-fv3                       		  0.0		  0.0%		 36.1		Thu 13 Jun 2024 00:30:58 GMT
+jamison                                     		  0.3		  0.9%				Thu 13 Jun 2024 00:30:58 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Thu 13 Jun 2024 00:30:58 GMT
 
-/mnt/lfs5/BMC/gsd-fv3-test                  		  0.0		  0.0%		 58.6		Tue 11 Jun 2024 21:45:08 GMT
---unseen-by-du--                            		  0.0		  0.0%				Tue 11 Jun 2024 21:45:08 GMT
+/mnt/lfs5/BMC/gsd-fv3-test                  		  0.0		  0.0%		 58.6		Thu 13 Jun 2024 00:30:25 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Thu 13 Jun 2024 00:30:25 GMT
 
