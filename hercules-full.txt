@@ -1,68 +1,68 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked                    age>90d (TB)    age>180d (TB)     Files          File Quota (%)   File Quota
 
 
-/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	        15	     0.0%	0
-dturner                                     		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         9	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/amb-verif                        		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	        15	     0.0%	0
+dturner                                     		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         9	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Fri 26 Jul 2024 00:22:37 GMT	     0.2	     0.2	     31979	     0.0%	0
-KaYee                                       		  0.2		 17.0%				Fri 26 Jul 2024 00:22:37 GMT	     0.2	     0.2	     31973	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 00:22:37 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/ap-fc                            		  0.2		 17.0%		  0.9		Mon 29 Jul 2024 00:16:02 GMT	     0.2	     0.2	     31979	     0.0%	0
+KaYee                                       		  0.2		 17.0%				Mon 29 Jul 2024 00:16:02 GMT	     0.2	     0.2	     31973	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 00:16:02 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/chem-var                         		  0.0		  0.1%		  0.9		Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	        13	     0.0%	0
-bhuang                                      		  0.0		  0.1%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         4	     0.0%
-all_lost_files_chem_var.txt                 		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         1	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         5	     0.0%
-pagowski                                    		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         1	     0.0%
-MAPP_2018                                   		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         1	     0.0%
-mapp_2018                                   		  0.0		  0.0%				Fri 26 Jul 2024 00:21:43 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/chem-var                         		  0.0		  0.1%		  0.9		Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	        13	     0.0%	0
+bhuang                                      		  0.0		  0.1%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         4	     0.0%
+all_lost_files_chem_var.txt                 		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         1	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         5	     0.0%
+pagowski                                    		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         1	     0.0%
+MAPP_2018                                   		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         1	     0.0%
+mapp_2018                                   		  0.0		  0.0%				Mon 29 Jul 2024 00:15:03 GMT	     0.0	     0.0	         1	     0.0%
 
-/work/noaa/co2                              		253.4		 78.0%		324.7		Fri 26 Jul 2024 06:09:04 GMT	    91.0	    78.3	  53396674	     0.0%	0
---unseen-by-du--                            		156.1		 48.1%				Fri 26 Jul 2024 06:09:04 GMT	     0.0	     0.0	  39358230	     0.0%
-METEO                                       		 51.0		 15.7%				Fri 26 Jul 2024 01:35:57 GMT	    48.1	    44.7	   4103692	     0.0%
-Lei.Hu                                      		 25.7		  7.9%				Fri 26 Jul 2024 04:32:08 GMT	    22.6	    17.4	   2967458	     0.0%
-dmunro                                      		  3.9		  1.2%				Fri 26 Jul 2024 05:36:55 GMT	     3.8	     0.2	   2321691	     0.0%
-sbasu                                       		  3.9		  1.2%				Fri 26 Jul 2024 03:15:16 GMT	     3.9	     3.9	    652444	     0.0%
-REGINV_python                               		  3.0		  0.9%				Fri 26 Jul 2024 05:39:43 GMT	     3.0	     3.0	     91118	     0.0%
-mtrudeau                                    		  2.8		  0.8%				Fri 26 Jul 2024 02:57:12 GMT	     2.8	     2.8	    400286	     0.0%
-footprint                                   		  2.6		  0.8%				Fri 26 Jul 2024 06:09:04 GMT	     2.5	     2.1	   1059776	     0.0%
-GFED-CASA                                   		  1.8		  0.6%				Fri 26 Jul 2024 00:33:49 GMT	     1.8	     1.8	    764731	     0.0%
-input_MOVED_ASIDE                           		  1.7		  0.5%				Fri 26 Jul 2024 02:43:24 GMT	     1.7	     1.7	   1086063	     0.0%
-youmioh                                     		  0.6		  0.2%				Fri 26 Jul 2024 01:42:57 GMT	     0.6	     0.5	    256746	     0.0%
-carbontracker_releases                      		  0.1		  0.0%				Fri 26 Jul 2024 03:15:32 GMT	     0.1	     0.1	     13415	     0.0%
-aschuh                                      		  0.1		  0.0%				Fri 26 Jul 2024 02:59:11 GMT	     0.1	     0.1	     65302	     0.0%
-hsuto                                       		  0.1		  0.0%				Fri 26 Jul 2024 00:22:15 GMT	     0.1	     0.1	     13501	     0.0%
-dengf                                       		  0.0		  0.0%				Fri 26 Jul 2024 00:21:57 GMT	     0.0	     0.0	       974	     0.0%
-miniconda3                                  		  0.0		  0.0%				Fri 26 Jul 2024 02:50:50 GMT	     0.0	     0.0	    174324	     0.0%
-tools                                       		  0.0		  0.0%				Fri 26 Jul 2024 00:21:56 GMT	     0.0	     0.0	      4021	     0.0%
-Sourish.Basu                                		  0.0		  0.0%				Fri 26 Jul 2024 01:38:24 GMT	     0.0	     0.0	     34125	     0.0%
-lib                                         		  0.0		  0.0%				Fri 26 Jul 2024 05:38:30 GMT	     0.0	     0.0	     28096	     0.0%
-model_output                                		  0.0		  0.0%				Fri 26 Jul 2024 05:36:55 GMT	     0.0	     0.0	       270	     0.0%
-bin                                         		  0.0		  0.0%				Fri 26 Jul 2024 00:21:58 GMT	     0.0	     0.0	       290	     0.0%
-packages                                    		  0.0		  0.0%				Fri 26 Jul 2024 00:21:58 GMT	     0.0	     0.0	        23	     0.0%
-share                                       		  0.0		  0.0%				Fri 26 Jul 2024 02:59:11 GMT	     0.0	     0.0	        22	     0.0%
-lbruhwil                                    		  0.0		  0.0%				Fri 26 Jul 2024 05:36:55 GMT	     0.0	     0.0	        48	     0.0%
-include                                     		  0.0		  0.0%				Fri 26 Jul 2024 02:50:50 GMT	     0.0	     0.0	         2	     0.0%
-input                                       		  0.0		  0.0%				Fri 26 Jul 2024 00:21:58 GMT	     0.0	     0.0	         6	     0.0%
-bharat                                      		  0.0		  0.0%				Fri 26 Jul 2024 01:38:24 GMT	     0.0	     0.0	         2	     0.0%
-dush.eo.10Aug21                             		  0.0		  0.0%				Fri 26 Jul 2024 04:32:08 GMT	     0.0	     0.0	         1	     0.0%
-dush.eo.13Feb21                             		  0.0		  0.0%				Fri 26 Jul 2024 00:21:56 GMT	     0.0	     0.0	         1	     0.0%
-pkg.yml                                     		  0.0		  0.0%				Fri 26 Jul 2024 02:43:24 GMT	     0.0	     0.0	         1	     0.0%
-conda_pkg_list.yml                          		  0.0		  0.0%				Fri 26 Jul 2024 05:36:55 GMT	     0.0	     0.0	         1	     0.0%
-py27.yml                                    		  0.0		  0.0%				Fri 26 Jul 2024 01:38:24 GMT	     0.0	     0.0	         1	     0.0%
-dush.eo.12Aug2021                           		  0.0		  0.0%				Fri 26 Jul 2024 04:32:08 GMT	     0.0	     0.0	         1	     0.0%
-dask.yml                                    		  0.0		  0.0%				Fri 26 Jul 2024 02:59:11 GMT	     0.0	     0.0	         1	     0.0%
-kschuldt.dush.eo.13Aug2021                  		  0.0		  0.0%				Fri 26 Jul 2024 03:15:32 GMT	     0.0	     0.0	         1	     0.0%
-dush-x.11Aug2021                            		  0.0		  0.0%				Fri 26 Jul 2024 05:36:55 GMT	     0.0	     0.0	         1	     0.0%
-mtrudeau.recent.files                       		  0.0		  0.0%				Fri 26 Jul 2024 00:21:58 GMT	     0.0	     0.0	         1	     0.0%
-co2                                         		  0.0		  0.0%				Fri 26 Jul 2024 00:22:15 GMT	     0.0	     0.0	         1	     0.0%
-GFED-CASA.dush.eu                           		  0.0		  0.0%				Fri 26 Jul 2024 04:32:08 GMT	     0.0	     0.0	         1	     0.0%
-mtrudeau.du.out                             		  0.0		  0.0%				Fri 26 Jul 2024 01:38:24 GMT	     0.0	     0.0	         1	     0.0%
-mtrudeau.dush.eu                            		  0.0		  0.0%				Fri 26 Jul 2024 04:32:08 GMT	     0.0	     0.0	         1	     0.0%
-sibarrae.dush.eu                            		  0.0		  0.0%				Fri 26 Jul 2024 05:39:43 GMT	     0.0	     0.0	         1	     0.0%
-python.dush.eu                              		  0.0		  0.0%				Fri 26 Jul 2024 02:57:12 GMT	     0.0	     0.0	         1	     0.0%
-kaushik.dush.eu                             		  0.0		  0.0%				Fri 26 Jul 2024 02:59:11 GMT	     0.0	     0.0	         1	     0.0%
-andy.dush.eu                                		  0.0		  0.0%				Fri 26 Jul 2024 05:36:55 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/co2                              		253.4		 78.0%		324.7		Mon 29 Jul 2024 04:56:26 GMT	    91.0	    79.1	  53417859	     0.0%	0
+--unseen-by-du--                            		156.1		 48.1%				Mon 29 Jul 2024 04:56:26 GMT	     0.0	     0.0	  39379415	     0.0%
+METEO                                       		 51.0		 15.7%				Mon 29 Jul 2024 01:06:14 GMT	    48.1	    44.7	   4103692	     0.0%
+Lei.Hu                                      		 25.7		  7.9%				Mon 29 Jul 2024 03:40:14 GMT	    22.6	    18.1	   2967458	     0.0%
+dmunro                                      		  3.9		  1.2%				Mon 29 Jul 2024 04:34:45 GMT	     3.8	     0.2	   2321691	     0.0%
+sbasu                                       		  3.9		  1.2%				Mon 29 Jul 2024 02:46:41 GMT	     3.9	     3.9	    652444	     0.0%
+REGINV_python                               		  3.0		  0.9%				Mon 29 Jul 2024 04:37:14 GMT	     3.0	     3.0	     91118	     0.0%
+mtrudeau                                    		  2.8		  0.8%				Mon 29 Jul 2024 01:52:15 GMT	     2.8	     2.8	    400286	     0.0%
+footprint                                   		  2.6		  0.8%				Mon 29 Jul 2024 04:56:26 GMT	     2.5	     2.1	   1059776	     0.0%
+GFED-CASA                                   		  1.8		  0.6%				Mon 29 Jul 2024 00:23:37 GMT	     1.8	     1.8	    764731	     0.0%
+input_MOVED_ASIDE                           		  1.7		  0.5%				Mon 29 Jul 2024 01:34:36 GMT	     1.7	     1.7	   1086063	     0.0%
+youmioh                                     		  0.6		  0.2%				Mon 29 Jul 2024 01:10:36 GMT	     0.6	     0.5	    256746	     0.0%
+carbontracker_releases                      		  0.1		  0.0%				Mon 29 Jul 2024 02:46:48 GMT	     0.1	     0.1	     13415	     0.0%
+aschuh                                      		  0.1		  0.0%				Mon 29 Jul 2024 01:56:45 GMT	     0.1	     0.1	     65302	     0.0%
+hsuto                                       		  0.1		  0.0%				Mon 29 Jul 2024 00:15:57 GMT	     0.1	     0.1	     13501	     0.0%
+dengf                                       		  0.0		  0.0%				Mon 29 Jul 2024 00:15:21 GMT	     0.0	     0.0	       974	     0.0%
+miniconda3                                  		  0.0		  0.0%				Mon 29 Jul 2024 01:41:19 GMT	     0.0	     0.0	    174324	     0.0%
+tools                                       		  0.0		  0.0%				Mon 29 Jul 2024 00:15:19 GMT	     0.0	     0.0	      4021	     0.0%
+Sourish.Basu                                		  0.0		  0.0%				Mon 29 Jul 2024 01:07:21 GMT	     0.0	     0.0	     34125	     0.0%
+lib                                         		  0.0		  0.0%				Mon 29 Jul 2024 04:35:58 GMT	     0.0	     0.0	     28096	     0.0%
+model_output                                		  0.0		  0.0%				Mon 29 Jul 2024 04:34:45 GMT	     0.0	     0.0	       270	     0.0%
+bin                                         		  0.0		  0.0%				Mon 29 Jul 2024 00:15:21 GMT	     0.0	     0.0	       290	     0.0%
+packages                                    		  0.0		  0.0%				Mon 29 Jul 2024 00:15:21 GMT	     0.0	     0.0	        23	     0.0%
+share                                       		  0.0		  0.0%				Mon 29 Jul 2024 01:56:45 GMT	     0.0	     0.0	        22	     0.0%
+lbruhwil                                    		  0.0		  0.0%				Mon 29 Jul 2024 04:34:45 GMT	     0.0	     0.0	        48	     0.0%
+include                                     		  0.0		  0.0%				Mon 29 Jul 2024 01:41:19 GMT	     0.0	     0.0	         2	     0.0%
+input                                       		  0.0		  0.0%				Mon 29 Jul 2024 00:15:21 GMT	     0.0	     0.0	         6	     0.0%
+bharat                                      		  0.0		  0.0%				Mon 29 Jul 2024 01:07:21 GMT	     0.0	     0.0	         2	     0.0%
+dush.eo.10Aug21                             		  0.0		  0.0%				Mon 29 Jul 2024 03:40:14 GMT	     0.0	     0.0	         1	     0.0%
+dush.eo.13Feb21                             		  0.0		  0.0%				Mon 29 Jul 2024 00:15:19 GMT	     0.0	     0.0	         1	     0.0%
+pkg.yml                                     		  0.0		  0.0%				Mon 29 Jul 2024 01:34:36 GMT	     0.0	     0.0	         1	     0.0%
+conda_pkg_list.yml                          		  0.0		  0.0%				Mon 29 Jul 2024 04:34:45 GMT	     0.0	     0.0	         1	     0.0%
+py27.yml                                    		  0.0		  0.0%				Mon 29 Jul 2024 01:07:21 GMT	     0.0	     0.0	         1	     0.0%
+dush.eo.12Aug2021                           		  0.0		  0.0%				Mon 29 Jul 2024 03:40:14 GMT	     0.0	     0.0	         1	     0.0%
+dask.yml                                    		  0.0		  0.0%				Mon 29 Jul 2024 01:56:45 GMT	     0.0	     0.0	         1	     0.0%
+kschuldt.dush.eo.13Aug2021                  		  0.0		  0.0%				Mon 29 Jul 2024 02:46:48 GMT	     0.0	     0.0	         1	     0.0%
+dush-x.11Aug2021                            		  0.0		  0.0%				Mon 29 Jul 2024 04:34:45 GMT	     0.0	     0.0	         1	     0.0%
+mtrudeau.recent.files                       		  0.0		  0.0%				Mon 29 Jul 2024 00:15:21 GMT	     0.0	     0.0	         1	     0.0%
+co2                                         		  0.0		  0.0%				Mon 29 Jul 2024 00:15:57 GMT	     0.0	     0.0	         1	     0.0%
+GFED-CASA.dush.eu                           		  0.0		  0.0%				Mon 29 Jul 2024 03:40:14 GMT	     0.0	     0.0	         1	     0.0%
+mtrudeau.du.out                             		  0.0		  0.0%				Mon 29 Jul 2024 01:07:21 GMT	     0.0	     0.0	         1	     0.0%
+mtrudeau.dush.eu                            		  0.0		  0.0%				Mon 29 Jul 2024 03:40:14 GMT	     0.0	     0.0	         1	     0.0%
+sibarrae.dush.eu                            		  0.0		  0.0%				Mon 29 Jul 2024 04:37:14 GMT	     0.0	     0.0	         1	     0.0%
+python.dush.eu                              		  0.0		  0.0%				Mon 29 Jul 2024 01:52:15 GMT	     0.0	     0.0	         1	     0.0%
+kaushik.dush.eu                             		  0.0		  0.0%				Mon 29 Jul 2024 01:56:45 GMT	     0.0	     0.0	         1	     0.0%
+andy.dush.eu                                		  0.0		  0.0%				Mon 29 Jul 2024 04:34:45 GMT	     0.0	     0.0	         1	     0.0%
 nislam                                      		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 john                                        		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 kschuldt                                    		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
@@ -73,302 +73,302 @@ benyoung                                    		  0.0		  0.0%				Wed 31 Dec 1969 2
 sibarrae                                    		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 kaushik                                     		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 
-/work/noaa/comgsi                           		  2.1		  7.6%		 27.8		Fri 26 Jul 2024 00:28:52 GMT	     2.1	     2.1	    299114	     0.0%	0
-cctong                                      		  1.8		  6.5%				Fri 26 Jul 2024 00:28:01 GMT	     1.8	     1.8	     57148	     0.0%
-tsupinie                                    		  0.2		  0.9%				Fri 26 Jul 2024 00:28:25 GMT	     0.2	     0.2	     27072	     0.0%
-will                                        		  0.1		  0.2%				Fri 26 Jul 2024 00:24:16 GMT	     0.1	     0.1	     89468	     0.0%
-mhu                                         		  0.0		  0.0%				Fri 26 Jul 2024 00:28:52 GMT	     0.0	     0.0	     14739	     0.0%
-gge                                         		  0.0		  0.0%				Fri 26 Jul 2024 00:28:37 GMT	     0.0	     0.0	     18516	     0.0%
-anaconda3                                   		  0.0		  0.0%				Fri 26 Jul 2024 00:26:20 GMT	     0.0	     0.0	     95736	     0.0%
-Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Fri 26 Jul 2024 00:24:16 GMT	     0.0	     0.0	         1	     0.0%
-MPMC                                        		  0.0		  0.0%				Fri 26 Jul 2024 00:28:37 GMT	     0.0	     0.0	         2	     0.0%
-modulefiles                                 		  0.0		  0.0%				Fri 26 Jul 2024 00:28:37 GMT	     0.0	     0.0	         1	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 00:28:52 GMT	     0.0	     0.0	         0	     0.0%
+/work/noaa/comgsi                           		  2.1		  7.6%		 27.8		Mon 29 Jul 2024 00:18:48 GMT	     2.1	     2.1	    299114	     0.0%	0
+cctong                                      		  1.8		  6.5%				Mon 29 Jul 2024 00:18:01 GMT	     1.8	     1.8	     57148	     0.0%
+tsupinie                                    		  0.2		  0.9%				Mon 29 Jul 2024 00:18:17 GMT	     0.2	     0.2	     27072	     0.0%
+will                                        		  0.1		  0.2%				Mon 29 Jul 2024 00:16:02 GMT	     0.1	     0.1	     89468	     0.0%
+mhu                                         		  0.0		  0.0%				Mon 29 Jul 2024 00:18:48 GMT	     0.0	     0.0	     14739	     0.0%
+gge                                         		  0.0		  0.0%				Mon 29 Jul 2024 00:18:36 GMT	     0.0	     0.0	     18516	     0.0%
+anaconda3                                   		  0.0		  0.0%				Mon 29 Jul 2024 00:16:56 GMT	     0.0	     0.0	     95736	     0.0%
+Anaconda3-2020.07-Linux-x86_64.sh           		  0.0		  0.0%				Mon 29 Jul 2024 00:16:02 GMT	     0.0	     0.0	         1	     0.0%
+MPMC                                        		  0.0		  0.0%				Mon 29 Jul 2024 00:18:36 GMT	     0.0	     0.0	         2	     0.0%
+modulefiles                                 		  0.0		  0.0%				Mon 29 Jul 2024 00:18:36 GMT	     0.0	     0.0	         1	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 00:18:48 GMT	     0.0	     0.0	         0	     0.0%
 
-/work/noaa/dtc-hwrf                         		 37.2		 97.8%		 38.0		Fri 26 Jul 2024 01:45:36 GMT	    34.0	    33.7	   2881403	     0.0%	0
-scrub-mbiswas                               		 19.5		 51.4%				Fri 26 Jul 2024 01:35:05 GMT	    15.8	    15.8	    332953	     0.0%
-noscrub                                     		  7.4		 19.6%				Fri 26 Jul 2024 00:32:18 GMT	     7.4	     7.4	      1654	     0.0%
-scrub                                       		  4.4		 11.5%				Fri 26 Jul 2024 01:36:42 GMT	     4.4	     4.4	     14835	     0.0%
-mbiswas                                     		  3.6		  9.5%				Fri 26 Jul 2024 00:39:08 GMT	     3.6	     3.3	    596333	     0.0%
-scrub_mbiswas                               		  0.9		  2.4%				Fri 26 Jul 2024 00:39:22 GMT	     0.9	     0.9	     30743	     0.0%
-scrub-scrub                                 		  0.8		  2.1%				Fri 26 Jul 2024 00:32:06 GMT	     0.8	     0.8	     23869	     0.0%
-sbao                                        		  0.4		  1.1%				Fri 26 Jul 2024 01:45:36 GMT	     0.4	     0.4	    385976	     0.0%
-save                                        		  0.3		  0.9%				Fri 26 Jul 2024 01:28:35 GMT	     0.3	     0.3	   1316299	     0.0%
-lpan                                        		  0.3		  0.8%				Fri 26 Jul 2024 00:42:44 GMT	     0.3	     0.3	    168174	     0.0%
-ekalina                                     		  0.0		  0.0%				Fri 26 Jul 2024 00:39:08 GMT	     0.0	     0.0	        48	     0.0%
-feature_hafs_thompson_workflow.tar          		  0.0		  0.0%				Fri 26 Jul 2024 01:45:36 GMT	     0.0	     0.0	         1	     0.0%
-hafs_build_script                           		  0.0		  0.0%				Fri 26 Jul 2024 00:39:22 GMT	     0.0	     0.0	         2	     0.0%
-jfrimel                                     		  0.0		  0.0%				Fri 26 Jul 2024 01:45:36 GMT	     0.0	     0.0	         2	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 01:45:36 GMT	     0.0	     0.0	     10514	     0.0%
+/work/noaa/dtc-hwrf                         		 37.2		 97.8%		 38.0		Mon 29 Jul 2024 01:30:58 GMT	    34.0	    33.7	   2881403	     0.0%	0
+scrub-mbiswas                               		 19.5		 51.4%				Mon 29 Jul 2024 01:21:48 GMT	    15.8	    15.8	    332953	     0.0%
+noscrub                                     		  7.4		 19.6%				Mon 29 Jul 2024 00:31:35 GMT	     7.4	     7.4	      1654	     0.0%
+scrub                                       		  4.4		 11.5%				Mon 29 Jul 2024 01:23:12 GMT	     4.4	     4.4	     14835	     0.0%
+mbiswas                                     		  3.6		  9.5%				Mon 29 Jul 2024 00:41:26 GMT	     3.6	     3.3	    596333	     0.0%
+scrub_mbiswas                               		  0.9		  2.4%				Mon 29 Jul 2024 00:41:51 GMT	     0.9	     0.9	     30743	     0.0%
+scrub-scrub                                 		  0.8		  2.1%				Mon 29 Jul 2024 00:31:18 GMT	     0.8	     0.8	     23869	     0.0%
+sbao                                        		  0.4		  1.1%				Mon 29 Jul 2024 01:30:58 GMT	     0.4	     0.4	    385976	     0.0%
+save                                        		  0.3		  0.9%				Mon 29 Jul 2024 01:13:58 GMT	     0.3	     0.3	   1316299	     0.0%
+lpan                                        		  0.3		  0.8%				Mon 29 Jul 2024 00:49:11 GMT	     0.3	     0.3	    168174	     0.0%
+ekalina                                     		  0.0		  0.0%				Mon 29 Jul 2024 00:41:26 GMT	     0.0	     0.0	        48	     0.0%
+feature_hafs_thompson_workflow.tar          		  0.0		  0.0%				Mon 29 Jul 2024 01:30:58 GMT	     0.0	     0.0	         1	     0.0%
+hafs_build_script                           		  0.0		  0.0%				Mon 29 Jul 2024 00:41:51 GMT	     0.0	     0.0	         2	     0.0%
+jfrimel                                     		  0.0		  0.0%				Mon 29 Jul 2024 01:30:58 GMT	     0.0	     0.0	         2	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 01:30:58 GMT	     0.0	     0.0	     10514	     0.0%
 
-/work/noaa/gmtb                             		  6.9		 30.0%		 23.2		Fri 26 Jul 2024 02:46:49 GMT	     2.1	     2.1	  18770266	     0.0%	0
-xiasun                                      		  4.8		 20.8%				Fri 26 Jul 2024 02:46:36 GMT	     0.1	     0.1	  17981367	     0.0%
-lcarson                                     		  0.7		  3.2%				Fri 26 Jul 2024 02:46:47 GMT	     0.7	     0.7	     13270	     0.0%
-lpan                                        		  0.6		  2.8%				Fri 26 Jul 2024 00:33:27 GMT	     0.6	     0.6	    448162	     0.0%
-P7_JessicaP                                 		  0.4		  1.9%				Fri 26 Jul 2024 00:33:36 GMT	     0.4	     0.4	     13889	     0.0%
-manzhang                                    		  0.2		  0.8%				Fri 26 Jul 2024 00:36:19 GMT	     0.2	     0.2	    172021	     0.0%
---unseen-by-du--                            		  0.0		  0.2%				Fri 26 Jul 2024 02:46:49 GMT	     0.0	     0.0	         0	     0.0%
-jedwards                                    		  0.0		  0.2%				Fri 26 Jul 2024 00:37:55 GMT	     0.0	     0.0	    122802	     0.0%
-tufuk                                       		  0.0		  0.1%				Fri 26 Jul 2024 00:33:47 GMT	     0.0	     0.0	     15128	     0.0%
-noscrub                                     		  0.0		  0.0%				Fri 26 Jul 2024 00:33:47 GMT	     0.0	     0.0	         6	     0.0%
-mharrold                                    		  0.0		  0.0%				Fri 26 Jul 2024 02:46:37 GMT	     0.0	     0.0	       472	     0.0%
-jessicap.tar                                		  0.0		  0.0%				Fri 26 Jul 2024 00:33:48 GMT	     0.0	     0.0	         1	     0.0%
-jessicap                                    		  0.0		  0.0%				Fri 26 Jul 2024 00:33:47 GMT	     0.0	     0.0	       100	     0.0%
-knewman                                     		  0.0		  0.0%				Fri 26 Jul 2024 00:33:48 GMT	     0.0	     0.0	      1358	     0.0%
-dheinzel                                    		  0.0		  0.0%				Fri 26 Jul 2024 02:46:49 GMT	     0.0	     0.0	      1702	     0.0%
-scrub                                       		  0.0		  0.0%				Fri 26 Jul 2024 00:31:49 GMT	     0.0	     0.0	         2	     0.0%
+/work/noaa/gmtb                             		  6.9		 30.0%		 23.2		Mon 29 Jul 2024 04:03:54 GMT	     2.1	     2.1	  18770266	     0.0%	0
+xiasun                                      		  4.8		 20.8%				Mon 29 Jul 2024 04:03:43 GMT	     0.1	     0.1	  17981367	     0.0%
+lcarson                                     		  0.7		  3.2%				Mon 29 Jul 2024 04:03:52 GMT	     0.7	     0.7	     13270	     0.0%
+lpan                                        		  0.6		  2.8%				Mon 29 Jul 2024 00:33:15 GMT	     0.6	     0.6	    448162	     0.0%
+P7_JessicaP                                 		  0.4		  1.9%				Mon 29 Jul 2024 00:33:27 GMT	     0.4	     0.4	     13889	     0.0%
+manzhang                                    		  0.2		  0.8%				Mon 29 Jul 2024 00:36:09 GMT	     0.2	     0.2	    172021	     0.0%
+--unseen-by-du--                            		  0.0		  0.2%				Mon 29 Jul 2024 04:03:54 GMT	     0.0	     0.0	         0	     0.0%
+jedwards                                    		  0.0		  0.2%				Mon 29 Jul 2024 00:37:30 GMT	     0.0	     0.0	    122802	     0.0%
+tufuk                                       		  0.0		  0.1%				Mon 29 Jul 2024 00:33:33 GMT	     0.0	     0.0	     15128	     0.0%
+noscrub                                     		  0.0		  0.0%				Mon 29 Jul 2024 00:33:33 GMT	     0.0	     0.0	         6	     0.0%
+mharrold                                    		  0.0		  0.0%				Mon 29 Jul 2024 04:03:44 GMT	     0.0	     0.0	       472	     0.0%
+jessicap.tar                                		  0.0		  0.0%				Mon 29 Jul 2024 00:33:34 GMT	     0.0	     0.0	         1	     0.0%
+jessicap                                    		  0.0		  0.0%				Mon 29 Jul 2024 00:33:33 GMT	     0.0	     0.0	       100	     0.0%
+knewman                                     		  0.0		  0.0%				Mon 29 Jul 2024 00:33:34 GMT	     0.0	     0.0	      1358	     0.0%
+dheinzel                                    		  0.0		  0.0%				Mon 29 Jul 2024 04:03:54 GMT	     0.0	     0.0	      1702	     0.0%
+scrub                                       		  0.0		  0.0%				Mon 29 Jul 2024 00:30:04 GMT	     0.0	     0.0	         2	     0.0%
 
-/work/noaa/gsd-fv3                          		  0.0		  3.9%		  0.9		Fri 26 Jul 2024 00:34:24 GMT	     0.0	     0.0	    107325	     0.0%	0
-Shan.Sun                                    		  0.0		  3.2%				Fri 26 Jul 2024 00:34:06 GMT	     0.0	     0.0	     66024	     0.0%
-jhenders                                    		  0.0		  0.6%				Fri 26 Jul 2024 00:34:24 GMT	     0.0	     0.0	     41295	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 00:34:24 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/gsd-fv3                          		  0.0		  3.9%		  0.9		Mon 29 Jul 2024 00:32:28 GMT	     0.0	     0.0	    107325	     0.0%	0
+Shan.Sun                                    		  0.0		  3.2%				Mon 29 Jul 2024 00:31:56 GMT	     0.0	     0.0	     66024	     0.0%
+jhenders                                    		  0.0		  0.6%				Mon 29 Jul 2024 00:32:28 GMT	     0.0	     0.0	     41295	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 00:32:28 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/gsd-fv3-dev                      		 63.0		 84.9%		 74.2		Fri 26 Jul 2024 02:57:39 GMT	    60.2	    58.6	   8353887	     0.0%	0
-pagowski                                    		 47.5		 64.0%				Fri 26 Jul 2024 01:31:32 GMT	    47.5	    47.5	  10228600	     0.0%
-swei                                        		  6.6		  8.8%				Fri 26 Jul 2024 02:57:39 GMT	     6.6	     6.6	   1450856	     0.0%
-bhuang                                      		  5.5		  7.4%				Fri 26 Jul 2024 02:12:40 GMT	     2.9	     1.3	   1023549	     0.0%
-gsketefia                                   		  2.6		  3.5%				Fri 26 Jul 2024 00:37:03 GMT	     2.6	     2.6	    324262	     0.0%
-beck                                        		  0.3		  0.4%				Fri 26 Jul 2024 00:37:30 GMT	     0.3	     0.3	     27083	     0.0%
-slu                                         		  0.3		  0.4%				Fri 26 Jul 2024 01:34:24 GMT	     0.3	     0.3	     83946	     0.0%
---unseen-by-du--                            		  0.2		  0.3%				Fri 26 Jul 2024 02:57:39 GMT	     0.0	     0.0	         0	     0.0%
-lzhang                                      		  0.1		  0.1%				Fri 26 Jul 2024 00:37:20 GMT	     0.0	     0.0	     16109	     0.0%
-ssun                                        		  0.0		  0.0%				Fri 26 Jul 2024 01:33:16 GMT	     0.0	     0.0	    262332	     0.0%
-bgreen                                      		  0.0		  0.0%				Fri 26 Jul 2024 02:12:40 GMT	     0.0	     0.0	        20	     0.0%
-UFS_SRW_App                                 		  0.0		  0.0%				Fri 26 Jul 2024 00:31:49 GMT	     0.0	     0.0	      1204	     0.0%
-kayee                                       		  0.0		  0.0%				Fri 26 Jul 2024 00:37:20 GMT	     0.0	     0.0	         2	     0.0%
-lpan                                        		  0.0		  0.0%				Fri 26 Jul 2024 00:37:03 GMT	     0.0	     0.0	         2	     0.0%
-eflicker                                    		  0.0		  0.0%				Fri 26 Jul 2024 01:33:16 GMT	     0.0	     0.0	         1	     0.0%
-model_data                                  		  0.0		  0.0%				Fri 26 Jul 2024 01:33:16 GMT	     0.0	     0.0	         1	     0.0%
-skhani                                      		  0.0		  0.0%				Fri 26 Jul 2024 01:33:16 GMT	     0.0	     0.0	         1	     0.0%
-jwolff                                      		  0.0		  0.0%				Fri 26 Jul 2024 01:34:24 GMT	     0.0	     0.0	         1	     0.0%
-mpagowsk                                    		  0.0		  0.0%				Fri 26 Jul 2024 00:37:20 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/gsd-fv3-dev                      		 63.8		 85.9%		 74.2		Mon 29 Jul 2024 03:54:04 GMT	    60.2	    58.6	   8285863	     0.0%	0
+pagowski                                    		 47.5		 64.0%				Mon 29 Jul 2024 02:41:42 GMT	    47.5	    47.5	  10228600	     0.0%
+swei                                        		  6.6		  8.8%				Mon 29 Jul 2024 03:54:04 GMT	     6.6	     6.6	   1450856	     0.0%
+bhuang                                      		  6.4		  8.7%				Mon 29 Jul 2024 03:18:14 GMT	     2.9	     1.3	   1094789	     0.0%
+gsketefia                                   		  2.6		  3.5%				Mon 29 Jul 2024 00:34:47 GMT	     2.6	     2.6	    324262	     0.0%
+beck                                        		  0.3		  0.4%				Mon 29 Jul 2024 00:35:34 GMT	     0.3	     0.3	     27083	     0.0%
+slu                                         		  0.3		  0.4%				Mon 29 Jul 2024 02:44:19 GMT	     0.3	     0.3	     83946	     0.0%
+lzhang                                      		  0.1		  0.1%				Mon 29 Jul 2024 00:35:10 GMT	     0.0	     0.0	     16109	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:54:04 GMT	     0.0	     0.0	         0	     0.0%
+ssun                                        		  0.0		  0.0%				Mon 29 Jul 2024 02:43:19 GMT	     0.0	     0.0	    262332	     0.0%
+bgreen                                      		  0.0		  0.0%				Mon 29 Jul 2024 03:18:14 GMT	     0.0	     0.0	        20	     0.0%
+UFS_SRW_App                                 		  0.0		  0.0%				Mon 29 Jul 2024 00:30:05 GMT	     0.0	     0.0	      1204	     0.0%
+kayee                                       		  0.0		  0.0%				Mon 29 Jul 2024 00:35:10 GMT	     0.0	     0.0	         2	     0.0%
+lpan                                        		  0.0		  0.0%				Mon 29 Jul 2024 00:34:47 GMT	     0.0	     0.0	         2	     0.0%
+eflicker                                    		  0.0		  0.0%				Mon 29 Jul 2024 02:43:19 GMT	     0.0	     0.0	         1	     0.0%
+model_data                                  		  0.0		  0.0%				Mon 29 Jul 2024 02:43:19 GMT	     0.0	     0.0	         1	     0.0%
+skhani                                      		  0.0		  0.0%				Mon 29 Jul 2024 02:43:19 GMT	     0.0	     0.0	         1	     0.0%
+jwolff                                      		  0.0		  0.0%				Mon 29 Jul 2024 02:44:19 GMT	     0.0	     0.0	         1	     0.0%
+mpagowsk                                    		  0.0		  0.0%				Mon 29 Jul 2024 00:35:10 GMT	     0.0	     0.0	         1	     0.0%
 
-/work/noaa/gsd-fv3-test                     		  1.3		 69.1%		  1.9		Fri 26 Jul 2024 03:12:25 GMT	     1.1	     0.8	  12033631	     0.0%	0
-kavulich                                    		  1.0		 53.4%				Fri 26 Jul 2024 03:12:25 GMT	     0.8	     0.6	  12033623	     0.0%
-input_model_data.tar                        		  0.2		 11.7%				Fri 26 Jul 2024 03:12:25 GMT	     0.2	     0.2	         1	     0.0%
-fix.tar                                     		  0.1		  2.8%				Fri 26 Jul 2024 03:12:25 GMT	     0.1	     0.1	         1	     0.0%
---unseen-by-du--                            		  0.0		  1.3%				Fri 26 Jul 2024 03:12:25 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/gsd-fv3-test                     		  1.3		 69.7%		  1.9		Mon 29 Jul 2024 03:25:47 GMT	     1.1	     0.8	  12304861	     0.0%	0
+kavulich                                    		  1.0		 53.9%				Mon 29 Jul 2024 03:25:46 GMT	     0.8	     0.6	  12304853	     0.0%
+input_model_data.tar                        		  0.2		 11.7%				Mon 29 Jul 2024 03:25:46 GMT	     0.2	     0.2	         1	     0.0%
+fix.tar                                     		  0.1		  2.8%				Mon 29 Jul 2024 03:25:47 GMT	     0.1	     0.1	         1	     0.0%
+--unseen-by-du--                            		  0.0		  1.3%				Mon 29 Jul 2024 03:25:47 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/gsd-hpcs                         		  7.0		 62.7%		 11.1		Fri 26 Jul 2024 03:24:59 GMT	     6.9	     6.8	   4941879	     0.0%	0
-ssun                                        		  4.6		 41.1%				Fri 26 Jul 2024 03:22:01 GMT	     4.6	     4.6	     57765	     0.0%
-govett                                      		  0.9		  7.7%				Fri 26 Jul 2024 03:23:09 GMT	     0.9	     0.9	     31001	     0.0%
-drosenbe                                    		  0.4		  3.8%				Fri 26 Jul 2024 03:24:09 GMT	     0.4	     0.4	     85133	     0.0%
-charrop                                     		  0.3		  2.6%				Fri 26 Jul 2024 03:14:58 GMT	     0.2	     0.1	   3401366	     0.0%
-Daniel.Abdi                                 		  0.2		  2.2%				Fri 26 Jul 2024 03:20:59 GMT	     0.2	     0.2	     51436	     0.0%
-dheinzel                                    		  0.2		  2.2%				Fri 26 Jul 2024 03:23:29 GMT	     0.2	     0.2	     30005	     0.0%
-SENA                                        		  0.2		  1.4%				Fri 26 Jul 2024 03:24:59 GMT	     0.2	     0.2	     42079	     0.0%
-bflynt                                      		  0.1		  0.7%				Fri 26 Jul 2024 03:19:33 GMT	     0.1	     0.1	     18052	     0.0%
-modman                                      		  0.0		  0.3%				Fri 26 Jul 2024 02:25:14 GMT	     0.0	     0.0	    571561	     0.0%
-modman_hercules                             		  0.0		  0.2%				Fri 26 Jul 2024 03:22:47 GMT	     0.0	     0.0	     89169	     0.0%
-nbharwani                                   		  0.0		  0.2%				Fri 26 Jul 2024 02:29:26 GMT	     0.0	     0.0	    110426	     0.0%
-modman_orion                                		  0.0		  0.1%				Fri 26 Jul 2024 03:18:54 GMT	     0.0	     0.0	    450636	     0.0%
---unseen-by-du--                            		  0.0		  0.1%				Fri 26 Jul 2024 03:24:59 GMT	     0.0	     0.0	       863	     0.0%
-jacques                                     		  0.0		  0.0%				Fri 26 Jul 2024 03:24:09 GMT	     0.0	     0.0	       751	     0.0%
-rgonzalezpita                               		  0.0		  0.0%				Fri 26 Jul 2024 03:22:03 GMT	     0.0	     0.0	      1636	     0.0%
+/work/noaa/gsd-hpcs                         		  7.0		 62.7%		 11.1		Mon 29 Jul 2024 02:38:56 GMT	     6.9	     6.8	   4941879	     0.0%	0
+ssun                                        		  4.6		 41.1%				Mon 29 Jul 2024 02:36:15 GMT	     4.6	     4.6	     57765	     0.0%
+govett                                      		  0.9		  7.7%				Mon 29 Jul 2024 02:37:24 GMT	     0.9	     0.9	     31001	     0.0%
+drosenbe                                    		  0.4		  3.8%				Mon 29 Jul 2024 02:38:04 GMT	     0.4	     0.4	     85133	     0.0%
+charrop                                     		  0.3		  2.6%				Mon 29 Jul 2024 02:29:04 GMT	     0.2	     0.1	   3401366	     0.0%
+Daniel.Abdi                                 		  0.2		  2.2%				Mon 29 Jul 2024 02:35:04 GMT	     0.2	     0.2	     51436	     0.0%
+dheinzel                                    		  0.2		  2.2%				Mon 29 Jul 2024 02:37:35 GMT	     0.2	     0.2	     30005	     0.0%
+SENA                                        		  0.2		  1.4%				Mon 29 Jul 2024 02:38:56 GMT	     0.2	     0.2	     42079	     0.0%
+bflynt                                      		  0.1		  0.7%				Mon 29 Jul 2024 02:34:08 GMT	     0.1	     0.1	     18052	     0.0%
+modman                                      		  0.0		  0.3%				Mon 29 Jul 2024 01:51:35 GMT	     0.0	     0.0	    571561	     0.0%
+modman_hercules                             		  0.0		  0.2%				Mon 29 Jul 2024 02:37:14 GMT	     0.0	     0.0	     89169	     0.0%
+nbharwani                                   		  0.0		  0.2%				Mon 29 Jul 2024 01:52:32 GMT	     0.0	     0.0	    110426	     0.0%
+modman_orion                                		  0.0		  0.1%				Mon 29 Jul 2024 02:33:42 GMT	     0.0	     0.0	    450636	     0.0%
+--unseen-by-du--                            		  0.0		  0.1%				Mon 29 Jul 2024 02:38:56 GMT	     0.0	     0.0	       863	     0.0%
+jacques                                     		  0.0		  0.0%				Mon 29 Jul 2024 02:38:05 GMT	     0.0	     0.0	       751	     0.0%
+rgonzalezpita                               		  0.0		  0.0%				Mon 29 Jul 2024 02:36:16 GMT	     0.0	     0.0	      1636	     0.0%
 
-/work/noaa/hmtb                             		  0.0		  2.0%		  0.9		Fri 26 Jul 2024 03:01:16 GMT	     0.0	     0.0	     22769	     0.0%	0
-beck                                        		  0.0		  2.0%				Fri 26 Jul 2024 03:01:16 GMT	     0.0	     0.0	     22763	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:01:16 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/hmtb                             		  0.0		  2.0%		  0.9		Mon 29 Jul 2024 02:45:26 GMT	     0.0	     0.0	     22769	     0.0%	0
+beck                                        		  0.0		  2.0%				Mon 29 Jul 2024 02:45:26 GMT	     0.0	     0.0	     22763	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 02:45:26 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/noaa-det                         		 27.0		 72.8%		 37.1		Fri 26 Jul 2024 03:10:07 GMT	    27.0	    27.0	    535176	     0.0%	0
-lpan                                        		 19.8		 53.3%				Fri 26 Jul 2024 03:10:07 GMT	    19.8	    19.8	    321936	     0.0%
-kavulich                                    		  7.0		 18.9%				Fri 26 Jul 2024 03:02:17 GMT	     7.0	     7.0	    171197	     0.0%
-mayfield                                    		  0.2		  0.6%				Fri 26 Jul 2024 03:00:12 GMT	     0.2	     0.2	      2044	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:10:07 GMT	     0.0	     0.0	     39999	     0.0%
+/work/noaa/noaa-det                         		 27.0		 72.8%		 37.1		Mon 29 Jul 2024 03:07:04 GMT	    27.0	    27.0	    535176	     0.0%	0
+lpan                                        		 19.8		 53.3%				Mon 29 Jul 2024 03:07:04 GMT	    19.8	    19.8	    321936	     0.0%
+kavulich                                    		  7.0		 18.9%				Mon 29 Jul 2024 03:01:39 GMT	     7.0	     7.0	    171197	     0.0%
+mayfield                                    		  0.2		  0.6%				Mon 29 Jul 2024 03:00:09 GMT	     0.2	     0.2	      2044	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:07:04 GMT	     0.0	     0.0	     39999	     0.0%
 
-/work/noaa/qosap                            		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	        10	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         6	     0.0%
-jhossen                                     		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
-sditchek                                    		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
-bjohnst                                     		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
-akren                                       		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/qosap                            		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	        10	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	         6	     0.0%
+jhossen                                     		  0.0		  0.0%				Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
+sditchek                                    		  0.0		  0.0%				Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
+bjohnst                                     		  0.0		  0.0%				Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
+akren                                       		  0.0		  0.0%				Mon 29 Jul 2024 03:15:03 GMT	     0.0	     0.0	         1	     0.0%
 
-/work/noaa/rtrr                             		  0.6		 67.3%		  0.9		Fri 26 Jul 2024 03:15:52 GMT	     0.3	     0.3	     99375	     0.0%	0
-FIX_RRFS                                    		  0.3		 30.7%				Fri 26 Jul 2024 03:15:14 GMT	     0.3	     0.2	      4572	     0.0%
-RDAS_DATA                                   		  0.2		 19.5%				Fri 26 Jul 2024 03:15:10 GMT	     0.0	     0.0	     10270	     0.0%
-FIX_RRFS2                                   		  0.1		 15.9%				Fri 26 Jul 2024 03:15:52 GMT	     0.0	     0.0	       724	     0.0%
-gge                                         		  0.0		  2.9%				Fri 26 Jul 2024 03:15:51 GMT	     0.0	     0.0	     86477	     0.0%
-mhu                                         		  0.0		  0.0%				Fri 26 Jul 2024 03:15:51 GMT	     0.0	     0.0	         2	     0.0%
-rli                                         		  0.0		  0.0%				Fri 26 Jul 2024 03:15:52 GMT	     0.0	     0.0	         1	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:15:52 GMT	     0.0	     0.0	         0	     0.0%
+/work/noaa/rtrr                             		  0.6		 67.3%		  0.9		Mon 29 Jul 2024 03:30:47 GMT	     0.3	     0.3	     99375	     0.0%	0
+FIX_RRFS                                    		  0.3		 30.7%				Mon 29 Jul 2024 03:30:09 GMT	     0.3	     0.2	      4572	     0.0%
+RDAS_DATA                                   		  0.2		 19.5%				Mon 29 Jul 2024 03:30:07 GMT	     0.0	     0.0	     10270	     0.0%
+FIX_RRFS2                                   		  0.1		 15.9%				Mon 29 Jul 2024 03:30:47 GMT	     0.0	     0.0	       724	     0.0%
+gge                                         		  0.0		  2.9%				Mon 29 Jul 2024 03:30:47 GMT	     0.0	     0.0	     86477	     0.0%
+mhu                                         		  0.0		  0.0%				Mon 29 Jul 2024 03:30:47 GMT	     0.0	     0.0	         2	     0.0%
+rli                                         		  0.0		  0.0%				Mon 29 Jul 2024 03:30:47 GMT	     0.0	     0.0	         1	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:30:47 GMT	     0.0	     0.0	         0	     0.0%
 
-/work/noaa/rtruc                            		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:15:03 GMT	     0.0	     0.0	         6	     0.0%
+/work/noaa/rtruc                            		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 03:30:04 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:30:04 GMT	     0.0	     0.0	         6	     0.0%
 
-/work/noaa/ufs-phys                         		 18.3		 98.7%		 18.6		Fri 26 Jul 2024 03:40:41 GMT	    18.3	    18.3	    227896	     0.0%	0
-manzhang                                    		 17.9		 96.3%				Fri 26 Jul 2024 03:40:41 GMT	    17.9	    17.9	    113052	     0.0%
-LASSO-uniphy                                		  0.3		  1.6%				Fri 26 Jul 2024 03:31:59 GMT	     0.3	     0.3	      1079	     0.0%
-knewman                                     		  0.1		  0.5%				Fri 26 Jul 2024 03:36:43 GMT	     0.1	     0.1	     55849	     0.0%
-ekalina                                     		  0.0		  0.1%				Fri 26 Jul 2024 03:32:39 GMT	     0.0	     0.0	      9802	     0.0%
-bnelson                                     		  0.0		  0.0%				Fri 26 Jul 2024 03:31:27 GMT	     0.0	     0.0	     18039	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:40:41 GMT	     0.0	     0.0	      5119	     0.0%
-gsketefia                                   		  0.0		  0.0%				Fri 26 Jul 2024 03:31:58 GMT	     0.0	     0.0	       779	     0.0%
-lpan                                        		  0.0		  0.0%				Fri 26 Jul 2024 03:31:36 GMT	     0.0	     0.0	      9660	     0.0%
-hertneky                                    		  0.0		  0.0%				Fri 26 Jul 2024 03:31:54 GMT	     0.0	     0.0	     11480	     0.0%
-scm_output                                  		  0.0		  0.0%				Fri 26 Jul 2024 03:32:40 GMT	     0.0	     0.0	       593	     0.0%
-weiweili                                    		  0.0		  0.0%				Fri 26 Jul 2024 03:31:45 GMT	     0.0	     0.0	      2217	     0.0%
-egrell                                      		  0.0		  0.0%				Fri 26 Jul 2024 03:31:27 GMT	     0.0	     0.0	       141	     0.0%
-fv3sar_vx                                   		  0.0		  0.0%				Fri 26 Jul 2024 03:31:55 GMT	     0.0	     0.0	        67	     0.0%
-etc                                         		  0.0		  0.0%				Fri 26 Jul 2024 03:32:00 GMT	     0.0	     0.0	        19	     0.0%
+/work/noaa/ufs-phys                         		 18.3		 98.7%		 18.6		Mon 29 Jul 2024 03:52:16 GMT	    18.3	    18.3	    227896	     0.0%	0
+manzhang                                    		 17.9		 96.3%				Mon 29 Jul 2024 03:52:16 GMT	    17.9	    17.9	    113052	     0.0%
+LASSO-uniphy                                		  0.3		  1.6%				Mon 29 Jul 2024 03:46:05 GMT	     0.3	     0.3	      1079	     0.0%
+knewman                                     		  0.1		  0.5%				Mon 29 Jul 2024 03:48:26 GMT	     0.1	     0.1	     55849	     0.0%
+ekalina                                     		  0.0		  0.1%				Mon 29 Jul 2024 03:46:18 GMT	     0.0	     0.0	      9802	     0.0%
+bnelson                                     		  0.0		  0.0%				Mon 29 Jul 2024 03:45:41 GMT	     0.0	     0.0	     18039	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 03:52:16 GMT	     0.0	     0.0	      5119	     0.0%
+gsketefia                                   		  0.0		  0.0%				Mon 29 Jul 2024 03:46:04 GMT	     0.0	     0.0	       779	     0.0%
+lpan                                        		  0.0		  0.0%				Mon 29 Jul 2024 03:45:49 GMT	     0.0	     0.0	      9660	     0.0%
+hertneky                                    		  0.0		  0.0%				Mon 29 Jul 2024 03:46:01 GMT	     0.0	     0.0	     11480	     0.0%
+scm_output                                  		  0.0		  0.0%				Mon 29 Jul 2024 03:46:18 GMT	     0.0	     0.0	       593	     0.0%
+weiweili                                    		  0.0		  0.0%				Mon 29 Jul 2024 03:45:52 GMT	     0.0	     0.0	      2217	     0.0%
+egrell                                      		  0.0		  0.0%				Mon 29 Jul 2024 03:45:41 GMT	     0.0	     0.0	       141	     0.0%
+fv3sar_vx                                   		  0.0		  0.0%				Mon 29 Jul 2024 03:46:01 GMT	     0.0	     0.0	        67	     0.0%
+etc                                         		  0.0		  0.0%				Mon 29 Jul 2024 03:46:05 GMT	     0.0	     0.0	        19	     0.0%
 
-/work/noaa/wrf-chem                         		  0.7		 39.6%		  1.9		Fri 26 Jul 2024 04:14:09 GMT	     0.1	     0.1	    898985	     0.0%	0
-bhuang                                      		  0.7		 36.1%				Fri 26 Jul 2024 04:14:09 GMT	     0.0	     0.0	    839349	     0.0%
-Jordan                                      		  0.1		  3.3%				Fri 26 Jul 2024 03:31:09 GMT	     0.1	     0.1	     54868	     0.0%
---unseen-by-du--                            		  0.0		  0.1%				Fri 26 Jul 2024 04:14:09 GMT	     0.0	     0.0	         0	     0.0%
-slu                                         		  0.0		  0.1%				Fri 26 Jul 2024 03:31:17 GMT	     0.0	     0.0	      7056	     0.0%
-KaYee                                       		  0.0		  0.0%				Fri 26 Jul 2024 03:31:09 GMT	     0.0	     0.0	         1	     0.0%
-pagowski                                    		  0.0		  0.0%				Fri 26 Jul 2024 03:31:09 GMT	     0.0	     0.0	         1	     0.0%
-MAPP_2018                                   		  0.0		  0.0%				Fri 26 Jul 2024 03:31:09 GMT	     0.0	     0.0	         1	     0.0%
-mapp_2018                                   		  0.0		  0.0%				Fri 26 Jul 2024 03:31:09 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/wrf-chem                         		  0.7		 39.6%		  1.9		Mon 29 Jul 2024 04:04:16 GMT	     0.1	     0.1	    898985	     0.0%	0
+bhuang                                      		  0.7		 36.1%				Mon 29 Jul 2024 04:04:16 GMT	     0.0	     0.0	    839349	     0.0%
+Jordan                                      		  0.1		  3.3%				Mon 29 Jul 2024 03:45:53 GMT	     0.1	     0.1	     54868	     0.0%
+--unseen-by-du--                            		  0.0		  0.1%				Mon 29 Jul 2024 04:04:16 GMT	     0.0	     0.0	         0	     0.0%
+slu                                         		  0.0		  0.1%				Mon 29 Jul 2024 03:46:01 GMT	     0.0	     0.0	      7056	     0.0%
+KaYee                                       		  0.0		  0.0%				Mon 29 Jul 2024 03:45:53 GMT	     0.0	     0.0	         1	     0.0%
+pagowski                                    		  0.0		  0.0%				Mon 29 Jul 2024 03:45:53 GMT	     0.0	     0.0	         1	     0.0%
+MAPP_2018                                   		  0.0		  0.0%				Mon 29 Jul 2024 03:45:53 GMT	     0.0	     0.0	         1	     0.0%
+mapp_2018                                   		  0.0		  0.0%				Mon 29 Jul 2024 03:45:53 GMT	     0.0	     0.0	         1	     0.0%
 
-/work/noaa/wrfruc                           		276.7		 85.2%		324.7		Fri 26 Jul 2024 05:38:36 GMT	   218.0	   177.2	  10878540	     0.0%	0
-gge                                         		 89.6		 27.6%				Fri 26 Jul 2024 05:01:09 GMT	    89.4	    89.4	   2897284	     0.0%
-ssun                                        		 45.1		 13.9%				Fri 26 Jul 2024 04:10:35 GMT	     0.0	     0.0	   1861831	     0.0%
-DLWP                                        		 35.1		 10.8%				Fri 26 Jul 2024 05:17:59 GMT	    34.5	     0.0	     13025	     0.0%
-fhan                                        		 33.2		 10.2%				Fri 26 Jul 2024 05:38:34 GMT	    33.2	    33.2	   2390823	     0.0%
-cctong                                      		 29.3		  9.0%				Fri 26 Jul 2024 04:17:20 GMT	    29.3	    29.3	    287530	     0.0%
-mhu                                         		 24.8		  7.7%				Fri 26 Jul 2024 05:28:23 GMT	    24.5	    20.6	    980644	     0.0%
---unseen-by-du--                            		  8.0		  2.5%				Fri 26 Jul 2024 05:38:36 GMT	     0.0	     0.0	    185283	     0.0%
-meixu                                       		  3.0		  0.9%				Fri 26 Jul 2024 04:18:47 GMT	     2.2	     1.2	     87585	     0.0%
-strahan                                     		  2.1		  0.7%				Fri 26 Jul 2024 04:22:29 GMT	     2.1	     2.1	    170915	     0.0%
-yyang                                       		  2.0		  0.6%				Fri 26 Jul 2024 05:17:58 GMT	     0.0	     0.0	     88885	     0.0%
-span                                        		  1.9		  0.6%				Fri 26 Jul 2024 04:26:31 GMT	     0.9	     0.1	    441471	     0.0%
-yongming                                    		  0.9		  0.3%				Fri 26 Jul 2024 04:13:02 GMT	     0.7	     0.6	    175371	     0.0%
-snaegele                                    		  0.5		  0.2%				Fri 26 Jul 2024 04:13:56 GMT	     0.5	     0.0	    109419	     0.0%
-ejames                                      		  0.5		  0.1%				Fri 26 Jul 2024 05:08:37 GMT	     0.5	     0.5	    235225	     0.0%
-sdegelia                                    		  0.3		  0.1%				Fri 26 Jul 2024 05:16:00 GMT	     0.0	     0.0	    554718	     0.0%
-mpas                                        		  0.1		  0.0%				Fri 26 Jul 2024 05:05:05 GMT	     0.1	     0.1	    220966	     0.0%
-ajohns                                      		  0.1		  0.0%				Fri 26 Jul 2024 04:26:33 GMT	     0.1	     0.0	      1260	     0.0%
-czhou                                       		  0.0		  0.0%				Fri 26 Jul 2024 04:14:54 GMT	     0.0	     0.0	    110588	     0.0%
-terra                                       		  0.0		  0.0%				Fri 26 Jul 2024 04:17:54 GMT	     0.0	     0.0	     25582	     0.0%
-mayfield                                    		  0.0		  0.0%				Fri 26 Jul 2024 03:31:36 GMT	     0.0	     0.0	     23084	     0.0%
-jjhu                                        		  0.0		  0.0%				Fri 26 Jul 2024 04:13:56 GMT	     0.0	     0.0	        11	     0.0%
-llin                                        		  0.0		  0.0%				Fri 26 Jul 2024 04:17:38 GMT	     0.0	     0.0	     11688	     0.0%
-mtoy                                        		  0.0		  0.0%				Fri 26 Jul 2024 04:17:22 GMT	     0.0	     0.0	      5081	     0.0%
-cholt                                       		  0.0		  0.0%				Fri 26 Jul 2024 05:18:00 GMT	     0.0	     0.0	       220	     0.0%
-s5cmd                                       		  0.0		  0.0%				Fri 26 Jul 2024 05:18:00 GMT	     0.0	     0.0	         5	     0.0%
-hlin                                        		  0.0		  0.0%				Fri 26 Jul 2024 05:17:59 GMT	     0.0	     0.0	        31	     0.0%
-calexand                                    		  0.0		  0.0%				Fri 26 Jul 2024 04:17:54 GMT	     0.0	     0.0	        15	     0.0%
+/work/noaa/wrfruc                           		276.7		 85.2%		324.7		Mon 29 Jul 2024 05:17:26 GMT	   218.9	   177.2	  10880710	     0.0%	0
+gge                                         		 89.6		 27.6%				Mon 29 Jul 2024 04:47:43 GMT	    89.4	    89.4	   2897284	     0.0%
+ssun                                        		 45.1		 13.9%				Mon 29 Jul 2024 04:07:49 GMT	     0.1	     0.0	   1861831	     0.0%
+DLWP                                        		 35.1		 10.8%				Mon 29 Jul 2024 05:02:04 GMT	    34.5	     0.0	     13025	     0.0%
+fhan                                        		 33.2		 10.2%				Mon 29 Jul 2024 05:17:26 GMT	    33.2	    33.2	   2390823	     0.0%
+cctong                                      		 29.3		  9.0%				Mon 29 Jul 2024 04:12:02 GMT	    29.3	    29.3	    287530	     0.0%
+mhu                                         		 24.8		  7.7%				Mon 29 Jul 2024 05:15:51 GMT	    24.5	    20.6	    980644	     0.0%
+--unseen-by-du--                            		  8.0		  2.5%				Mon 29 Jul 2024 05:17:26 GMT	     0.0	     0.0	    185285	     0.0%
+meixu                                       		  3.0		  0.9%				Mon 29 Jul 2024 04:13:23 GMT	     3.0	     1.2	     87585	     0.0%
+strahan                                     		  2.1		  0.7%				Mon 29 Jul 2024 04:15:49 GMT	     2.1	     2.1	    170915	     0.0%
+yyang                                       		  2.0		  0.6%				Mon 29 Jul 2024 05:01:46 GMT	     0.0	     0.0	     91053	     0.0%
+span                                        		  1.9		  0.6%				Mon 29 Jul 2024 04:22:29 GMT	     0.9	     0.1	    441471	     0.0%
+yongming                                    		  0.9		  0.3%				Mon 29 Jul 2024 04:09:02 GMT	     0.7	     0.6	    175371	     0.0%
+snaegele                                    		  0.5		  0.2%				Mon 29 Jul 2024 04:09:43 GMT	     0.5	     0.0	    109419	     0.0%
+ejames                                      		  0.5		  0.1%				Mon 29 Jul 2024 04:51:47 GMT	     0.5	     0.5	    235225	     0.0%
+sdegelia                                    		  0.3		  0.1%				Mon 29 Jul 2024 04:59:46 GMT	     0.0	     0.0	    554718	     0.0%
+mpas                                        		  0.1		  0.0%				Mon 29 Jul 2024 04:49:37 GMT	     0.1	     0.1	    220966	     0.0%
+ajohns                                      		  0.1		  0.0%				Mon 29 Jul 2024 04:22:30 GMT	     0.1	     0.0	      1260	     0.0%
+czhou                                       		  0.0		  0.0%				Mon 29 Jul 2024 04:10:12 GMT	     0.0	     0.0	    110588	     0.0%
+terra                                       		  0.0		  0.0%				Mon 29 Jul 2024 04:12:32 GMT	     0.0	     0.0	     25582	     0.0%
+mayfield                                    		  0.0		  0.0%				Mon 29 Jul 2024 04:00:24 GMT	     0.0	     0.0	     23084	     0.0%
+jjhu                                        		  0.0		  0.0%				Mon 29 Jul 2024 04:09:43 GMT	     0.0	     0.0	        11	     0.0%
+llin                                        		  0.0		  0.0%				Mon 29 Jul 2024 04:12:18 GMT	     0.0	     0.0	     11688	     0.0%
+mtoy                                        		  0.0		  0.0%				Mon 29 Jul 2024 04:12:05 GMT	     0.0	     0.0	      5081	     0.0%
+cholt                                       		  0.0		  0.0%				Mon 29 Jul 2024 05:02:05 GMT	     0.0	     0.0	       220	     0.0%
+s5cmd                                       		  0.0		  0.0%				Mon 29 Jul 2024 05:02:04 GMT	     0.0	     0.0	         5	     0.0%
+hlin                                        		  0.0		  0.0%				Mon 29 Jul 2024 05:02:04 GMT	     0.0	     0.0	        31	     0.0%
+calexand                                    		  0.0		  0.0%				Mon 29 Jul 2024 04:12:32 GMT	     0.0	     0.0	        15	     0.0%
 
-/work/noaa/zrtrr                            		 28.7		 61.8%		 46.4		Fri 26 Jul 2024 04:04:49 GMT	    25.5	    25.4	   1237646	     0.0%	0
-strahan                                     		 12.5		 27.0%				Fri 26 Jul 2024 03:47:38 GMT	    12.5	    12.5	    815688	     0.0%
-mhu                                         		  7.9		 17.1%				Fri 26 Jul 2024 04:04:49 GMT	     7.9	     7.8	    341710	     0.0%
-scrub                                       		  4.9		 10.5%				Fri 26 Jul 2024 03:32:46 GMT	     4.9	     4.9	     64535	     0.0%
---unseen-by-du--                            		  2.9		  6.2%				Fri 26 Jul 2024 04:04:49 GMT	     0.0	     0.0	      9659	     0.0%
-noscrub                                     		  0.2		  0.5%				Fri 26 Jul 2024 03:47:38 GMT	     0.2	     0.2	        21	     0.0%
-gge                                         		  0.2		  0.3%				Fri 26 Jul 2024 03:47:42 GMT	     0.0	     0.0	      2131	     0.0%
-bohuang                                     		  0.1		  0.3%				Fri 26 Jul 2024 03:47:40 GMT	     0.0	     0.0	      3901	     0.0%
-rli                                         		  0.0		  0.0%				Fri 26 Jul 2024 04:04:49 GMT	     0.0	     0.0	         1	     0.0%
+/work/noaa/zrtrr                            		 26.4		 56.9%		 46.4		Mon 29 Jul 2024 04:12:24 GMT	    25.5	    25.4	   1235403	     0.0%	0
+strahan                                     		 12.5		 27.0%				Mon 29 Jul 2024 04:07:58 GMT	    12.5	    12.5	    815688	     0.0%
+mhu                                         		  7.9		 17.1%				Mon 29 Jul 2024 04:12:24 GMT	     7.9	     7.8	    341710	     0.0%
+scrub                                       		  4.9		 10.5%				Mon 29 Jul 2024 04:00:32 GMT	     4.9	     4.9	     64535	     0.0%
+--unseen-by-du--                            		  0.7		  1.4%				Mon 29 Jul 2024 04:12:24 GMT	     0.0	     0.0	      3885	     0.0%
+noscrub                                     		  0.2		  0.5%				Mon 29 Jul 2024 04:07:58 GMT	     0.2	     0.2	        21	     0.0%
+gge                                         		  0.2		  0.3%				Mon 29 Jul 2024 04:08:02 GMT	     0.0	     0.0	      2131	     0.0%
+bohuang                                     		  0.0		  0.1%				Mon 29 Jul 2024 04:08:01 GMT	     0.0	     0.0	      7432	     0.0%
+rli                                         		  0.0		  0.0%				Mon 29 Jul 2024 04:12:24 GMT	     0.0	     0.0	         1	     0.0%
 
-/work2/noaa/amb-verif                       		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 03:45:05 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 03:45:05 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/amb-verif                       		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/ap-fc                           		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 04:00:04 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 04:00:04 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/ap-fc                           		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/chem-var                        		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/chem-var                        		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/comgsi                          		  0.0		  0.0%		 27.8		Fri 26 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 04:15:03 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/comgsi                          		  0.0		  0.0%		 27.8		Mon 29 Jul 2024 04:30:05 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 04:30:05 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/dtc-hwrf                        		 10.5		 27.7%		 38.0		Fri 26 Jul 2024 06:02:52 GMT	    10.6	    10.6	    611376	     0.0%	0
-lpan                                        		 10.6		 27.8%				Fri 26 Jul 2024 05:54:00 GMT	    10.6	    10.6	    537588	     0.0%
-knewman                                     		  0.0		  0.0%				Fri 26 Jul 2024 06:02:52 GMT	     0.0	     0.0	     73361	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:02:52 GMT	     0.0	     0.0	       427	     0.0%
+/work2/noaa/dtc-hwrf                        		 10.5		 27.7%		 38.0		Mon 29 Jul 2024 06:17:14 GMT	    10.6	    10.6	    611376	     0.0%	0
+lpan                                        		 10.6		 27.8%				Mon 29 Jul 2024 05:33:48 GMT	    10.6	    10.6	    537588	     0.0%
+knewman                                     		  0.0		  0.0%				Mon 29 Jul 2024 06:17:14 GMT	     0.0	     0.0	     73361	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:17:14 GMT	     0.0	     0.0	       427	     0.0%
 
-/work2/noaa/gmtb                            		 20.0		 86.3%		 23.2		Fri 26 Jul 2024 12:59:35 GMT	     3.4	     3.2	  25041375	     0.0%	0
-xiasun                                      		 17.1		 73.6%				Fri 26 Jul 2024 12:18:59 GMT	     0.5	     0.5	  12528071	     0.0%
-knewman                                     		  2.3		  9.7%				Fri 26 Jul 2024 12:59:34 GMT	     2.3	     2.3	  12479831	     0.0%
-manzhang                                    		  0.6		  2.8%				Fri 26 Jul 2024 12:19:49 GMT	     0.6	     0.5	     33359	     0.0%
---unseen-by-du--                            		  0.0		  0.2%				Fri 26 Jul 2024 12:59:35 GMT	     0.0	     0.0	        90	     0.0%
-tools                                       		  0.0		  0.0%				Fri 26 Jul 2024 12:59:35 GMT	     0.0	     0.0	        19	     0.0%
-dheinzel                                    		  0.0		  0.0%				Fri 26 Jul 2024 12:59:35 GMT	     0.0	     0.0	         5	     0.0%
+/work2/noaa/gmtb                            		 20.0		 86.3%		 23.2		Mon 29 Jul 2024 10:08:01 GMT	     3.4	     3.2	  25041375	     0.0%	0
+xiasun                                      		 17.1		 73.6%				Mon 29 Jul 2024 09:06:53 GMT	     0.5	     0.5	  12528071	     0.0%
+knewman                                     		  2.3		  9.7%				Mon 29 Jul 2024 10:08:00 GMT	     2.3	     2.3	  12479831	     0.0%
+manzhang                                    		  0.6		  2.8%				Mon 29 Jul 2024 09:17:37 GMT	     0.6	     0.5	     33359	     0.0%
+--unseen-by-du--                            		  0.0		  0.2%				Mon 29 Jul 2024 10:08:01 GMT	     0.0	     0.0	        90	     0.0%
+tools                                       		  0.0		  0.0%				Mon 29 Jul 2024 10:08:01 GMT	     0.0	     0.0	        19	     0.0%
+dheinzel                                    		  0.0		  0.0%				Mon 29 Jul 2024 10:08:00 GMT	     0.0	     0.0	         5	     0.0%
 
-/work2/noaa/gsd-fv3                         		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 05:45:14 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 05:45:14 GMT	     0.0	     0.0	         5	     0.0%
-Shan.Sun                                    		  0.0		  0.0%				Fri 26 Jul 2024 05:45:14 GMT	     0.0	     0.0	         1	     0.0%
+/work2/noaa/gsd-fv3                         		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 05:00:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 05:00:03 GMT	     0.0	     0.0	         5	     0.0%
+Shan.Sun                                    		  0.0		  0.0%				Mon 29 Jul 2024 05:00:03 GMT	     0.0	     0.0	         1	     0.0%
 
-/work2/noaa/gsd-fv3-dev                     		 71.9		 96.9%		 74.2		Fri 26 Jul 2024 09:55:44 GMT	    20.7	    19.5	   3606289	     0.0%	0
-Shan.Sun                                    		 51.8		 69.8%				Fri 26 Jul 2024 09:29:35 GMT	     4.3	     4.2	   2060542	     0.0%
-pagowski                                    		  7.2		  9.7%				Fri 26 Jul 2024 09:54:10 GMT	     7.2	     7.2	    134698	     0.0%
-swei                                        		  3.8		  5.1%				Fri 26 Jul 2024 07:34:47 GMT	     3.8	     3.8	    810928	     0.0%
-skhani                                      		  3.8		  5.1%				Fri 26 Jul 2024 06:08:08 GMT	     0.0	     0.0	    325084	     0.0%
-lpan                                        		  2.9		  3.9%				Fri 26 Jul 2024 06:04:13 GMT	     2.9	     2.9	    122815	     0.0%
-bgreen                                      		  1.4		  1.8%				Fri 26 Jul 2024 09:32:05 GMT	     1.3	     1.3	    118411	     0.0%
-bhuang                                      		  1.1		  1.5%				Fri 26 Jul 2024 09:55:30 GMT	     1.1	     0.0	     24396	     0.0%
-eflicker                                    		  0.0		  0.0%				Fri 26 Jul 2024 09:55:44 GMT	     0.0	     0.0	      9917	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 09:55:44 GMT	     0.0	     0.0	         0	     0.0%
+/work2/noaa/gsd-fv3-dev                     		 71.9		 96.9%		 74.2		Mon 29 Jul 2024 08:11:15 GMT	    20.7	    19.5	   3606289	     0.0%	0
+Shan.Sun                                    		 51.8		 69.8%				Mon 29 Jul 2024 06:53:55 GMT	     4.3	     4.2	   2060542	     0.0%
+pagowski                                    		  7.2		  9.7%				Mon 29 Jul 2024 08:10:16 GMT	     7.2	     7.2	    134698	     0.0%
+swei                                        		  3.8		  5.1%				Mon 29 Jul 2024 06:27:59 GMT	     3.8	     3.8	    810928	     0.0%
+skhani                                      		  3.8		  5.1%				Mon 29 Jul 2024 05:22:57 GMT	     0.0	     0.0	    325084	     0.0%
+lpan                                        		  2.9		  3.9%				Mon 29 Jul 2024 05:19:05 GMT	     2.9	     2.9	    122815	     0.0%
+bgreen                                      		  1.4		  1.8%				Mon 29 Jul 2024 06:56:48 GMT	     1.3	     1.3	    118411	     0.0%
+bhuang                                      		  1.1		  1.5%				Mon 29 Jul 2024 08:11:04 GMT	     1.1	     0.0	     24396	     0.0%
+eflicker                                    		  0.0		  0.0%				Mon 29 Jul 2024 08:11:15 GMT	     0.0	     0.0	      9917	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 08:11:15 GMT	     0.0	     0.0	         0	     0.0%
 
-/work2/noaa/gsd-fv3-test                    		  0.1		  7.3%		  1.9		Fri 26 Jul 2024 06:20:09 GMT	     0.1	     0.1	    301972	     0.0%	0
-Michael.Kavulich                            		  0.1		  6.5%				Fri 26 Jul 2024 06:19:30 GMT	     0.1	     0.1	    288275	     0.0%
-new-usage-monitor                           		  0.0		  0.4%				Fri 26 Jul 2024 06:15:43 GMT	     0.0	     0.0	      4651	     0.0%
-hercules-usage-monitor                      		  0.0		  0.2%				Fri 26 Jul 2024 06:19:32 GMT	     0.0	     0.0	      5264	     0.0%
-orion-usage-monitor                         		  0.0		  0.2%				Fri 26 Jul 2024 06:19:49 GMT	     0.0	     0.0	      4939	     0.0%
-strahan                                     		  0.0		  0.1%				Fri 26 Jul 2024 06:20:09 GMT	     0.0	     0.0	     13887	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:20:09 GMT	     0.0	     0.0	         0	     0.0%
-Shan.Sun                                    		  0.0		  0.0%				Fri 26 Jul 2024 06:20:09 GMT	     0.0	     0.0	         1	     0.0%
+/work2/noaa/gsd-fv3-test                    		  0.1		  7.3%		  1.9		Mon 29 Jul 2024 05:33:39 GMT	     0.1	     0.1	    301963	     0.0%	0
+Michael.Kavulich                            		  0.1		  6.5%				Mon 29 Jul 2024 05:33:19 GMT	     0.1	     0.1	    288275	     0.0%
+new-usage-monitor                           		  0.0		  0.4%				Mon 29 Jul 2024 05:30:15 GMT	     0.0	     0.0	      4651	     0.0%
+hercules-usage-monitor                      		  0.0		  0.2%				Mon 29 Jul 2024 05:33:20 GMT	     0.0	     0.0	      5255	     0.0%
+orion-usage-monitor                         		  0.0		  0.2%				Mon 29 Jul 2024 05:33:30 GMT	     0.0	     0.0	      4939	     0.0%
+strahan                                     		  0.0		  0.1%				Mon 29 Jul 2024 05:33:39 GMT	     0.0	     0.0	     13887	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 05:33:39 GMT	     0.0	     0.0	         0	     0.0%
+Shan.Sun                                    		  0.0		  0.0%				Mon 29 Jul 2024 05:33:39 GMT	     0.0	     0.0	         1	     0.0%
 
-/work2/noaa/gsd-hpcs                        		  9.0		 80.8%		 11.1		Fri 26 Jul 2024 06:22:41 GMT	     9.0	     9.0	    279564	     0.0%	0
-Shan.Sun                                    		  9.0		 80.7%				Fri 26 Jul 2024 06:22:41 GMT	     9.0	     9.0	     85574	     0.0%
-charrop                                     		  0.0		  0.0%				Fri 26 Jul 2024 06:16:31 GMT	     0.0	     0.0	    193984	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:22:41 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/gsd-hpcs                        		  9.0		 80.8%		 11.1		Mon 29 Jul 2024 05:48:57 GMT	     9.0	     9.0	    279564	     0.0%	0
+Shan.Sun                                    		  9.0		 80.7%				Mon 29 Jul 2024 05:48:57 GMT	     9.0	     9.0	     85574	     0.0%
+charrop                                     		  0.0		  0.0%				Mon 29 Jul 2024 05:46:21 GMT	     0.0	     0.0	    193984	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 05:48:57 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/hmtb                            		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 06:30:15 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:30:15 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/hmtb                            		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 06:00:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:00:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/noaa-det                        		  4.0		 10.7%		 37.1		Fri 26 Jul 2024 06:30:27 GMT	     0.0	     0.0	     57752	     0.0%	0
---unseen-by-du--                            		  4.0		 10.7%				Fri 26 Jul 2024 06:30:27 GMT	     0.0	     0.0	     54319	     0.0%
-kavulich                                    		  0.0		  0.0%				Fri 26 Jul 2024 06:30:27 GMT	     0.0	     0.0	      3433	     0.0%
+/work2/noaa/noaa-det                        		  4.0		 10.7%		 37.1		Mon 29 Jul 2024 06:15:08 GMT	     0.0	     0.0	     57752	     0.0%	0
+--unseen-by-du--                            		  4.0		 10.7%				Mon 29 Jul 2024 06:15:08 GMT	     0.0	     0.0	     54319	     0.0%
+kavulich                                    		  0.0		  0.0%				Mon 29 Jul 2024 06:15:08 GMT	     0.0	     0.0	      3433	     0.0%
 
-/work2/noaa/qosap                           		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/qosap                           		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/rtrr                            		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         8	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         6	     0.0%
-meixu                                       		  0.0		  0.0%				Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         1	     0.0%
-mhu                                         		  0.0		  0.0%				Fri 26 Jul 2024 06:45:15 GMT	     0.0	     0.0	         1	     0.0%
+/work2/noaa/rtrr                            		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         8	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         6	     0.0%
+meixu                                       		  0.0		  0.0%				Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         1	     0.0%
+mhu                                         		  0.0		  0.0%				Mon 29 Jul 2024 06:30:03 GMT	     0.0	     0.0	         1	     0.0%
 
-/work2/noaa/rtruc                           		  0.0		  0.0%		  0.9		Fri 26 Jul 2024 07:00:04 GMT	     0.0	     0.0	         6	     0.0%	0
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 07:00:04 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/rtruc                           		  0.0		  0.0%		  0.9		Mon 29 Jul 2024 06:45:03 GMT	     0.0	     0.0	         6	     0.0%	0
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:45:03 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/ufs-phys                        		 12.4		 66.7%		 18.6		Fri 26 Jul 2024 07:17:28 GMT	    12.4	    12.4	     95419	     0.0%	0
-ekalina                                     		 12.3		 66.5%				Fri 26 Jul 2024 07:06:27 GMT	    12.3	    12.3	     51487	     0.0%
-bnelson                                     		  0.0		  0.1%				Fri 26 Jul 2024 07:17:28 GMT	     0.0	     0.0	     41913	     0.0%
-manzhang                                    		  0.0		  0.0%				Fri 26 Jul 2024 07:07:44 GMT	     0.0	     0.0	      2009	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 07:17:28 GMT	     0.0	     0.0	        10	     0.0%
+/work2/noaa/ufs-phys                        		 12.4		 66.7%		 18.6		Mon 29 Jul 2024 06:47:40 GMT	    12.4	    12.4	     95419	     0.0%	0
+ekalina                                     		 12.3		 66.5%				Mon 29 Jul 2024 06:46:06 GMT	    12.3	    12.3	     51487	     0.0%
+bnelson                                     		  0.0		  0.1%				Mon 29 Jul 2024 06:47:40 GMT	     0.0	     0.0	     41913	     0.0%
+manzhang                                    		  0.0		  0.0%				Mon 29 Jul 2024 06:46:12 GMT	     0.0	     0.0	      2009	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 06:47:40 GMT	     0.0	     0.0	        10	     0.0%
 
-/work2/noaa/wrf-chem                        		  0.1		  7.6%		  1.9		Fri 26 Jul 2024 07:45:47 GMT	     0.1	     0.0	    211553	     0.0%	0
-bohuang                                     		  0.1		  7.6%				Fri 26 Jul 2024 07:45:47 GMT	     0.1	     0.0	    211547	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 07:45:47 GMT	     0.0	     0.0	         6	     0.0%
+/work2/noaa/wrf-chem                        		  0.1		  7.6%		  1.9		Mon 29 Jul 2024 07:04:10 GMT	     0.1	     0.0	    211553	     0.0%	0
+bohuang                                     		  0.1		  7.6%				Mon 29 Jul 2024 07:04:10 GMT	     0.1	     0.0	    211547	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 07:04:10 GMT	     0.0	     0.0	         6	     0.0%
 
-/work2/noaa/wrfruc                          		311.6		 96.0%		324.7		Fri 26 Jul 2024 16:07:07 GMT	   185.2	   173.4	   9671390	     0.0%	0
-Shan.Sun                                    		177.8		 54.7%				Fri 26 Jul 2024 15:30:33 GMT	   130.4	   130.4	   4222421	     0.0%
-murdzek                                     		 87.4		 26.9%				Fri 26 Jul 2024 11:32:17 GMT	    14.0	     6.3	   2777948	     0.0%
-hlin                                        		  8.8		  2.7%				Fri 26 Jul 2024 09:40:27 GMT	     8.8	     8.7	    445368	     0.0%
-gge                                         		  8.7		  2.7%				Fri 26 Jul 2024 09:16:09 GMT	     8.1	     8.1	    896187	     0.0%
-aramos                                      		  6.8		  2.1%				Fri 26 Jul 2024 15:34:50 GMT	     6.8	     6.8	    128634	     0.0%
-snaegele                                    		  4.8		  1.5%				Fri 26 Jul 2024 15:33:59 GMT	     3.1	     0.0	    136975	     0.0%
-mayfield                                    		  4.2		  1.3%				Fri 26 Jul 2024 16:01:54 GMT	     4.2	     4.2	     30482	     0.0%
-ejames                                      		  3.5		  1.1%				Fri 26 Jul 2024 15:39:26 GMT	     3.5	     3.5	    167569	     0.0%
---unseen-by-du--                            		  3.4		  1.0%				Fri 26 Jul 2024 16:07:07 GMT	     0.0	     0.0	    320516	     0.0%
-yongming                                    		  2.5		  0.8%				Fri 26 Jul 2024 11:35:13 GMT	     2.5	     2.5	    164003	     0.0%
-mhu                                         		  1.7		  0.5%				Fri 26 Jul 2024 16:07:02 GMT	     1.7	     1.7	      2729	     0.0%
-ddowell                                     		  1.0		  0.3%				Fri 26 Jul 2024 07:32:12 GMT	     1.0	     1.0	     21441	     0.0%
-ajohns                                      		  0.9		  0.3%				Fri 26 Jul 2024 16:07:03 GMT	     0.9	     0.2	        92	     0.0%
-strahan                                     		  0.1		  0.0%				Fri 26 Jul 2024 16:06:39 GMT	     0.0	     0.0	    344395	     0.0%
-hwang                                       		  0.0		  0.0%				Fri 26 Jul 2024 16:07:07 GMT	     0.0	     0.0	      9981	     0.0%
-ssun                                        		  0.0		  0.0%				Fri 26 Jul 2024 15:34:52 GMT	     0.0	     0.0	       341	     0.0%
-span                                        		  0.0		  0.0%				Fri 26 Jul 2024 09:40:29 GMT	     0.0	     0.0	      2302	     0.0%
-llin                                        		  0.0		  0.0%				Fri 26 Jul 2024 07:30:03 GMT	     0.0	     0.0	         2	     0.0%
-sdegelia                                    		  0.0		  0.0%				Fri 26 Jul 2024 09:16:09 GMT	     0.0	     0.0	         1	     0.0%
-jdduda                                      		  0.0		  0.0%				Fri 26 Jul 2024 15:39:26 GMT	     0.0	     0.0	         1	     0.0%
-mtoy                                        		  0.0		  0.0%				Fri 26 Jul 2024 15:39:26 GMT	     0.0	     0.0	         1	     0.0%
-cctong                                      		  0.0		  0.0%				Fri 26 Jul 2024 16:01:54 GMT	     0.0	     0.0	         1	     0.0%
+/work2/noaa/wrfruc                          		311.6		 96.0%		324.7		Mon 29 Jul 2024 11:15:26 GMT	   185.2	   173.4	   9671392	     0.0%	0
+Shan.Sun                                    		177.8		 54.7%				Mon 29 Jul 2024 11:01:10 GMT	   130.4	   130.4	   4222421	     0.0%
+murdzek                                     		 87.4		 26.9%				Mon 29 Jul 2024 08:36:15 GMT	    14.0	     6.3	   2777948	     0.0%
+hlin                                        		  8.8		  2.7%				Mon 29 Jul 2024 07:32:33 GMT	     8.8	     8.7	    445368	     0.0%
+gge                                         		  8.7		  2.7%				Mon 29 Jul 2024 07:19:34 GMT	     8.1	     8.1	    896187	     0.0%
+aramos                                      		  6.8		  2.1%				Mon 29 Jul 2024 11:05:06 GMT	     6.8	     6.8	    128634	     0.0%
+snaegele                                    		  4.8		  1.5%				Mon 29 Jul 2024 11:04:15 GMT	     3.1	     0.0	    136975	     0.0%
+mayfield                                    		  4.2		  1.3%				Mon 29 Jul 2024 11:11:34 GMT	     4.2	     4.2	     30482	     0.0%
+ejames                                      		  3.5		  1.1%				Mon 29 Jul 2024 11:09:31 GMT	     3.5	     3.5	    167569	     0.0%
+--unseen-by-du--                            		  3.4		  1.0%				Mon 29 Jul 2024 11:15:26 GMT	     0.0	     0.0	    320516	     0.0%
+yongming                                    		  2.5		  0.8%				Mon 29 Jul 2024 08:38:53 GMT	     2.5	     2.5	    164003	     0.0%
+mhu                                         		  1.7		  0.5%				Mon 29 Jul 2024 11:15:21 GMT	     1.7	     1.7	      2729	     0.0%
+ddowell                                     		  1.0		  0.3%				Mon 29 Jul 2024 07:03:00 GMT	     1.0	     1.0	     21441	     0.0%
+ajohns                                      		  0.9		  0.3%				Mon 29 Jul 2024 11:15:21 GMT	     0.9	     0.2	        92	     0.0%
+strahan                                     		  0.1		  0.0%				Mon 29 Jul 2024 11:15:00 GMT	     0.0	     0.0	    344397	     0.0%
+hwang                                       		  0.0		  0.0%				Mon 29 Jul 2024 11:15:26 GMT	     0.0	     0.0	      9981	     0.0%
+ssun                                        		  0.0		  0.0%				Mon 29 Jul 2024 11:05:08 GMT	     0.0	     0.0	       341	     0.0%
+span                                        		  0.0		  0.0%				Mon 29 Jul 2024 07:32:35 GMT	     0.0	     0.0	      2302	     0.0%
+llin                                        		  0.0		  0.0%				Mon 29 Jul 2024 07:00:05 GMT	     0.0	     0.0	         2	     0.0%
+sdegelia                                    		  0.0		  0.0%				Mon 29 Jul 2024 07:19:34 GMT	     0.0	     0.0	         1	     0.0%
+jdduda                                      		  0.0		  0.0%				Mon 29 Jul 2024 11:09:31 GMT	     0.0	     0.0	         1	     0.0%
+mtoy                                        		  0.0		  0.0%				Mon 29 Jul 2024 11:09:31 GMT	     0.0	     0.0	         1	     0.0%
+cctong                                      		  0.0		  0.0%				Mon 29 Jul 2024 11:11:34 GMT	     0.0	     0.0	         1	     0.0%
 
-/work2/noaa/zrtrr                           		 61.3		 82.6%		 74.2		Fri 26 Jul 2024 08:03:21 GMT	    46.5	     0.0	     26041	     0.0%	0
-DLWP                                        		 45.0		 60.6%				Fri 26 Jul 2024 08:02:33 GMT	    45.0	     0.0	     11759	     0.0%
-bohuang                                     		 16.4		 22.0%				Fri 26 Jul 2024 08:03:21 GMT	     1.5	     0.0	     14275	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Fri 26 Jul 2024 08:03:21 GMT	     0.0	     0.0	         6	     0.0%
-mhu                                         		  0.0		  0.0%				Fri 26 Jul 2024 08:03:21 GMT	     0.0	     0.0	         1	     0.0%
+/work2/noaa/zrtrr                           		 57.8		 77.9%		 74.2		Mon 29 Jul 2024 07:18:24 GMT	    46.5	     0.0	     24971	     0.0%	0
+DLWP                                        		 45.0		 60.6%				Mon 29 Jul 2024 07:17:17 GMT	    45.0	     0.0	     11759	     0.0%
+bohuang                                     		 12.9		 17.3%				Mon 29 Jul 2024 07:18:24 GMT	     1.5	     0.0	     13205	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Mon 29 Jul 2024 07:18:24 GMT	     0.0	     0.0	         6	     0.0%
+mhu                                         		  0.0		  0.0%				Mon 29 Jul 2024 07:18:24 GMT	     0.0	     0.0	         1	     0.0%
 
