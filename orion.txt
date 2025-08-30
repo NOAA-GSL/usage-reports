@@ -1,277 +1,278 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/scratch4/BMC/gsd-hpcs                      		 47.1		 48.3%		 97.7		Thu 28 Aug 2025 01:44:54 GMT
---unseen-by-du--                            		 26.5		 27.1%				Thu 28 Aug 2025 01:44:54 GMT
-safarik                                     		 15.3		 15.6%				Thu 28 Aug 2025 00:54:50 GMT
-rosenberg                                   		  5.1		  5.2%				Thu 28 Aug 2025 00:51:36 GMT
-Christopher.W.Harrop                        		  0.3		  0.3%				Thu 28 Aug 2025 01:44:54 GMT
-jderrico                                    		  0.0		  0.0%				Thu 28 Aug 2025 00:32:52 GMT
-Timothy.S.Sliwinski                         		  0.0		  0.0%				Thu 28 Aug 2025 00:51:36 GMT
-Daniel.Abdi                                 		  0.0		  0.0%				Thu 28 Aug 2025 00:51:36 GMT
+/scratch4/BMC/gsd-hpcs                      		 47.1		 48.3%		 97.7		Sat 30 Aug 2025 01:59:45 GMT
+--unseen-by-du--                            		 26.5		 27.1%				Sat 30 Aug 2025 01:59:45 GMT
+safarik                                     		 15.3		 15.6%				Sat 30 Aug 2025 01:01:24 GMT
+rosenberg                                   		  5.1		  5.2%				Sat 30 Aug 2025 01:00:04 GMT
+Christopher.W.Harrop                        		  0.3		  0.3%				Sat 30 Aug 2025 01:59:45 GMT
+jderrico                                    		  0.0		  0.0%				Sat 30 Aug 2025 00:34:28 GMT
+Timothy.S.Sliwinski                         		  0.0		  0.0%				Sat 30 Aug 2025 01:00:04 GMT
+Daniel.Abdi                                 		  0.0		  0.0%				Sat 30 Aug 2025 01:00:04 GMT
 
-/scratch3/BMC/gsd-fv3-dev                   		 33.7		 43.2%		 78.1		Thu 28 Aug 2025 04:15:33 GMT
-NCEPDEV                                     		 17.5		 22.4%				Thu 28 Aug 2025 03:52:09 GMT
-Shan.Sun                                    		  3.9		  5.0%				Thu 28 Aug 2025 02:34:32 GMT
---unseen-by-du--                            		  2.5		  3.2%				Thu 28 Aug 2025 04:15:33 GMT
-Gonzalo.Ferrada                             		  2.1		  2.6%				Thu 28 Aug 2025 02:50:38 GMT
-Haiqin.Li                                   		  1.5		  1.9%				Thu 28 Aug 2025 03:46:14 GMT
-Ben.Green                                   		  1.2		  1.5%				Thu 28 Aug 2025 04:10:17 GMT
-lzhang                                      		  1.1		  1.4%				Thu 28 Aug 2025 01:52:48 GMT
-data_others                                 		  1.0		  1.3%				Thu 28 Aug 2025 01:10:46 GMT
-Ning.Wang                                   		  0.9		  1.2%				Thu 28 Aug 2025 01:08:32 GMT
-global_exp                                  		  0.9		  1.1%				Thu 28 Aug 2025 04:09:07 GMT
-KaYee.Wong                                  		  0.5		  0.7%				Thu 28 Aug 2025 00:50:43 GMT
-role.rtgsd-fv3-dev                          		  0.3		  0.4%				Thu 28 Aug 2025 03:10:07 GMT
-mpas_dev                                    		  0.1		  0.1%				Thu 28 Aug 2025 02:35:16 GMT
-bleck                                       		  0.1		  0.1%				Thu 28 Aug 2025 01:19:26 GMT
-Ted.Mansell                                 		  0.1		  0.1%				Thu 28 Aug 2025 04:15:29 GMT
-rtsubx                                      		  0.1		  0.1%				Thu 28 Aug 2025 01:20:40 GMT
-fimdata                                     		  0.0		  0.0%				Thu 28 Aug 2025 04:15:33 GMT
-Bo.Huang                                    		  0.0		  0.0%				Thu 28 Aug 2025 04:13:55 GMT
-mss_xfr                                     		  0.0		  0.0%				Thu 28 Aug 2025 02:35:32 GMT
-GFS_RETRO_NETCDF                            		  0.0		  0.0%				Thu 28 Aug 2025 03:46:14 GMT
-Gerard.Ketefian                             		  0.0		  0.0%				Thu 28 Aug 2025 04:15:33 GMT
+/scratch3/BMC/gsd-fv3-dev                   		 35.7		 45.6%		 78.1		Sat 30 Aug 2025 03:39:31 GMT
+NCEPDEV                                     		 18.9		 24.2%				Sat 30 Aug 2025 03:21:25 GMT
+Shan.Sun                                    		  3.9		  5.0%				Sat 30 Aug 2025 02:18:24 GMT
+--unseen-by-du--                            		  3.1		  3.9%				Sat 30 Aug 2025 03:39:31 GMT
+Gonzalo.Ferrada                             		  2.1		  2.6%				Sat 30 Aug 2025 02:31:15 GMT
+Haiqin.Li                                   		  1.5		  1.9%				Sat 30 Aug 2025 03:10:11 GMT
+Ben.Green                                   		  1.2		  1.5%				Sat 30 Aug 2025 03:35:02 GMT
+lzhang                                      		  1.1		  1.4%				Sat 30 Aug 2025 01:38:26 GMT
+data_others                                 		  1.0		  1.3%				Sat 30 Aug 2025 00:59:05 GMT
+Ning.Wang                                   		  0.9		  1.2%				Sat 30 Aug 2025 00:57:44 GMT
+global_exp                                  		  0.9		  1.1%				Sat 30 Aug 2025 03:34:14 GMT
+KaYee.Wong                                  		  0.5		  0.7%				Sat 30 Aug 2025 00:45:44 GMT
+role.rtgsd-fv3-dev                          		  0.3		  0.4%				Sat 30 Aug 2025 02:39:39 GMT
+mpas_dev                                    		  0.1		  0.1%				Sat 30 Aug 2025 02:19:44 GMT
+bleck                                       		  0.1		  0.1%				Sat 30 Aug 2025 01:03:46 GMT
+Ted.Mansell                                 		  0.1		  0.1%				Sat 30 Aug 2025 03:39:29 GMT
+rtsubx                                      		  0.1		  0.1%				Sat 30 Aug 2025 01:05:01 GMT
+fimdata                                     		  0.0		  0.0%				Sat 30 Aug 2025 03:39:31 GMT
+Bo.Huang                                    		  0.0		  0.0%				Sat 30 Aug 2025 03:36:02 GMT
+mss_xfr                                     		  0.0		  0.0%				Sat 30 Aug 2025 02:20:11 GMT
+GFS_RETRO_NETCDF                            		  0.0		  0.0%				Sat 30 Aug 2025 03:10:11 GMT
+Gerard.Ketefian                             		  0.0		  0.0%				Sat 30 Aug 2025 03:39:31 GMT
 
-/scratch4/BMC/gsd-fv3-dev                   		 52.8		 67.6%		 78.1		Thu 28 Aug 2025 02:40:54 GMT
-Gonzalo.Ferrada                             		 10.9		 14.0%				Thu 28 Aug 2025 02:20:26 GMT
---unseen-by-du--                            		 10.0		 12.9%				Thu 28 Aug 2025 02:40:54 GMT
-Ben.Green                                   		  9.7		 12.4%				Thu 28 Aug 2025 02:01:48 GMT
-Bo.Huang                                    		  4.6		  5.9%				Thu 28 Aug 2025 01:49:44 GMT
-NCEPDEV                                     		  3.9		  4.9%				Thu 28 Aug 2025 02:20:28 GMT
-role.rtgsd-fv3-dev                          		  3.3		  4.2%				Thu 28 Aug 2025 02:15:02 GMT
-Haiqin.Li                                   		  3.2		  4.1%				Thu 28 Aug 2025 02:15:01 GMT
-Shan.Sun                                    		  2.1		  2.7%				Thu 28 Aug 2025 02:34:28 GMT
-lzhang                                      		  2.0		  2.6%				Thu 28 Aug 2025 00:41:10 GMT
-Ning.Wang                                   		  1.5		  1.9%				Thu 28 Aug 2025 02:09:28 GMT
-bleck                                       		  0.9		  1.1%				Thu 28 Aug 2025 02:11:39 GMT
-Gerard.Ketefian                             		  0.5		  0.6%				Thu 28 Aug 2025 02:06:23 GMT
-Darri.Stuber                                		  0.2		  0.2%				Thu 28 Aug 2025 00:45:42 GMT
-Michael.Kavulich                            		  0.0		  0.0%				Thu 28 Aug 2025 02:40:54 GMT
-NCEPDEV2                                    		  0.0		  0.0%				Thu 28 Aug 2025 02:20:31 GMT
-KaYee.Wong                                  		  0.0		  0.0%				Thu 28 Aug 2025 02:20:28 GMT
+/scratch4/BMC/gsd-fv3-dev                   		 56.9		 72.8%		 78.1		Sat 30 Aug 2025 04:17:34 GMT
+--unseen-by-du--                            		 12.7		 16.3%				Sat 30 Aug 2025 04:17:34 GMT
+Gonzalo.Ferrada                             		 12.3		 15.7%				Sat 30 Aug 2025 03:04:11 GMT
+Ben.Green                                   		  9.7		 12.4%				Sat 30 Aug 2025 02:29:34 GMT
+Bo.Huang                                    		  4.6		  5.9%				Sat 30 Aug 2025 02:05:23 GMT
+NCEPDEV                                     		  3.9		  4.9%				Sat 30 Aug 2025 03:04:16 GMT
+role.rtgsd-fv3-dev                          		  3.3		  4.2%				Sat 30 Aug 2025 02:53:15 GMT
+Haiqin.Li                                   		  3.2		  4.1%				Sat 30 Aug 2025 02:53:15 GMT
+Shan.Sun                                    		  2.1		  2.7%				Sat 30 Aug 2025 03:23:58 GMT
+lzhang                                      		  2.0		  2.6%				Sat 30 Aug 2025 00:46:48 GMT
+Ning.Wang                                   		  1.5		  1.9%				Sat 30 Aug 2025 02:41:57 GMT
+bleck                                       		  0.9		  1.1%				Sat 30 Aug 2025 02:44:44 GMT
+Gerard.Ketefian                             		  0.5		  0.6%				Sat 30 Aug 2025 02:37:13 GMT
+Darri.Stuber                                		  0.2		  0.2%				Sat 30 Aug 2025 00:52:54 GMT
+Michael.Kavulich                            		  0.1		  0.1%				Sat 30 Aug 2025 04:17:34 GMT
+NCEPDEV2                                    		  0.0		  0.0%				Sat 30 Aug 2025 03:04:19 GMT
+KaYee.Wong                                  		  0.0		  0.0%				Sat 30 Aug 2025 03:04:16 GMT
 
-/scratch3/BMC/gsd-hpcs                      		 43.3		 44.4%		 97.7		Thu 28 Aug 2025 04:39:39 GMT
-Daniel.Abdi                                 		 11.5		 11.7%				Thu 28 Aug 2025 04:39:39 GMT
-Timothy.S.Sliwinski                         		  9.8		 10.1%				Thu 28 Aug 2025 01:11:09 GMT
---unseen-by-du--                            		  9.1		  9.4%				Thu 28 Aug 2025 04:39:39 GMT
-rosenberg                                   		  7.7		  7.9%				Thu 28 Aug 2025 01:25:17 GMT
-Paul.Madden                                 		  3.3		  3.4%				Thu 28 Aug 2025 03:39:34 GMT
-isidora                                     		  1.1		  1.1%				Thu 28 Aug 2025 01:17:18 GMT
-safarik                                     		  0.8		  0.8%				Thu 28 Aug 2025 01:19:31 GMT
-Christopher.W.Harrop                        		  0.0		  0.0%				Thu 28 Aug 2025 00:30:16 GMT
+/scratch3/BMC/gsd-hpcs                      		 42.9		 43.9%		 97.7		Sat 30 Aug 2025 02:49:52 GMT
+Daniel.Abdi                                 		 11.5		 11.7%				Sat 30 Aug 2025 02:49:52 GMT
+Timothy.S.Sliwinski                         		  9.8		 10.1%				Sat 30 Aug 2025 00:38:16 GMT
+--unseen-by-du--                            		  8.7		  8.9%				Sat 30 Aug 2025 02:49:52 GMT
+rosenberg                                   		  7.7		  7.9%				Sat 30 Aug 2025 00:52:21 GMT
+Paul.Madden                                 		  3.3		  3.4%				Sat 30 Aug 2025 02:26:24 GMT
+isidora                                     		  1.1		  1.1%				Sat 30 Aug 2025 00:41:07 GMT
+safarik                                     		  0.8		  0.8%				Sat 30 Aug 2025 00:46:37 GMT
+Christopher.W.Harrop                        		  0.0		  0.0%				Sat 30 Aug 2025 00:30:20 GMT
 
-/scratch3/BMC/gsd-fv3                       		 34.6		 44.2%		 78.1		Thu 28 Aug 2025 01:52:22 GMT
-rtruns                                      		 14.5		 18.6%				Thu 28 Aug 2025 01:22:56 GMT
---unseen-by-du--                            		 13.1		 16.8%				Thu 28 Aug 2025 01:52:22 GMT
-exp                                         		  4.2		  5.3%				Thu 28 Aug 2025 01:51:47 GMT
-role.rtgsd-fv3-dev                          		  1.9		  2.4%				Thu 28 Aug 2025 01:23:02 GMT
-rtsubx_hera                                 		  0.8		  1.0%				Thu 28 Aug 2025 01:32:57 GMT
-rtsubx_ursa                                 		  0.1		  0.1%				Thu 28 Aug 2025 01:52:22 GMT
-ncl_graphics                                		  0.0		  0.0%				Thu 28 Aug 2025 01:23:12 GMT
-logs                                        		  0.0		  0.0%				Thu 28 Aug 2025 01:23:13 GMT
-rtsubx                                      		  0.0		  0.0%				Thu 28 Aug 2025 00:30:16 GMT
+/scratch3/BMC/gsd-fv3                       		 35.5		 45.4%		 78.1		Sat 30 Aug 2025 01:50:36 GMT
+rtruns                                      		 14.6		 18.7%				Sat 30 Aug 2025 01:08:40 GMT
+--unseen-by-du--                            		 13.6		 17.4%				Sat 30 Aug 2025 01:50:36 GMT
+exp                                         		  4.2		  5.3%				Sat 30 Aug 2025 01:49:19 GMT
+role.rtgsd-fv3-dev                          		  2.2		  2.8%				Sat 30 Aug 2025 01:08:55 GMT
+rtsubx_hera                                 		  0.8		  1.0%				Sat 30 Aug 2025 01:18:26 GMT
+rtsubx_ursa                                 		  0.1		  0.1%				Sat 30 Aug 2025 01:50:36 GMT
+ncl_graphics                                		  0.0		  0.0%				Sat 30 Aug 2025 01:09:06 GMT
+logs                                        		  0.0		  0.0%				Sat 30 Aug 2025 01:09:06 GMT
+rtsubx                                      		  0.0		  0.0%				Sat 30 Aug 2025 00:30:20 GMT
 
-/scratch3/BMC/gmtb                          		 24.4		 83.1%		 29.3		Thu 28 Aug 2025 03:42:30 GMT
---unseen-by-du--                            		  6.3		 21.6%				Thu 28 Aug 2025 03:42:30 GMT
-Man.Zhang                                   		  5.8		 19.6%				Thu 28 Aug 2025 01:56:53 GMT
-Grant.Firl                                  		  4.7		 16.0%				Thu 28 Aug 2025 01:07:01 GMT
-Dustin.Swales                               		  4.5		 15.5%				Thu 28 Aug 2025 00:55:27 GMT
-Weiwei.Li                                   		  2.7		  9.1%				Thu 28 Aug 2025 03:06:34 GMT
-Xia.Sun                                     		  0.2		  0.6%				Thu 28 Aug 2025 02:00:24 GMT
-Tracy.Hertneky                              		  0.1		  0.5%				Thu 28 Aug 2025 03:42:30 GMT
-Dom.Heinzeller                              		  0.0		  0.2%				Thu 28 Aug 2025 03:41:26 GMT
-ccpp-scm-software                           		  0.0		  0.0%				Thu 28 Aug 2025 02:04:40 GMT
-Michael.Kavulich                            		  0.0		  0.0%				Thu 28 Aug 2025 00:55:31 GMT
+/scratch3/BMC/gmtb                          		 32.0		109.2%		 29.3		Sat 30 Aug 2025 03:15:31 GMT
+--unseen-by-du--                            		  9.5		 32.4%				Sat 30 Aug 2025 03:15:31 GMT
+Grant.Firl                                  		  9.2		 31.3%				Sat 30 Aug 2025 00:56:47 GMT
+Man.Zhang                                   		  5.8		 19.6%				Sat 30 Aug 2025 01:55:34 GMT
+Dustin.Swales                               		  4.6		 15.5%				Sat 30 Aug 2025 00:45:54 GMT
+Weiwei.Li                                   		  2.7		  9.1%				Sat 30 Aug 2025 02:49:40 GMT
+Xia.Sun                                     		  0.2		  0.6%				Sat 30 Aug 2025 02:01:50 GMT
+Tracy.Hertneky                              		  0.1		  0.5%				Sat 30 Aug 2025 03:15:31 GMT
+Dom.Heinzeller                              		  0.0		  0.2%				Sat 30 Aug 2025 03:14:25 GMT
+ccpp-scm-software                           		  0.0		  0.0%				Sat 30 Aug 2025 02:07:25 GMT
+Michael.Kavulich                            		  0.0		  0.0%				Sat 30 Aug 2025 00:45:57 GMT
 
-/scratch3/BMC/acomp                         		128.3		 65.7%		195.3		Thu 28 Aug 2025 03:20:35 GMT
-minsusee                                    		 52.2		 26.7%				Thu 28 Aug 2025 03:20:35 GMT
-Johana.R                                    		 37.4		 19.2%				Thu 28 Aug 2025 03:07:25 GMT
---unseen-by-du--                            		 24.2		 12.4%				Thu 28 Aug 2025 03:20:35 GMT
-Sudheer                                     		 14.3		  7.3%				Thu 28 Aug 2025 03:16:40 GMT
-Haiqin.Li                                   		  0.1		  0.0%				Thu 28 Aug 2025 03:07:41 GMT
-rrfs-sd_tools                               		  0.0		  0.0%				Thu 28 Aug 2025 03:07:29 GMT
-Jordan                                      		  0.0		  0.0%				Thu 28 Aug 2025 03:16:54 GMT
+/scratch3/BMC/acomp                         		140.7		 72.0%		195.3		Sat 30 Aug 2025 03:13:21 GMT
+minsusee                                    		 52.2		 26.7%				Sat 30 Aug 2025 03:13:21 GMT
+Johana.R                                    		 37.4		 19.2%				Sat 30 Aug 2025 02:56:44 GMT
+--unseen-by-du--                            		 28.1		 14.4%				Sat 30 Aug 2025 03:13:21 GMT
+Sudheer                                     		 22.9		 11.7%				Sat 30 Aug 2025 03:11:41 GMT
+Haiqin.Li                                   		  0.1		  0.0%				Sat 30 Aug 2025 02:56:53 GMT
+rrfs-sd_tools                               		  0.0		  0.0%				Sat 30 Aug 2025 02:56:47 GMT
+Jordan                                      		  0.0		  0.0%				Sat 30 Aug 2025 03:11:48 GMT
 
-/scratch4/BMC/rtrr                          		 36.9		 63.0%		 58.6		Thu 28 Aug 2025 00:50:13 GMT
-RRFS2_RETRO_DATA                            		 34.1		 58.2%				Thu 28 Aug 2025 00:49:01 GMT
-RDAS_DATA                                   		  0.8		  1.4%				Thu 28 Aug 2025 00:41:42 GMT
-save.to_be_removed                          		  0.7		  1.1%				Thu 28 Aug 2025 00:49:56 GMT
-FIX_RRFS2                                   		  0.6		  1.0%				Thu 28 Aug 2025 00:41:54 GMT
-FIX_RRFS                                    		  0.3		  0.4%				Thu 28 Aug 2025 00:41:57 GMT
-gge                                         		  0.2		  0.4%				Thu 28 Aug 2025 00:50:13 GMT
---unseen-by-du--                            		  0.2		  0.3%				Thu 28 Aug 2025 00:50:13 GMT
-FIX_pyDAmonitor                             		  0.1		  0.1%				Thu 28 Aug 2025 00:42:00 GMT
-wps_geog                                    		  0.0		  0.0%				Thu 28 Aug 2025 00:41:54 GMT
-nohup.out                                   		  0.0		  0.0%				Thu 28 Aug 2025 00:41:42 GMT
+/scratch4/BMC/rtrr                          		 36.9		 62.9%		 58.6		Sat 30 Aug 2025 00:47:38 GMT
+RRFS2_RETRO_DATA                            		 34.1		 58.2%				Sat 30 Aug 2025 00:47:07 GMT
+RDAS_DATA                                   		  0.8		  1.4%				Sat 30 Aug 2025 00:43:19 GMT
+save.to_be_removed                          		  0.7		  1.1%				Sat 30 Aug 2025 00:47:27 GMT
+FIX_RRFS2                                   		  0.6		  1.0%				Sat 30 Aug 2025 00:43:43 GMT
+FIX_RRFS                                    		  0.3		  0.4%				Sat 30 Aug 2025 00:43:49 GMT
+gge                                         		  0.2		  0.4%				Sat 30 Aug 2025 00:47:38 GMT
+--unseen-by-du--                            		  0.2		  0.3%				Sat 30 Aug 2025 00:47:38 GMT
+FIX_pyDAmonitor                             		  0.1		  0.1%				Sat 30 Aug 2025 00:43:54 GMT
+wps_geog                                    		  0.0		  0.0%				Sat 30 Aug 2025 00:43:43 GMT
+nohup.out                                   		  0.0		  0.0%				Sat 30 Aug 2025 00:43:19 GMT
 
-/scratch4/BMC/zrtrr                         		 79.3		 36.4%		217.8		Thu 28 Aug 2025 03:18:18 GMT
-Samuel.Degelia                              		 53.8		 24.7%				Thu 28 Aug 2025 01:17:03 GMT
-Ruifang.Li                                  		 15.8		  7.3%				Thu 28 Aug 2025 03:18:17 GMT
---unseen-by-du--                            		  4.9		  2.2%				Thu 28 Aug 2025 03:18:18 GMT
-Gerard.Ketefian                             		  2.3		  1.0%				Thu 28 Aug 2025 01:17:04 GMT
-bjallen                                     		  2.0		  0.9%				Thu 28 Aug 2025 01:19:43 GMT
-llin                                        		  0.5		  0.2%				Thu 28 Aug 2025 01:01:40 GMT
-jsimonson                                   		  0.0		  0.0%				Thu 28 Aug 2025 01:23:41 GMT
-aback                                       		  0.0		  0.0%				Thu 28 Aug 2025 01:20:47 GMT
+/scratch4/BMC/zrtrr                         		 80.3		 36.9%		217.8		Sat 30 Aug 2025 03:48:10 GMT
+Samuel.Degelia                              		 54.4		 25.0%				Sat 30 Aug 2025 01:33:25 GMT
+Ruifang.Li                                  		 15.8		  7.3%				Sat 30 Aug 2025 03:48:10 GMT
+--unseen-by-du--                            		  5.2		  2.4%				Sat 30 Aug 2025 03:48:10 GMT
+Gerard.Ketefian                             		  2.3		  1.0%				Sat 30 Aug 2025 01:33:30 GMT
+bjallen                                     		  2.0		  0.9%				Sat 30 Aug 2025 01:36:20 GMT
+llin                                        		  0.5		  0.2%				Sat 30 Aug 2025 01:06:28 GMT
+jsimonson                                   		  0.0		  0.0%				Sat 30 Aug 2025 01:46:37 GMT
+aback                                       		  0.0		  0.0%				Sat 30 Aug 2025 01:38:32 GMT
 
-/scratch4/BMC/rtruc                         		  0.1		  2.6%		  3.0		Thu 28 Aug 2025 01:53:52 GMT
-RUC13                                       		  0.1		  2.0%				Thu 28 Aug 2025 01:51:10 GMT
-Kevin.Brundage                              		  0.0		  0.4%				Thu 28 Aug 2025 01:51:22 GMT
-Paul.Madden                                 		  0.0		  0.2%				Thu 28 Aug 2025 01:53:51 GMT
---unseen-by-du--                            		  0.0		  0.0%				Thu 28 Aug 2025 01:53:52 GMT
-ncl_graphics                                		  0.0		  0.0%				Thu 28 Aug 2025 01:50:16 GMT
-log                                         		  0.0		  0.0%				Thu 28 Aug 2025 01:51:10 GMT
+/scratch4/BMC/rtruc                         		  0.1		  2.6%		  3.0		Sat 30 Aug 2025 02:05:28 GMT
+RUC13                                       		  0.1		  2.0%				Sat 30 Aug 2025 02:01:08 GMT
+Kevin.Brundage                              		  0.0		  0.4%				Sat 30 Aug 2025 02:01:21 GMT
+Paul.Madden                                 		  0.0		  0.2%				Sat 30 Aug 2025 02:05:28 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Sat 30 Aug 2025 02:05:28 GMT
+ncl_graphics                                		  0.0		  0.0%				Sat 30 Aug 2025 02:00:41 GMT
+log                                         		  0.0		  0.0%				Sat 30 Aug 2025 02:01:08 GMT
 
-/scratch3/BMC/amb-verif                     		  3.6		 12.3%		 29.3		Thu 28 Aug 2025 03:33:35 GMT
-VERIF                                       		  1.9		  6.6%				Thu 28 Aug 2025 03:25:10 GMT
---unseen-by-du--                            		  1.2		  4.1%				Thu 28 Aug 2025 03:33:35 GMT
-FSS_RT                                      		  0.3		  1.1%				Thu 28 Aug 2025 03:32:35 GMT
-hamilton                                    		  0.1		  0.4%				Thu 28 Aug 2025 03:33:29 GMT
-RETRO_GRAPHICS                              		  0.0		  0.1%				Thu 28 Aug 2025 02:05:35 GMT
-embverify                                   		  0.0		  0.0%				Thu 28 Aug 2025 02:04:27 GMT
-miniconda                                   		  0.0		  0.0%				Thu 28 Aug 2025 02:23:11 GMT
-tmp_dirs                                    		  0.0		  0.0%				Thu 28 Aug 2025 03:33:34 GMT
-acars_retro_data                            		  0.0		  0.0%				Thu 28 Aug 2025 03:33:30 GMT
-metviewer                                   		  0.0		  0.0%				Thu 28 Aug 2025 02:05:19 GMT
-rtma_mesonet_uselists                       		  0.0		  0.0%				Thu 28 Aug 2025 03:33:30 GMT
-rap_ops_mesonet_uselists                    		  0.0		  0.0%				Thu 28 Aug 2025 03:25:35 GMT
-mesonet_uselists                            		  0.0		  0.0%				Thu 28 Aug 2025 03:33:30 GMT
-hrrr_mesonet_uselists                       		  0.0		  0.0%				Thu 28 Aug 2025 02:05:20 GMT
-mvloadrequests                              		  0.0		  0.0%				Thu 28 Aug 2025 03:25:17 GMT
-git                                         		  0.0		  0.0%				Thu 28 Aug 2025 03:32:35 GMT
-mvprocessing_2.7                            		  0.0		  0.0%				Thu 28 Aug 2025 03:25:31 GMT
-mvprocessing_2.2                            		  0.0		  0.0%				Thu 28 Aug 2025 02:05:32 GMT
-Ruifang.Li                                  		  0.0		  0.0%				Thu 28 Aug 2025 03:33:30 GMT
-mvprocessing_2.5                            		  0.0		  0.0%				Thu 28 Aug 2025 03:33:29 GMT
-mvprocessing_2.6                            		  0.0		  0.0%				Thu 28 Aug 2025 02:05:28 GMT
-log                                         		  0.0		  0.0%				Thu 28 Aug 2025 03:32:36 GMT
-precip_mesonets2_staging                    		  0.0		  0.0%				Thu 28 Aug 2025 02:05:36 GMT
-jasper                                      		  0.0		  0.0%				Thu 28 Aug 2025 02:05:36 GMT
-dturner                                     		  0.0		  0.0%				Thu 28 Aug 2025 03:25:10 GMT
-mvloadrequests_v2                           		  0.0		  0.0%				Thu 28 Aug 2025 02:05:35 GMT
+/scratch3/BMC/amb-verif                     		  3.6		 12.3%		 29.3		Sat 30 Aug 2025 02:20:06 GMT
+VERIF                                       		  1.9		  6.6%				Sat 30 Aug 2025 02:16:31 GMT
+--unseen-by-du--                            		  1.2		  4.1%				Sat 30 Aug 2025 02:20:06 GMT
+FSS_RT                                      		  0.3		  1.1%				Sat 30 Aug 2025 02:19:10 GMT
+hamilton                                    		  0.1		  0.4%				Sat 30 Aug 2025 02:19:54 GMT
+RETRO_GRAPHICS                              		  0.0		  0.1%				Sat 30 Aug 2025 02:02:29 GMT
+embverify                                   		  0.0		  0.0%				Sat 30 Aug 2025 02:01:58 GMT
+miniconda                                   		  0.0		  0.0%				Sat 30 Aug 2025 02:06:12 GMT
+tmp_dirs                                    		  0.0		  0.0%				Sat 30 Aug 2025 02:20:06 GMT
+acars_retro_data                            		  0.0		  0.0%				Sat 30 Aug 2025 02:19:55 GMT
+metviewer                                   		  0.0		  0.0%				Sat 30 Aug 2025 02:02:25 GMT
+rtma_mesonet_uselists                       		  0.0		  0.0%				Sat 30 Aug 2025 02:19:55 GMT
+rap_ops_mesonet_uselists                    		  0.0		  0.0%				Sat 30 Aug 2025 02:16:33 GMT
+mesonet_uselists                            		  0.0		  0.0%				Sat 30 Aug 2025 02:19:55 GMT
+hrrr_mesonet_uselists                       		  0.0		  0.0%				Sat 30 Aug 2025 02:02:25 GMT
+mvloadrequests                              		  0.0		  0.0%				Sat 30 Aug 2025 02:16:31 GMT
+git                                         		  0.0		  0.0%				Sat 30 Aug 2025 02:19:11 GMT
+mvprocessing_2.7                            		  0.0		  0.0%				Sat 30 Aug 2025 02:16:33 GMT
+mvprocessing_2.2                            		  0.0		  0.0%				Sat 30 Aug 2025 02:02:27 GMT
+Ruifang.Li                                  		  0.0		  0.0%				Sat 30 Aug 2025 02:19:54 GMT
+mvprocessing_2.5                            		  0.0		  0.0%				Sat 30 Aug 2025 02:19:54 GMT
+mvprocessing_2.6                            		  0.0		  0.0%				Sat 30 Aug 2025 02:02:26 GMT
+log                                         		  0.0		  0.0%				Sat 30 Aug 2025 02:19:12 GMT
+precip_mesonets2_staging                    		  0.0		  0.0%				Sat 30 Aug 2025 02:02:29 GMT
+jasper                                      		  0.0		  0.0%				Sat 30 Aug 2025 02:02:29 GMT
+dturner                                     		  0.0		  0.0%				Sat 30 Aug 2025 02:16:31 GMT
+mvloadrequests_v2                           		  0.0		  0.0%				Sat 30 Aug 2025 02:02:29 GMT
 
-/scratch4/BMC/amb-verif                     		 19.2		 65.6%		 29.3		Thu 28 Aug 2025 02:12:20 GMT
-global_g2g_verif                            		  5.3		 18.1%				Thu 28 Aug 2025 02:12:18 GMT
---unseen-by-du--                            		  5.0		 17.1%				Thu 28 Aug 2025 02:12:20 GMT
-regional_g2g_verif                          		  4.1		 14.0%				Thu 28 Aug 2025 02:08:22 GMT
-RT_ensemble_prod                            		  3.1		 10.6%				Thu 28 Aug 2025 02:03:12 GMT
-FSS_RT                                      		  1.5		  5.1%				Thu 28 Aug 2025 02:08:22 GMT
-hamilton                                    		  0.2		  0.5%				Thu 28 Aug 2025 02:03:13 GMT
-dturner                                     		  0.0		  0.1%				Thu 28 Aug 2025 02:03:21 GMT
-mesonet_uselists                            		  0.0		  0.0%				Thu 28 Aug 2025 02:03:13 GMT
-couchbase_load_test_data                    		  0.0		  0.0%				Thu 28 Aug 2025 02:03:30 GMT
-tcmet                                       		  0.0		  0.0%				Thu 28 Aug 2025 02:02:31 GMT
-amdar                                       		  0.0		  0.0%				Thu 28 Aug 2025 02:00:21 GMT
-mats_metadata                               		  0.0		  0.0%				Thu 28 Aug 2025 02:03:22 GMT
-hrrre_samples                               		  0.0		  0.0%				Thu 28 Aug 2025 02:03:13 GMT
-amdar_reject_lists                          		  0.0		  0.0%				Thu 28 Aug 2025 02:12:19 GMT
-ensemble                                    		  0.0		  0.0%				Thu 28 Aug 2025 02:03:30 GMT
-precip_mesonets2                            		  0.0		  0.0%				Thu 28 Aug 2025 02:03:12 GMT
-metadata_output                             		  0.0		  0.0%				Thu 28 Aug 2025 02:12:19 GMT
-HFIP_2025_TC_tracks_from_Jet                		  0.0		  0.0%				Thu 28 Aug 2025 02:03:13 GMT
-mollys                                      		  0.0		  0.0%				Thu 28 Aug 2025 02:03:13 GMT
+/scratch4/BMC/amb-verif                     		 18.0		 61.5%		 29.3		Sat 30 Aug 2025 02:27:32 GMT
+global_g2g_verif                            		  5.5		 18.6%				Sat 30 Aug 2025 02:27:29 GMT
+regional_g2g_verif                          		  4.3		 14.5%				Sat 30 Aug 2025 02:23:56 GMT
+--unseen-by-du--                            		  3.6		 12.4%				Sat 30 Aug 2025 02:27:32 GMT
+RT_ensemble_prod                            		  3.1		 10.6%				Sat 30 Aug 2025 02:18:51 GMT
+FSS_RT                                      		  1.4		  4.7%				Sat 30 Aug 2025 02:23:57 GMT
+hamilton                                    		  0.2		  0.5%				Sat 30 Aug 2025 02:18:52 GMT
+dturner                                     		  0.0		  0.1%				Sat 30 Aug 2025 02:18:59 GMT
+mesonet_uselists                            		  0.0		  0.0%				Sat 30 Aug 2025 02:18:52 GMT
+couchbase_load_test_data                    		  0.0		  0.0%				Sat 30 Aug 2025 02:19:11 GMT
+tcmet                                       		  0.0		  0.0%				Sat 30 Aug 2025 02:18:25 GMT
+amdar                                       		  0.0		  0.0%				Sat 30 Aug 2025 02:10:46 GMT
+mats_metadata                               		  0.0		  0.0%				Sat 30 Aug 2025 02:19:00 GMT
+hrrre_samples                               		  0.0		  0.0%				Sat 30 Aug 2025 02:18:52 GMT
+amdar_reject_lists                          		  0.0		  0.0%				Sat 30 Aug 2025 02:27:32 GMT
+ensemble                                    		  0.0		  0.0%				Sat 30 Aug 2025 02:19:12 GMT
+precip_mesonets2                            		  0.0		  0.0%				Sat 30 Aug 2025 02:18:51 GMT
+metadata_output                             		  0.0		  0.0%				Sat 30 Aug 2025 02:27:32 GMT
+HFIP_2025_TC_tracks_from_Jet                		  0.0		  0.0%				Sat 30 Aug 2025 02:18:52 GMT
+mollys                                      		  0.0		  0.0%				Sat 30 Aug 2025 02:18:52 GMT
 
-/scratch3/BMC/zrtrr                         		 11.9		  8.1%		146.6		Thu 28 Aug 2025 02:49:58 GMT
-RRFS_RETRO_DATA                             		  8.6		  5.9%				Thu 28 Aug 2025 02:35:34 GMT
-bjallen                                     		  2.0		  1.4%				Thu 28 Aug 2025 02:42:48 GMT
-Samuel.Degelia                              		  1.1		  0.8%				Thu 28 Aug 2025 02:49:58 GMT
---unseen-by-du--                            		  0.1		  0.1%				Thu 28 Aug 2025 02:49:58 GMT
-gge                                         		  0.0		  0.0%				Thu 28 Aug 2025 02:38:56 GMT
-aback                                       		  0.0		  0.0%				Thu 28 Aug 2025 02:38:56 GMT
-hlin                                        		  0.0		  0.0%				Thu 28 Aug 2025 02:35:34 GMT
-llin                                        		  0.0		  0.0%				Thu 28 Aug 2025 02:42:48 GMT
-Ruifang.Li                                  		  0.0		  0.0%				Thu 28 Aug 2025 02:42:48 GMT
+/scratch3/BMC/zrtrr                         		 11.9		  8.1%		146.6		Sat 30 Aug 2025 02:30:56 GMT
+RRFS_RETRO_DATA                             		  8.6		  5.9%				Sat 30 Aug 2025 02:22:17 GMT
+bjallen                                     		  2.0		  1.4%				Sat 30 Aug 2025 02:28:29 GMT
+Samuel.Degelia                              		  1.1		  0.8%				Sat 30 Aug 2025 02:30:56 GMT
+--unseen-by-du--                            		  0.1		  0.1%				Sat 30 Aug 2025 02:30:56 GMT
+gge                                         		  0.0		  0.0%				Sat 30 Aug 2025 02:25:30 GMT
+aback                                       		  0.0		  0.0%				Sat 30 Aug 2025 02:25:30 GMT
+hlin                                        		  0.0		  0.0%				Sat 30 Aug 2025 02:22:18 GMT
+llin                                        		  0.0		  0.0%				Sat 30 Aug 2025 02:28:29 GMT
+Ruifang.Li                                  		  0.0		  0.0%				Sat 30 Aug 2025 02:28:29 GMT
 
-/scratch3/BMC/hmtb                          		 14.0		 24.7%		 56.7		Thu 28 Aug 2025 04:37:52 GMT
-Michael.Kavulich                            		  5.7		 10.0%				Thu 28 Aug 2025 04:20:12 GMT
---unseen-by-du--                            		  4.5		  7.9%				Thu 28 Aug 2025 04:37:52 GMT
-Daniel.Abdi                                 		  3.0		  5.2%				Thu 28 Aug 2025 04:37:08 GMT
-harrold                                     		  0.9		  1.5%				Thu 28 Aug 2025 03:13:21 GMT
-mayfield                                    		  0.0		  0.1%				Thu 28 Aug 2025 04:37:52 GMT
-isidora                                     		  0.0		  0.0%				Thu 28 Aug 2025 03:13:28 GMT
-beck                                        		  0.0		  0.0%				Thu 28 Aug 2025 03:13:27 GMT
-Paul.Madden                                 		  0.0		  0.0%				Thu 28 Aug 2025 04:20:12 GMT
+/scratch3/BMC/hmtb                          		 13.9		 24.6%		 56.7		Sat 30 Aug 2025 03:18:19 GMT
+Michael.Kavulich                            		  5.7		 10.0%				Sat 30 Aug 2025 03:07:19 GMT
+--unseen-by-du--                            		  4.4		  7.8%				Sat 30 Aug 2025 03:18:19 GMT
+Daniel.Abdi                                 		  3.0		  5.2%				Sat 30 Aug 2025 03:17:57 GMT
+harrold                                     		  0.8		  1.5%				Sat 30 Aug 2025 02:37:49 GMT
+mayfield                                    		  0.0		  0.1%				Sat 30 Aug 2025 03:18:19 GMT
+isidora                                     		  0.0		  0.0%				Sat 30 Aug 2025 02:37:53 GMT
+beck                                        		  0.0		  0.0%				Sat 30 Aug 2025 02:37:51 GMT
+Paul.Madden                                 		  0.0		  0.0%				Sat 30 Aug 2025 03:07:19 GMT
 
-/scratch4/BMC/gsd-fv3-test                  		 40.1		 91.3%		 43.9		Thu 28 Aug 2025 03:01:06 GMT
-Shan.Sun                                    		 25.5		 58.1%				Thu 28 Aug 2025 02:59:31 GMT
---unseen-by-du--                            		 14.1		 32.0%				Thu 28 Aug 2025 03:01:06 GMT
-Gonzalo.Ferrada                             		  0.5		  1.2%				Thu 28 Aug 2025 02:50:23 GMT
-Michael.Kavulich                            		  0.0		  0.0%				Thu 28 Aug 2025 03:00:56 GMT
+/scratch4/BMC/gsd-fv3-test                  		 39.7		 90.4%		 43.9		Sat 30 Aug 2025 02:47:23 GMT
+Shan.Sun                                    		 25.7		 58.6%				Sat 30 Aug 2025 02:46:19 GMT
+--unseen-by-du--                            		 13.5		 30.6%				Sat 30 Aug 2025 02:47:23 GMT
+Gonzalo.Ferrada                             		  0.5		  1.2%				Sat 30 Aug 2025 02:40:19 GMT
+Michael.Kavulich                            		  0.0		  0.0%				Sat 30 Aug 2025 02:47:23 GMT
 
-/scratch4/BMC/ap-fc                         		 21.4		 42.9%		 49.9		Thu 28 Aug 2025 03:12:18 GMT
-minsusee                                    		  9.6		 19.3%				Thu 28 Aug 2025 03:12:18 GMT
-Jana                                        		  8.8		 17.6%				Thu 28 Aug 2025 03:12:18 GMT
---unseen-by-du--                            		  3.0		  6.0%				Thu 28 Aug 2025 03:12:18 GMT
+/scratch4/BMC/ap-fc                         		 21.4		 42.8%		 49.9		Sat 30 Aug 2025 02:55:03 GMT
+minsusee                                    		  9.3		 18.6%				Sat 30 Aug 2025 02:55:03 GMT
+Jana                                        		  8.8		 17.6%				Sat 30 Aug 2025 02:55:03 GMT
+--unseen-by-du--                            		  3.3		  6.6%				Sat 30 Aug 2025 02:55:03 GMT
 
-/scratch4/BMC/acomp                         		156.5		 80.1%		195.3		Thu 28 Aug 2025 05:20:26 GMT
-Johana.R                                    		 82.6		 42.3%				Thu 28 Aug 2025 04:29:41 GMT
-minsusee                                    		 48.4		 24.8%				Thu 28 Aug 2025 05:01:22 GMT
---unseen-by-du--                            		 17.6		  9.0%				Thu 28 Aug 2025 05:20:26 GMT
-Jordan                                      		  5.7		  2.9%				Thu 28 Aug 2025 05:20:25 GMT
-Sudheer                                     		  1.9		  1.0%				Thu 28 Aug 2025 04:39:53 GMT
-Haiqin.Li                                   		  0.4		  0.2%				Thu 28 Aug 2025 05:15:24 GMT
-Lindsey                                     		  0.0		  0.0%				Thu 28 Aug 2025 05:20:25 GMT
+/scratch4/BMC/acomp                         		155.9		 79.8%		195.3		Sat 30 Aug 2025 04:04:19 GMT
+Johana.R                                    		 82.6		 42.3%				Sat 30 Aug 2025 03:16:32 GMT
+minsusee                                    		 48.4		 24.8%				Sat 30 Aug 2025 03:53:12 GMT
+--unseen-by-du--                            		 17.1		  8.7%				Sat 30 Aug 2025 04:04:19 GMT
+Jordan                                      		  5.7		  2.9%				Sat 30 Aug 2025 04:04:19 GMT
+Sudheer                                     		  1.9		  1.0%				Sat 30 Aug 2025 03:30:37 GMT
+Haiqin.Li                                   		  0.4		  0.2%				Sat 30 Aug 2025 04:01:25 GMT
+Lindsey                                     		  0.0		  0.0%				Sat 30 Aug 2025 04:04:19 GMT
 
-/scratch4/BMC/fv3lam                        		179.6		 66.9%		268.6		Thu 28 Aug 2025 11:31:56 GMT
-HWT                                         		 94.5		 35.2%				Thu 28 Aug 2025 08:15:13 GMT
-RRFS_prototype                              		 16.8		  6.2%				Thu 28 Aug 2025 05:28:16 GMT
-Gerard.Ketefian                             		 16.0		  5.9%				Thu 28 Aug 2025 07:44:06 GMT
-mayfield                                    		 11.9		  4.4%				Thu 28 Aug 2025 04:40:32 GMT
---unseen-by-du--                            		 11.1		  4.1%				Thu 28 Aug 2025 11:31:56 GMT
-HIWT                                        		 10.4		  3.9%				Thu 28 Aug 2025 07:48:44 GMT
-Vanderlei.Vargas                            		  8.2		  3.1%				Thu 28 Aug 2025 10:01:37 GMT
-ajohns                                      		  3.7		  1.4%				Thu 28 Aug 2025 10:15:46 GMT
-Michael.Kavulich                            		  1.9		  0.7%				Thu 28 Aug 2025 11:31:56 GMT
-ens_design_RRFS                             		  1.7		  0.6%				Thu 28 Aug 2025 05:54:13 GMT
-kalb                                        		  1.2		  0.4%				Thu 28 Aug 2025 06:07:47 GMT
-beck                                        		  1.0		  0.4%				Thu 28 Aug 2025 08:42:33 GMT
-MPAS_stoch                                  		  0.7		  0.2%				Thu 28 Aug 2025 09:25:12 GMT
-harrold                                     		  0.4		  0.2%				Thu 28 Aug 2025 10:08:53 GMT
-larson                                      		  0.2		  0.1%				Thu 28 Aug 2025 09:12:51 GMT
-MUMIP                                       		  0.1		  0.0%				Thu 28 Aug 2025 10:22:48 GMT
-WPS_GEOG                                    		  0.0		  0.0%				Thu 28 Aug 2025 10:03:17 GMT
+/scratch4/BMC/fv3lam                        		175.9		 65.5%		268.6		Sat 30 Aug 2025 10:33:11 GMT
+HWT                                         		 94.5		 35.2%				Sat 30 Aug 2025 07:37:54 GMT
+Gerard.Ketefian                             		 17.1		  6.4%				Sat 30 Aug 2025 07:03:16 GMT
+RRFS_prototype                              		 16.8		  6.2%				Sat 30 Aug 2025 04:26:06 GMT
+mayfield                                    		 11.9		  4.4%				Sat 30 Aug 2025 04:05:50 GMT
+HIWT                                        		 10.4		  3.9%				Sat 30 Aug 2025 07:08:19 GMT
+Vanderlei.Vargas                            		  8.2		  3.1%				Sat 30 Aug 2025 08:32:53 GMT
+--unseen-by-du--                            		  6.1		  2.3%				Sat 30 Aug 2025 10:33:11 GMT
+ajohns                                      		  3.7		  1.4%				Sat 30 Aug 2025 08:45:59 GMT
+Michael.Kavulich                            		  1.9		  0.7%				Sat 30 Aug 2025 10:33:11 GMT
+ens_design_RRFS                             		  1.7		  0.6%				Sat 30 Aug 2025 04:53:22 GMT
+kalb                                        		  1.2		  0.4%				Sat 30 Aug 2025 05:07:50 GMT
+beck                                        		  1.0		  0.4%				Sat 30 Aug 2025 07:47:08 GMT
+MPAS_stoch                                  		  0.7		  0.2%				Sat 30 Aug 2025 08:08:16 GMT
+harrold                                     		  0.4		  0.2%				Sat 30 Aug 2025 08:40:04 GMT
+larson                                      		  0.2		  0.1%				Sat 30 Aug 2025 07:56:29 GMT
+MUMIP                                       		  0.1		  0.0%				Sat 30 Aug 2025 08:50:57 GMT
+schwartz                                    		  0.1		  0.0%				Sat 30 Aug 2025 08:32:54 GMT
+WPS_GEOG                                    		  0.0		  0.0%				Sat 30 Aug 2025 08:35:05 GMT
 
-/scratch4/BMC/ifi                           		  1.2		 24.8%		  5.0		Thu 28 Aug 2025 03:31:51 GMT
-Samuel.Trahan                               		  1.2		 24.8%				Thu 28 Aug 2025 03:31:51 GMT
---unseen-by-du--                            		  0.0		  0.0%				Thu 28 Aug 2025 03:31:51 GMT
+/scratch4/BMC/ifi                           		  1.2		 24.8%		  5.0		Sat 30 Aug 2025 03:24:34 GMT
+Samuel.Trahan                               		  1.2		 24.8%				Sat 30 Aug 2025 03:24:34 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Sat 30 Aug 2025 03:24:34 GMT
 
-/scratch4/BMC/wrfruc                        		396.5		 58.0%		683.6		Thu 28 Aug 2025 19:16:03 GMT
---unseen-by-du--                            		104.6		 15.3%				Thu 28 Aug 2025 19:16:03 GMT
-hwang                                       		 68.4		 10.0%				Thu 28 Aug 2025 18:02:14 GMT
-Shan.Sun                                    		 44.1		  6.5%				Thu 28 Aug 2025 19:03:10 GMT
-hlin                                        		 36.2		  5.3%				Thu 28 Aug 2025 09:18:51 GMT
-jensen                                      		 32.1		  4.7%				Thu 28 Aug 2025 08:06:55 GMT
-jjhu                                        		 31.2		  4.6%				Thu 28 Aug 2025 15:46:01 GMT
-llin                                        		  9.8		  1.4%				Thu 28 Aug 2025 05:18:50 GMT
-talcott                                     		  9.4		  1.4%				Thu 28 Aug 2025 16:27:53 GMT
-eure                                        		  8.1		  1.2%				Thu 28 Aug 2025 07:21:04 GMT
-ejames                                      		  7.9		  1.2%				Thu 28 Aug 2025 07:38:06 GMT
-Ruifang.Li                                  		  7.3		  1.1%				Thu 28 Aug 2025 18:33:57 GMT
-jenglish                                    		  6.7		  1.0%				Thu 28 Aug 2025 16:26:46 GMT
-olson                                       		  6.2		  0.9%				Thu 28 Aug 2025 19:05:45 GMT
-Gerard.Ketefian                             		  5.7		  0.8%				Thu 28 Aug 2025 15:40:05 GMT
-mtoy                                        		  4.1		  0.6%				Thu 28 Aug 2025 16:14:31 GMT
-Haiqin.Li                                   		  2.5		  0.4%				Thu 28 Aug 2025 16:02:53 GMT
-aback                                       		  2.4		  0.4%				Thu 28 Aug 2025 16:27:01 GMT
-ddowell                                     		  2.3		  0.3%				Thu 28 Aug 2025 19:09:38 GMT
-Xia.Sun                                     		  2.1		  0.3%				Thu 28 Aug 2025 07:16:44 GMT
-mhu                                         		  1.2		  0.2%				Thu 28 Aug 2025 19:16:03 GMT
-gge                                         		  0.9		  0.1%				Thu 28 Aug 2025 18:31:25 GMT
-hluo                                        		  0.7		  0.1%				Thu 28 Aug 2025 15:56:27 GMT
-mpas                                        		  0.5		  0.1%				Thu 28 Aug 2025 18:11:52 GMT
-murdzek                                     		  0.4		  0.1%				Thu 28 Aug 2025 03:56:48 GMT
-naegele                                     		  0.3		  0.1%				Thu 28 Aug 2025 16:10:04 GMT
-Guoqing.Ge                                  		  0.3		  0.0%				Thu 28 Aug 2025 16:28:06 GMT
-jamison                                     		  0.2		  0.0%				Thu 28 Aug 2025 15:57:04 GMT
-Michael.Barlage                             		  0.2		  0.0%				Thu 28 Aug 2025 16:19:56 GMT
-jderrico                                    		  0.2		  0.0%				Thu 28 Aug 2025 16:18:10 GMT
-schumacher                                  		  0.1		  0.0%				Thu 28 Aug 2025 15:40:06 GMT
-chunhua                                     		  0.1		  0.0%				Thu 28 Aug 2025 03:52:14 GMT
-bjallen                                     		  0.0		  0.0%				Thu 28 Aug 2025 15:42:39 GMT
-span                                        		  0.0		  0.0%				Thu 28 Aug 2025 16:10:03 GMT
-Samuel.Trahan                               		  0.0		  0.0%				Thu 28 Aug 2025 16:21:27 GMT
-NCEPDEV                                     		  0.0		  0.0%				Thu 28 Aug 2025 16:26:47 GMT
-cholt                                       		  0.0		  0.0%				Thu 28 Aug 2025 03:40:13 GMT
-aburke                                      		  0.0		  0.0%				Thu 28 Aug 2025 16:18:10 GMT
-jdduda                                      		  0.0		  0.0%				Thu 28 Aug 2025 16:26:47 GMT
+/scratch4/BMC/wrfruc                        		405.5		 59.3%		683.6		Sat 30 Aug 2025 12:17:25 GMT
+--unseen-by-du--                            		106.4		 15.6%				Sat 30 Aug 2025 12:17:25 GMT
+hwang                                       		 68.5		 10.0%				Sat 30 Aug 2025 10:51:06 GMT
+Shan.Sun                                    		 36.7		  5.4%				Sat 30 Aug 2025 12:01:31 GMT
+hlin                                        		 36.2		  5.3%				Sat 30 Aug 2025 08:09:51 GMT
+jensen                                      		 32.1		  4.7%				Sat 30 Aug 2025 07:17:04 GMT
+jjhu                                        		 31.2		  4.6%				Sat 30 Aug 2025 08:55:02 GMT
+ejames                                      		 16.6		  2.4%				Sat 30 Aug 2025 06:50:02 GMT
+llin                                        		  9.9		  1.4%				Sat 30 Aug 2025 04:17:40 GMT
+talcott                                     		  9.4		  1.4%				Sat 30 Aug 2025 10:00:53 GMT
+aback                                       		  8.1		  1.2%				Sat 30 Aug 2025 10:00:00 GMT
+eure                                        		  8.1		  1.2%				Sat 30 Aug 2025 06:38:24 GMT
+Ruifang.Li                                  		  7.3		  1.1%				Sat 30 Aug 2025 11:26:11 GMT
+jenglish                                    		  6.7		  1.0%				Sat 30 Aug 2025 09:59:28 GMT
+olson                                       		  6.2		  0.9%				Sat 30 Aug 2025 12:05:10 GMT
+Gerard.Ketefian                             		  5.7		  0.8%				Sat 30 Aug 2025 08:48:51 GMT
+mtoy                                        		  4.1		  0.6%				Sat 30 Aug 2025 09:24:13 GMT
+Haiqin.Li                                   		  2.5		  0.4%				Sat 30 Aug 2025 09:11:04 GMT
+ddowell                                     		  2.3		  0.3%				Sat 30 Aug 2025 12:09:45 GMT
+Xia.Sun                                     		  2.1		  0.3%				Sat 30 Aug 2025 06:31:33 GMT
+mhu                                         		  1.2		  0.2%				Sat 30 Aug 2025 12:17:25 GMT
+gge                                         		  0.9		  0.1%				Sat 30 Aug 2025 11:23:06 GMT
+hluo                                        		  0.7		  0.1%				Sat 30 Aug 2025 09:03:16 GMT
+mpas                                        		  0.5		  0.1%				Sat 30 Aug 2025 11:03:58 GMT
+murdzek                                     		  0.4		  0.1%				Sat 30 Aug 2025 03:29:30 GMT
+naegele                                     		  0.3		  0.1%				Sat 30 Aug 2025 09:17:45 GMT
+Guoqing.Ge                                  		  0.3		  0.0%				Sat 30 Aug 2025 10:01:04 GMT
+jamison                                     		  0.2		  0.0%				Sat 30 Aug 2025 09:03:58 GMT
+Michael.Barlage                             		  0.2		  0.0%				Sat 30 Aug 2025 09:50:05 GMT
+jderrico                                    		  0.2		  0.0%				Sat 30 Aug 2025 09:48:23 GMT
+schumacher                                  		  0.1		  0.0%				Sat 30 Aug 2025 08:48:51 GMT
+Samuel.Trahan                               		  0.1		  0.0%				Sat 30 Aug 2025 09:54:20 GMT
+chunhua                                     		  0.1		  0.0%				Sat 30 Aug 2025 03:28:39 GMT
+bjallen                                     		  0.0		  0.0%				Sat 30 Aug 2025 08:50:46 GMT
+span                                        		  0.0		  0.0%				Sat 30 Aug 2025 09:17:44 GMT
+NCEPDEV                                     		  0.0		  0.0%				Sat 30 Aug 2025 09:59:29 GMT
+cholt                                       		  0.0		  0.0%				Sat 30 Aug 2025 03:20:16 GMT
+aburke                                      		  0.0		  0.0%				Sat 30 Aug 2025 09:48:23 GMT
+jdduda                                      		  0.0		  0.0%				Sat 30 Aug 2025 09:59:29 GMT
 
