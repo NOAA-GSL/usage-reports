@@ -1,75 +1,75 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked                    age>90d (TB)    age>180d (TB)     Files          File Quota (%)   File Quota
 
 
-/mnt/lfs5/BMC/amb-verif                     		 80.2		102.6%		 78.1		Sun 12 Oct 2025 23:44:12 GMT	    52.3	    43.2	  39521987	     0.0%	98304000000
-realtime                                    		 68.4		 87.6%				Sun 12 Oct 2025 22:53:35 GMT	    46.8	    37.7	  37453477	     0.0%
-regional_g2g_verif                          		  5.7		  7.2%				Sun 12 Oct 2025 00:54:40 GMT	     0.0	     0.0	    300893	     0.0%
-dturner                                     		  4.6		  5.9%				Sun 12 Oct 2025 23:03:45 GMT	     3.8	     3.8	     51518	     0.0%
-backfill                                    		  0.4		  0.6%				Sun 12 Oct 2025 00:30:46 GMT	     0.4	     0.4	    170125	     0.0%
-RT_ensemble_products                        		  0.4		  0.5%				Sun 12 Oct 2025 22:54:47 GMT	     0.4	     0.4	     33987	     0.0%
-hamilton                                    		  0.4		  0.5%				Sun 12 Oct 2025 23:11:08 GMT	     0.4	     0.4	      2427	     0.0%
-natalieb                                    		  0.4		  0.5%				Sun 12 Oct 2025 00:31:54 GMT	     0.4	     0.3	      5066	     0.0%
-global_g2g_verif                            		  0.2		  0.2%				Sun 12 Oct 2025 00:31:35 GMT	     0.0	     0.0	     10890	     0.0%
-mode_realtime_verif                         		  0.1		  0.1%				Sun 12 Oct 2025 23:01:23 GMT	     0.0	     0.0	    191560	     0.0%
-amdar_pblh_verif                            		  0.1		  0.1%				Sun 12 Oct 2025 00:41:07 GMT	     0.0	     0.0	     81281	     0.0%
-acars_retro_data                            		  0.1		  0.1%				Sun 12 Oct 2025 23:22:45 GMT	     0.1	     0.0	      2357	     0.0%
-db_restore                                  		  0.0		  0.1%				Sun 12 Oct 2025 00:38:02 GMT	     0.0	     0.0	       359	     0.0%
-rap_ops_mesonet_uselists                    		  0.0		  0.0%				Sun 12 Oct 2025 00:30:54 GMT	     0.0	     0.0	      2316	     0.0%
-jhamilton                                   		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	       319	     0.0%
-embverify                                   		  0.0		  0.0%				Sun 12 Oct 2025 23:24:48 GMT	     0.0	     0.0	     50095	     0.0%
-miniconda                                   		  0.0		  0.0%				Sun 12 Oct 2025 23:22:20 GMT	     0.0	     0.0	    272793	     0.0%
-anaconda                                    		  0.0		  0.0%				Sun 12 Oct 2025 23:11:04 GMT	     0.0	     0.0	    166855	     0.0%
-anaconda3                                   		  0.0		  0.0%				Sun 12 Oct 2025 00:38:02 GMT	     0.0	     0.0	    142801	     0.0%
-git_test                                    		  0.0		  0.0%				Sun 12 Oct 2025 00:43:51 GMT	     0.0	     0.0	    106869	     0.0%
-mesonet_uselists                            		  0.0		  0.0%				Sun 12 Oct 2025 00:54:54 GMT	     0.0	     0.0	      1240	     0.0%
-tcmet                                       		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	    160528	     0.0%
-hrrr_mesonet_uselists                       		  0.0		  0.0%				Sun 12 Oct 2025 00:32:05 GMT	     0.0	     0.0	       619	     0.0%
-rtma_mesonet_uselists                       		  0.0		  0.0%				Sun 12 Oct 2025 00:54:55 GMT	     0.0	     0.0	       472	     0.0%
-ncl_extraction_1.12                         		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	      1521	     0.0%
-git                                         		  0.0		  0.0%				Sun 12 Oct 2025 23:03:52 GMT	     0.0	     0.0	      4147	     0.0%
-pb_amdar_qc                                 		  0.0		  0.0%				Sun 12 Oct 2025 00:32:04 GMT	     0.0	     0.0	       146	     0.0%
-java8                                       		  0.0		  0.0%				Sun 12 Oct 2025 00:31:42 GMT	     0.0	     0.0	      1794	     0.0%
-Ruifang.Li                                  		  0.0		  0.0%				Sun 12 Oct 2025 00:54:52 GMT	     0.0	     0.0	      8262	     0.0%
-metviewer                                   		  0.0		  0.0%				Sun 12 Oct 2025 23:22:41 GMT	     0.0	     0.0	      6435	     0.0%
-bjallen                                     		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	       698	     0.0%
-Anaconda3-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	         1	     0.0%
-Anaconda2-2018.12-Linux-x86_64.sh           		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	         1	     0.0%
-Anaconda2-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Sun 12 Oct 2025 00:31:54 GMT	     0.0	     0.0	         1	     0.0%
-prepbufr_raob                               		  0.0		  0.0%				Sun 12 Oct 2025 00:32:03 GMT	     0.0	     0.0	      1955	     0.0%
-Chunhua.Zhou                                		  0.0		  0.0%				Sun 12 Oct 2025 00:54:48 GMT	     0.0	     0.0	      5883	     0.0%
-metplus_test                                		  0.0		  0.0%				Sun 12 Oct 2025 00:43:55 GMT	     0.0	     0.0	        57	     0.0%
-git_deploy_key_test                         		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	      1561	     0.0%
-VxLegacyIngest                              		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	      1043	     0.0%
-jjhu                                        		  0.0		  0.0%				Sun 12 Oct 2025 23:03:52 GMT	     0.0	     0.0	        16	     0.0%
-murdzek                                     		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	      1287	     0.0%
-METplus_ensemble                            		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	      1271	     0.0%
-verif                                       		  0.0		  0.0%				Sun 12 Oct 2025 00:43:54 GMT	     0.0	     0.0	      1855	     0.0%
-span                                        		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	        69	     0.0%
-mats_metadata                               		  0.0		  0.0%				Sun 12 Oct 2025 00:30:49 GMT	     0.0	     0.0	       447	     0.0%
-mhu_lib.tar                                 		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	         1	     0.0%
-hluo                                        		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	        13	     0.0%
-amdar                                       		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	       149	     0.0%
-ensemble                                    		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	        78	     0.0%
-METplus                                     		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	       540	     0.0%
-pygrib                                      		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	       162	     0.0%
-kenyon                                      		  0.0		  0.0%				Sun 12 Oct 2025 00:54:55 GMT	     0.0	     0.0	         3	     0.0%
-proj                                        		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	       814	     0.0%
-aback                                       		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	         7	     0.0%
-HFIP_2025_TC_tracks_from_Ursa               		  0.0		  0.0%				Sun 12 Oct 2025 23:22:22 GMT	     0.0	     0.0	       278	     0.0%
-pb_amdar_stats_dir                          		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	         3	     0.0%
-RAPdev1                                     		  0.0		  0.0%				Sun 12 Oct 2025 00:30:50 GMT	     0.0	     0.0	       265	     0.0%
-mollys                                      		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	         1	     0.0%
-duh.log                                     		  0.0		  0.0%				Sun 12 Oct 2025 00:31:54 GMT	     0.0	     0.0	         1	     0.0%
-.usage_scan.csv                             		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	         1	     0.0%
-ensemble_verif                              		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	         3	     0.0%
-pytmp                                       		  0.0		  0.0%				Sun 12 Oct 2025 00:32:03 GMT	     0.0	     0.0	         3	     0.0%
-alcott                                      		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	        10	     0.0%
-RAP-smoke                                   		  0.0		  0.0%				Sun 12 Oct 2025 00:38:02 GMT	     0.0	     0.0	         1	     0.0%
-RTMA_background                             		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	         1	     0.0%
-HRRR-smoke                                  		  0.0		  0.0%				Sun 12 Oct 2025 23:03:45 GMT	     0.0	     0.0	         1	     0.0%
-Xiaoyan.Zhang                               		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	         1	     0.0%
-src                                         		  0.0		  0.0%				Sun 12 Oct 2025 23:23:14 GMT	     0.0	     0.0	         1	     0.0%
-SAR_FV3_GSD                                 		  0.0		  0.0%				Sun 12 Oct 2025 23:44:11 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs5/BMC/amb-verif                     		 82.4		105.4%		 78.1		Tue 14 Oct 2025 23:47:08 GMT	    52.5	    43.3	  40498920	     0.0%	98304000000
+realtime                                    		 70.3		 89.9%				Tue 14 Oct 2025 23:01:16 GMT	    47.0	    37.8	  38365440	     0.0%
+regional_g2g_verif                          		  6.0		  7.6%				Tue 14 Oct 2025 00:56:38 GMT	     0.0	     0.0	    328581	     0.0%
+dturner                                     		  4.6		  5.9%				Tue 14 Oct 2025 23:10:48 GMT	     3.8	     3.8	     51518	     0.0%
+backfill                                    		  0.4		  0.6%				Tue 14 Oct 2025 00:31:05 GMT	     0.4	     0.4	    170125	     0.0%
+RT_ensemble_products                        		  0.4		  0.5%				Tue 14 Oct 2025 23:02:37 GMT	     0.4	     0.4	     33987	     0.0%
+hamilton                                    		  0.4		  0.5%				Tue 14 Oct 2025 23:18:07 GMT	     0.4	     0.4	      2427	     0.0%
+natalieb                                    		  0.4		  0.5%				Tue 14 Oct 2025 00:31:55 GMT	     0.4	     0.3	      5066	     0.0%
+global_g2g_verif                            		  0.2		  0.2%				Tue 14 Oct 2025 00:31:43 GMT	     0.0	     0.0	     11830	     0.0%
+mode_realtime_verif                         		  0.1		  0.1%				Tue 14 Oct 2025 23:09:22 GMT	     0.0	     0.0	    201770	     0.0%
+amdar_pblh_verif                            		  0.1		  0.1%				Tue 14 Oct 2025 00:40:06 GMT	     0.0	     0.0	     86265	     0.0%
+acars_retro_data                            		  0.1		  0.1%				Tue 14 Oct 2025 23:27:41 GMT	     0.1	     0.0	      2357	     0.0%
+db_restore                                  		  0.0		  0.1%				Tue 14 Oct 2025 00:36:24 GMT	     0.0	     0.0	       359	     0.0%
+rap_ops_mesonet_uselists                    		  0.0		  0.0%				Tue 14 Oct 2025 00:31:09 GMT	     0.0	     0.0	      2318	     0.0%
+jhamilton                                   		  0.0		  0.0%				Tue 14 Oct 2025 23:27:49 GMT	     0.0	     0.0	       319	     0.0%
+embverify                                   		  0.0		  0.0%				Tue 14 Oct 2025 23:29:45 GMT	     0.0	     0.0	     50095	     0.0%
+miniconda                                   		  0.0		  0.0%				Tue 14 Oct 2025 23:27:10 GMT	     0.0	     0.0	    272793	     0.0%
+anaconda                                    		  0.0		  0.0%				Tue 14 Oct 2025 23:18:00 GMT	     0.0	     0.0	    166855	     0.0%
+anaconda3                                   		  0.0		  0.0%				Tue 14 Oct 2025 00:36:23 GMT	     0.0	     0.0	    142801	     0.0%
+git_test                                    		  0.0		  0.0%				Tue 14 Oct 2025 00:44:05 GMT	     0.0	     0.0	    106869	     0.0%
+mesonet_uselists                            		  0.0		  0.0%				Tue 14 Oct 2025 00:56:48 GMT	     0.0	     0.0	      1240	     0.0%
+tcmet                                       		  0.0		  0.0%				Tue 14 Oct 2025 23:46:59 GMT	     0.0	     0.0	    161613	     0.0%
+hrrr_mesonet_uselists                       		  0.0		  0.0%				Tue 14 Oct 2025 00:32:00 GMT	     0.0	     0.0	       619	     0.0%
+rtma_mesonet_uselists                       		  0.0		  0.0%				Tue 14 Oct 2025 00:56:49 GMT	     0.0	     0.0	       472	     0.0%
+ncl_extraction_1.12                         		  0.0		  0.0%				Tue 14 Oct 2025 23:47:07 GMT	     0.0	     0.0	      1521	     0.0%
+git                                         		  0.0		  0.0%				Tue 14 Oct 2025 23:11:19 GMT	     0.0	     0.0	      4147	     0.0%
+pb_amdar_qc                                 		  0.0		  0.0%				Tue 14 Oct 2025 00:32:00 GMT	     0.0	     0.0	       146	     0.0%
+java8                                       		  0.0		  0.0%				Tue 14 Oct 2025 00:31:47 GMT	     0.0	     0.0	      1794	     0.0%
+Ruifang.Li                                  		  0.0		  0.0%				Tue 14 Oct 2025 00:56:47 GMT	     0.0	     0.0	      8262	     0.0%
+metviewer                                   		  0.0		  0.0%				Tue 14 Oct 2025 23:27:36 GMT	     0.0	     0.0	      6435	     0.0%
+bjallen                                     		  0.0		  0.0%				Tue 14 Oct 2025 23:27:48 GMT	     0.0	     0.0	       698	     0.0%
+Anaconda3-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Tue 14 Oct 2025 23:47:02 GMT	     0.0	     0.0	         1	     0.0%
+Anaconda2-2018.12-Linux-x86_64.sh           		  0.0		  0.0%				Tue 14 Oct 2025 23:27:49 GMT	     0.0	     0.0	         1	     0.0%
+Anaconda2-5.3.1-Linux-x86_64.sh             		  0.0		  0.0%				Tue 14 Oct 2025 00:31:55 GMT	     0.0	     0.0	         1	     0.0%
+prepbufr_raob                               		  0.0		  0.0%				Tue 14 Oct 2025 00:31:59 GMT	     0.0	     0.0	      1955	     0.0%
+Chunhua.Zhou                                		  0.0		  0.0%				Tue 14 Oct 2025 00:56:43 GMT	     0.0	     0.0	      5883	     0.0%
+metplus_test                                		  0.0		  0.0%				Tue 14 Oct 2025 00:44:09 GMT	     0.0	     0.0	        57	     0.0%
+git_deploy_key_test                         		  0.0		  0.0%				Tue 14 Oct 2025 23:47:06 GMT	     0.0	     0.0	      1561	     0.0%
+VxLegacyIngest                              		  0.0		  0.0%				Tue 14 Oct 2025 23:27:46 GMT	     0.0	     0.0	      1043	     0.0%
+jjhu                                        		  0.0		  0.0%				Tue 14 Oct 2025 23:11:19 GMT	     0.0	     0.0	        16	     0.0%
+murdzek                                     		  0.0		  0.0%				Tue 14 Oct 2025 23:10:53 GMT	     0.0	     0.0	      1287	     0.0%
+METplus_ensemble                            		  0.0		  0.0%				Tue 14 Oct 2025 23:11:02 GMT	     0.0	     0.0	      1271	     0.0%
+verif                                       		  0.0		  0.0%				Tue 14 Oct 2025 00:44:09 GMT	     0.0	     0.0	      1855	     0.0%
+span                                        		  0.0		  0.0%				Tue 14 Oct 2025 23:47:07 GMT	     0.0	     0.0	        69	     0.0%
+mats_metadata                               		  0.0		  0.0%				Tue 14 Oct 2025 00:31:06 GMT	     0.0	     0.0	       447	     0.0%
+mhu_lib.tar                                 		  0.0		  0.0%				Tue 14 Oct 2025 23:47:07 GMT	     0.0	     0.0	         1	     0.0%
+hluo                                        		  0.0		  0.0%				Tue 14 Oct 2025 23:27:46 GMT	     0.0	     0.0	        13	     0.0%
+amdar                                       		  0.0		  0.0%				Tue 14 Oct 2025 23:47:08 GMT	     0.0	     0.0	       151	     0.0%
+ensemble                                    		  0.0		  0.0%				Tue 14 Oct 2025 23:47:02 GMT	     0.0	     0.0	        78	     0.0%
+METplus                                     		  0.0		  0.0%				Tue 14 Oct 2025 23:47:02 GMT	     0.0	     0.0	       540	     0.0%
+pygrib                                      		  0.0		  0.0%				Tue 14 Oct 2025 23:11:03 GMT	     0.0	     0.0	       162	     0.0%
+kenyon                                      		  0.0		  0.0%				Tue 14 Oct 2025 00:56:49 GMT	     0.0	     0.0	         3	     0.0%
+proj                                        		  0.0		  0.0%				Tue 14 Oct 2025 23:10:50 GMT	     0.0	     0.0	       814	     0.0%
+aback                                       		  0.0		  0.0%				Tue 14 Oct 2025 23:47:02 GMT	     0.0	     0.0	         7	     0.0%
+HFIP_2025_TC_tracks_from_Ursa               		  0.0		  0.0%				Tue 14 Oct 2025 23:27:12 GMT	     0.0	     0.0	       288	     0.0%
+pb_amdar_stats_dir                          		  0.0		  0.0%				Tue 14 Oct 2025 23:27:49 GMT	     0.0	     0.0	         3	     0.0%
+RAPdev1                                     		  0.0		  0.0%				Tue 14 Oct 2025 00:31:06 GMT	     0.0	     0.0	       265	     0.0%
+mollys                                      		  0.0		  0.0%				Tue 14 Oct 2025 23:11:02 GMT	     0.0	     0.0	         1	     0.0%
+duh.log                                     		  0.0		  0.0%				Tue 14 Oct 2025 00:31:55 GMT	     0.0	     0.0	         1	     0.0%
+.usage_scan.csv                             		  0.0		  0.0%				Tue 14 Oct 2025 23:47:06 GMT	     0.0	     0.0	         1	     0.0%
+ensemble_verif                              		  0.0		  0.0%				Tue 14 Oct 2025 23:47:06 GMT	     0.0	     0.0	         3	     0.0%
+pytmp                                       		  0.0		  0.0%				Tue 14 Oct 2025 00:31:59 GMT	     0.0	     0.0	         3	     0.0%
+alcott                                      		  0.0		  0.0%				Tue 14 Oct 2025 23:47:07 GMT	     0.0	     0.0	        10	     0.0%
+RAP-smoke                                   		  0.0		  0.0%				Tue 14 Oct 2025 00:36:24 GMT	     0.0	     0.0	         1	     0.0%
+RTMA_background                             		  0.0		  0.0%				Tue 14 Oct 2025 23:10:48 GMT	     0.0	     0.0	         1	     0.0%
+HRRR-smoke                                  		  0.0		  0.0%				Tue 14 Oct 2025 23:11:02 GMT	     0.0	     0.0	         1	     0.0%
+Xiaoyan.Zhang                               		  0.0		  0.0%				Tue 14 Oct 2025 23:27:46 GMT	     0.0	     0.0	         1	     0.0%
+src                                         		  0.0		  0.0%				Tue 14 Oct 2025 23:27:48 GMT	     0.0	     0.0	         1	     0.0%
+SAR_FV3_GSD                                 		  0.0		  0.0%				Tue 14 Oct 2025 23:46:59 GMT	     0.0	     0.0	         1	     0.0%
 hrw_arw                                     		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 rocoto_test                                 		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 realtime_2.0                                		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
@@ -93,7 +93,7 @@ hrrr_smoke                                  		  0.0		  0.0%				Wed 31 Dec 1969 2
 hrrr_ak_ops                                 		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 grids                                       		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 nssl_wrf                                    		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 23:44:12 GMT	     0.0	     0.0	    272352	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 23:47:08 GMT	     0.0	     0.0	    292401	     0.0%
 
 /mnt/lfs5/BMC/wrfruc                        		1227.6		 89.8%		1367.2		Mon 13 Oct 2025 11:45:45 GMT	   744.4	   475.4	  53586506	     0.0%	307200000000
 bjallen                                     		187.6		 13.7%				Sun 12 Oct 2025 03:32:57 GMT	    81.7	    27.2	   8861349	     0.0%
@@ -170,180 +170,181 @@ disk-usage                                  		  0.0		  0.0%				Sun 12 Oct 2025 1
 standalone                                  		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
 --unseen-by-du--                            		  0.0		  0.0%				Mon 13 Oct 2025 11:45:45 GMT	     0.0	     0.0	         0	     0.0%
 
-/mnt/lfs5/BMC/nrtrr                         		 49.0		 21.8%		224.6		Sun 12 Oct 2025 04:12:40 GMT	    43.2	    42.2	      9129	     0.0%	47104000000
-NCO_dirs                                    		 15.9		  7.1%				Sun 12 Oct 2025 00:34:43 GMT	    15.9	    15.9	    107584	     0.0%
-gge                                         		 12.1		  5.4%				Sun 12 Oct 2025 01:33:26 GMT	    12.1	    12.0	    407737	     0.0%
-ncl_graphics                                		  6.4		  2.9%				Sun 12 Oct 2025 04:06:58 GMT	     3.1	     2.2	    737421	     0.0%
-standalone                                  		  4.5		  2.0%				Sun 12 Oct 2025 01:37:48 GMT	     4.5	     4.5	     24496	     0.0%
-archive                                     		  2.8		  1.2%				Sun 12 Oct 2025 00:29:13 GMT	     2.8	     2.8	      6089	     0.0%
-HRRR_CAR                                    		  2.1		  0.9%				Sun 12 Oct 2025 00:42:12 GMT	     0.0	     0.0	     36780	     0.0%
-nbharwani                                   		  1.6		  0.7%				Sun 12 Oct 2025 01:38:01 GMT	     1.6	     1.6	     75036	     0.0%
-HRRR_HI                                     		  1.1		  0.5%				Sun 12 Oct 2025 04:09:23 GMT	     0.0	     0.0	     80952	     0.0%
-RDAS_DATA                                   		  0.8		  0.4%				Sun 12 Oct 2025 00:41:24 GMT	     0.0	     0.0	     55973	     0.0%
-RDAS_DATA.tar                               		  0.8		  0.4%				Sun 12 Oct 2025 00:42:34 GMT	     0.0	     0.0	         1	     0.0%
-RTMA_3D_RU                                  		  0.8		  0.4%				Sun 12 Oct 2025 01:04:32 GMT	     0.8	     0.8	    959517	     0.0%
-tmp_to_be_removed                           		  0.6		  0.3%				Sun 12 Oct 2025 00:42:15 GMT	     0.6	     0.6	      1625	     0.0%
-role.rrfsfix                                		  0.6		  0.3%				Sun 12 Oct 2025 00:42:34 GMT	     0.0	     0.0	     21039	     0.0%
-FIX_RRFS2                                   		  0.6		  0.3%				Sun 12 Oct 2025 01:42:30 GMT	     0.0	     0.0	     37157	     0.0%
-Craig.Hartsough                             		  0.6		  0.3%				Sun 12 Oct 2025 01:43:09 GMT	     0.6	     0.6	     11070	     0.0%
-RTMA_3D_dev1                                		  0.5		  0.2%				Sun 12 Oct 2025 00:46:26 GMT	     0.5	     0.5	    181355	     0.0%
-FIX_RRFS                                    		  0.2		  0.1%				Sun 12 Oct 2025 00:29:27 GMT	     0.2	     0.2	      4435	     0.0%
-RRFS2_RETRO_DATA                            		  0.2		  0.1%				Sun 12 Oct 2025 00:42:17 GMT	     0.2	     0.2	      1971	     0.0%
-RTMA_3D_AK                                  		  0.1		  0.1%				Sun 12 Oct 2025 01:42:09 GMT	     0.1	     0.1	    142392	     0.0%
-FIX_pyDAmonitor                             		  0.1		  0.0%				Sun 12 Oct 2025 01:43:11 GMT	     0.0	     0.0	      2609	     0.0%
-FIX_EXEC_MODULE                             		  0.0		  0.0%				Sun 12 Oct 2025 01:38:21 GMT	     0.0	     0.0	     10048	     0.0%
-RTMA_3D                                     		  0.0		  0.0%				Sun 12 Oct 2025 01:37:07 GMT	     0.0	     0.0	    184341	     0.0%
-RRFS                                        		  0.0		  0.0%				Sun 12 Oct 2025 04:12:40 GMT	     0.0	     0.0	     89852	     0.0%
-MPAS_NSSL                                   		  0.0		  0.0%				Sun 12 Oct 2025 00:39:18 GMT	     0.0	     0.0	        14	     0.0%
-wps_geog                                    		  0.0		  0.0%				Sun 12 Oct 2025 00:42:12 GMT	     0.0	     0.0	        31	     0.0%
-pygraf_rrfs_a                               		  0.0		  0.0%				Sun 12 Oct 2025 04:09:27 GMT	     0.0	     0.0	       634	     0.0%
-pygraf_hrrr_ncep                            		  0.0		  0.0%				Sun 12 Oct 2025 00:39:18 GMT	     0.0	     0.0	       403	     0.0%
-pygraf_gfs                                  		  0.0		  0.0%				Sun 12 Oct 2025 01:38:25 GMT	     0.0	     0.0	       461	     0.0%
-pygraf_rtma_a                               		  0.0		  0.0%				Sun 12 Oct 2025 00:29:16 GMT	     0.0	     0.0	       392	     0.0%
-pygraf_rrfs_a_ens                           		  0.0		  0.0%				Sun 12 Oct 2025 04:09:24 GMT	     0.0	     0.0	       336	     0.0%
-pygraf_hrrr_car                             		  0.0		  0.0%				Sun 12 Oct 2025 00:29:14 GMT	     0.0	     0.0	       286	     0.0%
-pygraf_hrrr_hi                              		  0.0		  0.0%				Sun 12 Oct 2025 04:09:25 GMT	     0.0	     0.0	       286	     0.0%
-pygraf_rap_ncep                             		  0.0		  0.0%				Sun 12 Oct 2025 01:43:09 GMT	     0.0	     0.0	       288	     0.0%
-pygraf_hrrr_ak                              		  0.0		  0.0%				Sun 12 Oct 2025 00:34:46 GMT	     0.0	     0.0	       284	     0.0%
-pygraf_rrfs_na_3km_ncep                     		  0.0		  0.0%				Sun 12 Oct 2025 00:42:35 GMT	     0.0	     0.0	       244	     0.0%
-pygraf_rrfs_b                               		  0.0		  0.0%				Sun 12 Oct 2025 00:39:19 GMT	     0.0	     0.0	       224	     0.0%
-pygraf_hrrr_ncep_wfip3                      		  0.0		  0.0%				Sun 12 Oct 2025 01:38:26 GMT	     0.0	     0.0	       143	     0.0%
-workflow                                    		  0.0		  0.0%				Sun 12 Oct 2025 01:39:28 GMT	     0.0	     0.0	     27257	     0.0%
-HRRR_AK                                     		  0.0		  0.0%				Sun 12 Oct 2025 00:29:13 GMT	     0.0	     0.0	       124	     0.0%
-NCO_data                                    		  0.0		  0.0%				Sun 12 Oct 2025 00:39:16 GMT	     0.0	     0.0	    136185	     0.0%
-du.out                                      		  0.0		  0.0%				Sun 12 Oct 2025 00:42:17 GMT	     0.0	     0.0	         1	     0.0%
-alexander                                   		  0.0		  0.0%				Sun 12 Oct 2025 01:38:26 GMT	     0.0	     0.0	        14	     0.0%
+/mnt/lfs5/BMC/nrtrr                         		 48.9		 21.8%		224.6		Tue 14 Oct 2025 03:04:08 GMT	    43.3	    42.3	     20758	     0.0%	47104000000
+NCO_dirs                                    		 15.9		  7.1%				Tue 14 Oct 2025 00:33:21 GMT	    15.9	    15.9	    107584	     0.0%
+gge                                         		 12.1		  5.4%				Tue 14 Oct 2025 01:23:35 GMT	    12.1	    12.0	    407737	     0.0%
+ncl_graphics                                		  6.4		  2.9%				Tue 14 Oct 2025 02:57:16 GMT	     3.2	     2.2	    742772	     0.0%
+standalone                                  		  4.5		  2.0%				Tue 14 Oct 2025 01:27:11 GMT	     4.5	     4.5	     24496	     0.0%
+archive                                     		  2.8		  1.2%				Tue 14 Oct 2025 00:29:18 GMT	     2.8	     2.8	      6089	     0.0%
+HRRR_CAR                                    		  2.1		  0.9%				Tue 14 Oct 2025 00:41:26 GMT	     0.0	     0.0	     36868	     0.0%
+nbharwani                                   		  1.6		  0.7%				Tue 14 Oct 2025 01:27:26 GMT	     1.6	     1.6	     75036	     0.0%
+HRRR_HI                                     		  1.1		  0.5%				Tue 14 Oct 2025 02:59:43 GMT	     0.0	     0.0	     82827	     0.0%
+RDAS_DATA                                   		  0.8		  0.4%				Tue 14 Oct 2025 00:40:09 GMT	     0.0	     0.0	     55973	     0.0%
+RDAS_DATA.tar                               		  0.8		  0.4%				Tue 14 Oct 2025 00:41:57 GMT	     0.0	     0.0	         1	     0.0%
+RTMA_3D_RU                                  		  0.8		  0.4%				Tue 14 Oct 2025 01:00:04 GMT	     0.8	     0.8	    959517	     0.0%
+tmp_to_be_removed                           		  0.6		  0.3%				Tue 14 Oct 2025 00:41:29 GMT	     0.6	     0.6	      1625	     0.0%
+role.rrfsfix                                		  0.6		  0.3%				Tue 14 Oct 2025 00:41:56 GMT	     0.0	     0.0	     21039	     0.0%
+FIX_RRFS2                                   		  0.6		  0.3%				Tue 14 Oct 2025 01:31:56 GMT	     0.0	     0.0	     37157	     0.0%
+Craig.Hartsough                             		  0.6		  0.3%				Tue 14 Oct 2025 01:32:27 GMT	     0.6	     0.6	     11070	     0.0%
+RTMA_3D_dev1                                		  0.5		  0.2%				Tue 14 Oct 2025 00:46:07 GMT	     0.5	     0.5	    181355	     0.0%
+FIX_RRFS                                    		  0.2		  0.1%				Tue 14 Oct 2025 00:29:33 GMT	     0.2	     0.2	      4435	     0.0%
+RRFS2_RETRO_DATA                            		  0.2		  0.1%				Tue 14 Oct 2025 00:41:33 GMT	     0.2	     0.2	      1971	     0.0%
+RTMA_3D_AK                                  		  0.1		  0.1%				Tue 14 Oct 2025 01:31:41 GMT	     0.1	     0.1	    142392	     0.0%
+FIX_pyDAmonitor                             		  0.1		  0.0%				Tue 14 Oct 2025 01:32:30 GMT	     0.0	     0.0	      2609	     0.0%
+FIX_EXEC_MODULE                             		  0.0		  0.0%				Tue 14 Oct 2025 01:27:40 GMT	     0.0	     0.0	     10048	     0.0%
+RTMA_3D                                     		  0.0		  0.0%				Tue 14 Oct 2025 01:26:38 GMT	     0.0	     0.0	    184341	     0.0%
+RRFS                                        		  0.0		  0.0%				Tue 14 Oct 2025 03:04:08 GMT	     0.0	     0.0	     89852	     0.0%
+MPAS_NSSL                                   		  0.0		  0.0%				Tue 14 Oct 2025 00:37:34 GMT	     0.0	     0.0	        14	     0.0%
+wps_geog                                    		  0.0		  0.0%				Tue 14 Oct 2025 00:41:26 GMT	     0.0	     0.0	        31	     0.0%
+pygraf_rrfs_a                               		  0.0		  0.0%				Tue 14 Oct 2025 02:59:49 GMT	     0.0	     0.0	       634	     0.0%
+pygraf_hrrr_ncep                            		  0.0		  0.0%				Tue 14 Oct 2025 00:37:34 GMT	     0.0	     0.0	       403	     0.0%
+pygraf_gfs                                  		  0.0		  0.0%				Tue 14 Oct 2025 01:27:42 GMT	     0.0	     0.0	       461	     0.0%
+pygraf_rtma_a                               		  0.0		  0.0%				Tue 14 Oct 2025 00:29:21 GMT	     0.0	     0.0	       392	     0.0%
+pygraf_rrfs_a_ens                           		  0.0		  0.0%				Tue 14 Oct 2025 02:59:44 GMT	     0.0	     0.0	       336	     0.0%
+pygraf_hrrr_car                             		  0.0		  0.0%				Tue 14 Oct 2025 00:29:19 GMT	     0.0	     0.0	       286	     0.0%
+pygraf_hrrr_hi                              		  0.0		  0.0%				Tue 14 Oct 2025 02:59:45 GMT	     0.0	     0.0	       286	     0.0%
+pygraf_rap_ncep                             		  0.0		  0.0%				Tue 14 Oct 2025 01:32:28 GMT	     0.0	     0.0	       288	     0.0%
+pygraf_hrrr_ak                              		  0.0		  0.0%				Tue 14 Oct 2025 00:33:22 GMT	     0.0	     0.0	       284	     0.0%
+pygraf_rrfs_na_3km_ncep                     		  0.0		  0.0%				Tue 14 Oct 2025 00:41:59 GMT	     0.0	     0.0	       244	     0.0%
+pygraf_rrfs_b                               		  0.0		  0.0%				Tue 14 Oct 2025 00:37:35 GMT	     0.0	     0.0	       224	     0.0%
+pygraf_hrrr_ncep_wfip3                      		  0.0		  0.0%				Tue 14 Oct 2025 01:27:43 GMT	     0.0	     0.0	       143	     0.0%
+workflow                                    		  0.0		  0.0%				Tue 14 Oct 2025 01:28:34 GMT	     0.0	     0.0	     27257	     0.0%
+HRRR_AK                                     		  0.0		  0.0%				Tue 14 Oct 2025 00:29:18 GMT	     0.0	     0.0	       124	     0.0%
+NCO_data                                    		  0.0		  0.0%				Tue 14 Oct 2025 00:37:32 GMT	     0.0	     0.0	    136185	     0.0%
+du.out                                      		  0.0		  0.0%				Tue 14 Oct 2025 00:41:33 GMT	     0.0	     0.0	         1	     0.0%
+alexander                                   		  0.0		  0.0%				Tue 14 Oct 2025 01:27:44 GMT	     0.0	     0.0	        14	     0.0%
 VERIF_GRAPHICS                              		  0.0		  0.0%				Wed 31 Dec 1969 23:59:59 GMT	     0.0	     0.0	         0	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 04:12:40 GMT	     0.0	     0.0	         0	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 03:04:08 GMT	     0.0	     0.0	         0	     0.0%
 
-/mnt/lfs5/BMC/rtwbl                         		265.6		 90.7%		293.0		Sun 12 Oct 2025 09:47:30 GMT	   102.0	    70.3	  11987506	     0.0%	61440000000
-Xia.Sun                                     		 89.6		 30.6%				Sun 12 Oct 2025 01:19:23 GMT	    10.4	     0.5	   1524785	     0.0%
-rap-chem                                    		 61.1		 20.9%				Sun 12 Oct 2025 09:47:29 GMT	    17.8	    17.0	   1803723	     0.0%
-melodies-monet                              		 22.2		  7.6%				Sun 12 Oct 2025 07:54:02 GMT	     0.9	     0.4	   5706235	     0.0%
-minsusee                                    		 22.0		  7.5%				Sun 12 Oct 2025 00:48:16 GMT	    18.5	     2.4	    156618	     0.0%
-mtoy                                        		 22.0		  7.5%				Sun 12 Oct 2025 05:29:57 GMT	     6.1	     4.6	    365205	     0.0%
-olson                                       		 18.7		  6.4%				Sun 12 Oct 2025 08:09:12 GMT	    16.9	    14.8	    373793	     0.0%
-Jordan                                      		 13.4		  4.6%				Sun 12 Oct 2025 03:13:57 GMT	    13.2	    13.0	   1743911	     0.0%
-WFIP3                                       		  9.7		  3.3%				Sun 12 Oct 2025 03:54:23 GMT	     5.5	     5.5	    128423	     0.0%
-Sudheer                                     		  4.9		  1.7%				Sun 12 Oct 2025 04:42:40 GMT	     4.8	     4.6	    545235	     0.0%
-kenyon                                      		  4.6		  1.6%				Sun 12 Oct 2025 05:34:21 GMT	     4.3	     3.9	    203325	     0.0%
-Anamaria                                    		  3.2		  1.1%				Sun 12 Oct 2025 05:38:49 GMT	     0.1	     0.0	    167509	     0.0%
-Liam                                        		  1.8		  0.6%				Sun 12 Oct 2025 04:02:08 GMT	     1.8	     1.8	    297486	     0.0%
-Partha                                      		  0.9		  0.3%				Sun 12 Oct 2025 08:11:20 GMT	     0.9	     0.9	     45391	     0.0%
-mhu                                         		  0.5		  0.2%				Sun 12 Oct 2025 04:06:42 GMT	     0.5	     0.5	     88824	     0.0%
-angevine                                    		  0.2		  0.1%				Sun 12 Oct 2025 04:52:24 GMT	     0.2	     0.2	    216109	     0.0%
-J.romero                                    		  0.2		  0.1%				Sun 12 Oct 2025 01:48:08 GMT	     0.0	     0.0	    512652	     0.0%
-terra                                       		  0.0		  0.0%				Sun 12 Oct 2025 03:54:33 GMT	     0.0	     0.0	      1257	     0.0%
-ejames                                      		  0.0		  0.0%				Sun 12 Oct 2025 04:44:16 GMT	     0.0	     0.0	     38102	     0.0%
-fix_rrfs-sd                                 		  0.0		  0.0%				Sun 12 Oct 2025 07:54:02 GMT	     0.0	     0.0	         7	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 09:47:30 GMT	     0.0	     0.0	         0	     0.0%
+/mnt/lfs5/BMC/rtwbl                         		266.4		 90.9%		293.0		Tue 14 Oct 2025 08:59:48 GMT	   102.5	    70.3	  12052614	     0.0%	61440000000
+Xia.Sun                                     		 89.6		 30.6%				Tue 14 Oct 2025 01:13:54 GMT	    10.6	     0.5	   1524785	     0.0%
+rap-chem                                    		 61.1		 20.9%				Tue 14 Oct 2025 08:59:48 GMT	    17.8	    17.0	   1803777	     0.0%
+melodies-monet                              		 23.0		  7.9%				Tue 14 Oct 2025 06:59:18 GMT	     0.9	     0.4	   5771291	     0.0%
+minsusee                                    		 22.0		  7.5%				Tue 14 Oct 2025 00:48:49 GMT	    18.5	     2.5	    156618	     0.0%
+mtoy                                        		 22.0		  7.5%				Tue 14 Oct 2025 04:04:29 GMT	     6.1	     4.6	    365205	     0.0%
+olson                                       		 18.7		  6.4%				Tue 14 Oct 2025 07:24:26 GMT	    17.1	    14.8	    373793	     0.0%
+Jordan                                      		 13.4		  4.6%				Tue 14 Oct 2025 02:22:40 GMT	    13.2	    13.0	   1743911	     0.0%
+WFIP3                                       		  9.7		  3.3%				Tue 14 Oct 2025 02:31:45 GMT	     5.5	     5.5	    128423	     0.0%
+Sudheer                                     		  4.9		  1.7%				Tue 14 Oct 2025 03:00:16 GMT	     4.8	     4.6	    545235	     0.0%
+kenyon                                      		  4.6		  1.6%				Tue 14 Oct 2025 04:07:23 GMT	     4.3	     3.9	    203325	     0.0%
+Anamaria                                    		  3.2		  1.1%				Tue 14 Oct 2025 04:09:43 GMT	     0.2	     0.0	    167509	     0.0%
+Liam                                        		  1.8		  0.6%				Tue 14 Oct 2025 02:34:31 GMT	     1.8	     1.8	    297486	     0.0%
+Partha                                      		  0.9		  0.3%				Tue 14 Oct 2025 07:27:24 GMT	     0.9	     0.9	     45391	     0.0%
+mhu                                         		  0.5		  0.2%				Tue 14 Oct 2025 02:37:57 GMT	     0.5	     0.5	     88824	     0.0%
+angevine                                    		  0.2		  0.1%				Tue 14 Oct 2025 03:09:44 GMT	     0.2	     0.2	    216109	     0.0%
+J.romero                                    		  0.2		  0.1%				Tue 14 Oct 2025 01:41:31 GMT	     0.0	     0.0	    512652	     0.0%
+terra                                       		  0.0		  0.0%				Tue 14 Oct 2025 02:31:49 GMT	     0.0	     0.0	      1257	     0.0%
+ejames                                      		  0.0		  0.0%				Tue 14 Oct 2025 03:02:03 GMT	     0.0	     0.0	     38102	     0.0%
+fix_rrfs-sd                                 		  0.0		  0.0%				Tue 14 Oct 2025 06:59:18 GMT	     0.0	     0.0	         7	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 08:59:48 GMT	     0.0	     0.0	         0	     0.0%
 
-/mnt/lfs5/BMC/gsd-fv3                       		 27.0		 74.9%		 36.1		Sun 12 Oct 2025 04:17:02 GMT	     0.4	     0.3	     71526	     0.0%	7577600000
-Michael.Kavulich                            		 27.0		 74.9%				Sun 12 Oct 2025 04:14:49 GMT	     0.1	     0.0	     20675	     0.0%
-jamison                                     		  0.3		  0.9%				Sun 12 Oct 2025 04:17:02 GMT	     0.3	     0.3	     63912	     0.0%
-KaYee                                       		  0.0		  0.0%				Sun 12 Oct 2025 04:14:01 GMT	     0.0	     0.0	        27	     0.0%
-logs                                        		  0.0		  0.0%				Sun 12 Oct 2025 04:14:01 GMT	     0.0	     0.0	         1	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 04:17:02 GMT	     0.0	     0.0	         0	     0.0%
+/mnt/lfs5/BMC/gsd-fv3                       		 27.0		 74.9%		 36.1		Tue 14 Oct 2025 03:16:25 GMT	     0.4	     0.3	     71526	     0.0%	7577600000
+Michael.Kavulich                            		 27.0		 74.9%				Tue 14 Oct 2025 03:14:34 GMT	     0.1	     0.0	     20675	     0.0%
+jamison                                     		  0.3		  0.9%				Tue 14 Oct 2025 03:16:25 GMT	     0.3	     0.3	     63912	     0.0%
+KaYee                                       		  0.0		  0.0%				Tue 14 Oct 2025 03:14:01 GMT	     0.0	     0.0	        27	     0.0%
+logs                                        		  0.0		  0.0%				Tue 14 Oct 2025 03:14:01 GMT	     0.0	     0.0	         1	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 03:16:25 GMT	     0.0	     0.0	         0	     0.0%
 
-/mnt/lfs5/BMC/gsd-fv3-test                  		  0.3		  2.9%		  9.8		Sun 12 Oct 2025 09:23:12 GMT	     0.2	     0.1	   3877547	     0.1%	6144000000
-kavulich                                    		  0.3		  2.8%				Sun 12 Oct 2025 09:23:12 GMT	     0.2	     0.1	   3877761	     0.1%
---unseen-by-du--                            		  0.0		  0.1%				Sun 12 Oct 2025 09:23:12 GMT	     0.0	     0.0	         0	     0.1%
-hfip_2024                                   		  0.0		  0.0%				Sun 12 Oct 2025 09:23:12 GMT	     0.0	     0.0	        34	     0.1%
+/mnt/lfs5/BMC/gsd-fv3-test                  		  0.3		  2.9%		  9.8		Tue 14 Oct 2025 08:18:55 GMT	     0.2	     0.1	   3877547	     0.1%	6144000000
+kavulich                                    		  0.3		  2.8%				Tue 14 Oct 2025 08:18:54 GMT	     0.2	     0.1	   3877761	     0.1%
+--unseen-by-du--                            		  0.0		  0.1%				Tue 14 Oct 2025 08:18:55 GMT	     0.0	     0.0	         0	     0.1%
+hfip_2024                                   		  0.0		  0.0%				Tue 14 Oct 2025 08:18:55 GMT	     0.0	     0.0	        34	     0.1%
 
-/mnt/lfs5/BMC/gsd-hpcs                      		  0.0		  0.6%		  3.9		Sun 12 Oct 2025 09:32:51 GMT	     0.0	     0.0	     67039	     0.0%	819200000
-Christopher.W.Harrop                        		  0.0		  0.6%				Sun 12 Oct 2025 09:32:51 GMT	     0.0	     0.0	     67038	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 09:32:51 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs5/BMC/gsd-hpcs                      		  0.0		  0.6%		  3.9		Tue 14 Oct 2025 08:33:14 GMT	     0.0	     0.0	     67039	     0.0%	819200000
+Christopher.W.Harrop                        		  0.0		  0.6%				Tue 14 Oct 2025 08:33:14 GMT	     0.0	     0.0	     67038	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 08:33:14 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs5/BMC/gsd-fv3-dev                   		186.4		 97.9%		190.4		Sun 12 Oct 2025 11:45:06 GMT	   117.2	   114.5	   8324798	     0.0%	39936000000
-hfip_2024                                   		104.8		 55.0%				Sun 12 Oct 2025 10:34:16 GMT	   104.7	   104.7	   2257541	     0.0%
-Michael.Kavulich                            		 51.6		 27.1%				Sun 12 Oct 2025 11:39:56 GMT	     0.8	     0.0	    226267	     0.0%
---unseen-by-du--                            		 16.7		  8.7%				Sun 12 Oct 2025 11:45:06 GMT	     0.0	     0.0	   5100364	     0.0%
-Haiqin.Li                                   		 12.4		  6.5%				Sun 12 Oct 2025 11:00:39 GMT	    11.1	     9.1	    432028	     0.0%
-Man.Zhang                                   		  0.4		  0.2%				Sun 12 Oct 2025 11:44:38 GMT	     0.0	     0.0	     74625	     0.0%
-Shan.Sun                                    		  0.4		  0.2%				Sun 12 Oct 2025 11:42:21 GMT	     0.4	     0.4	    197153	     0.0%
-mpas_dev                                    		  0.1		  0.1%				Sun 12 Oct 2025 11:44:59 GMT	     0.1	     0.1	     15627	     0.0%
-KaYee.Wong                                  		  0.1		  0.1%				Sun 12 Oct 2025 11:45:00 GMT	     0.1	     0.1	       217	     0.0%
-Larissa.Reames                              		  0.1		  0.0%				Sun 12 Oct 2025 11:45:06 GMT	     0.1	     0.1	     20790	     0.0%
-HFIP_HPSS_2024                              		  0.0		  0.0%				Sun 12 Oct 2025 11:39:56 GMT	     0.0	     0.0	       183	     0.0%
-orig                                        		  0.0		  0.0%				Sun 12 Oct 2025 11:39:56 GMT	     0.0	     0.0	         1	     0.0%
-log.rrfs.t*grib2                            		  0.0		  0.0%				Sun 12 Oct 2025 11:39:56 GMT	     0.0	     0.0	         1	     0.0%
-rrfs.t*grib2                                		  0.0		  0.0%				Sun 12 Oct 2025 11:00:39 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs5/BMC/gsd-fv3-dev                   		186.4		 97.9%		190.4		Tue 14 Oct 2025 10:43:11 GMT	   117.2	   114.5	   8324798	     0.0%	39936000000
+hfip_2024                                   		104.8		 55.0%				Tue 14 Oct 2025 09:53:47 GMT	   104.7	   104.7	   2257541	     0.0%
+Michael.Kavulich                            		 51.6		 27.1%				Tue 14 Oct 2025 10:37:48 GMT	     0.8	     0.0	    226267	     0.0%
+--unseen-by-du--                            		 16.7		  8.7%				Tue 14 Oct 2025 10:43:11 GMT	     0.0	     0.0	   5100364	     0.0%
+Haiqin.Li                                   		 12.4		  6.5%				Tue 14 Oct 2025 10:10:30 GMT	    11.1	     9.1	    432028	     0.0%
+Man.Zhang                                   		  0.4		  0.2%				Tue 14 Oct 2025 10:42:39 GMT	     0.0	     0.0	     74625	     0.0%
+Shan.Sun                                    		  0.4		  0.2%				Tue 14 Oct 2025 10:40:14 GMT	     0.4	     0.4	    197153	     0.0%
+mpas_dev                                    		  0.1		  0.1%				Tue 14 Oct 2025 10:43:04 GMT	     0.1	     0.1	     15627	     0.0%
+KaYee.Wong                                  		  0.1		  0.1%				Tue 14 Oct 2025 10:43:05 GMT	     0.1	     0.1	       217	     0.0%
+Larissa.Reames                              		  0.1		  0.0%				Tue 14 Oct 2025 10:43:11 GMT	     0.1	     0.1	     20790	     0.0%
+HFIP_HPSS_2024                              		  0.0		  0.0%				Tue 14 Oct 2025 10:37:48 GMT	     0.0	     0.0	       183	     0.0%
+orig                                        		  0.0		  0.0%				Tue 14 Oct 2025 10:37:48 GMT	     0.0	     0.0	         1	     0.0%
+log.rrfs.t*grib2                            		  0.0		  0.0%				Tue 14 Oct 2025 10:37:48 GMT	     0.0	     0.0	         1	     0.0%
+rrfs.t*grib2                                		  0.0		  0.0%				Tue 14 Oct 2025 10:10:30 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs5/BMC/avidmgmt                      		  0.0		  0.5%		  0.5		Sun 12 Oct 2025 09:59:10 GMT	     0.0	     0.0	      2575	     0.0%	102400000
-disk-usage                                  		  0.0		  0.5%				Sun 12 Oct 2025 09:59:10 GMT	     0.0	     0.0	      2633	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 09:59:10 GMT	     0.0	     0.0	         0	     0.0%
-testdata                                    		  0.0		  0.0%				Sun 12 Oct 2025 09:59:10 GMT	     0.0	     0.0	        11	     0.0%
-Samuel.Trahan                               		  0.0		  0.0%				Sun 12 Oct 2025 09:58:59 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs5/BMC/avidmgmt                      		  0.0		  0.5%		  0.5		Tue 14 Oct 2025 09:14:02 GMT	     0.0	     0.0	      2575	     0.0%	102400000
+disk-usage                                  		  0.0		  0.5%				Tue 14 Oct 2025 09:14:02 GMT	     0.0	     0.0	      2641	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 09:14:02 GMT	     0.0	     0.0	         0	     0.0%
+testdata                                    		  0.0		  0.0%				Tue 14 Oct 2025 09:14:02 GMT	     0.0	     0.0	        11	     0.0%
+Samuel.Trahan                               		  0.0		  0.0%				Tue 14 Oct 2025 09:14:01 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs6/BMC/amb-verif                     		  8.6		 22.0%		 39.1		Sun 12 Oct 2025 10:21:11 GMT	     5.2	     3.6	    765647	     0.0%	49152000000
-backfill                                    		  7.0		 17.8%				Sun 12 Oct 2025 10:19:13 GMT	     4.1	     2.5	    482581	     0.0%
-data                                        		  1.1		  2.8%				Sun 12 Oct 2025 10:21:11 GMT	     1.1	     1.1	    279963	     0.0%
-hamilton                                    		  0.5		  1.3%				Sun 12 Oct 2025 10:19:19 GMT	     0.0	     0.0	      3091	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 10:21:11 GMT	     0.0	     0.0	         0	     0.0%
-met_output                                  		  0.0		  0.0%				Sun 12 Oct 2025 10:19:19 GMT	     0.0	     0.0	         7	     0.0%
-db_restore                                  		  0.0		  0.0%				Sun 12 Oct 2025 10:19:13 GMT	     0.0	     0.0	         3	     0.0%
-gfs                                         		  0.0		  0.0%				Sun 12 Oct 2025 10:19:19 GMT	     0.0	     0.0	         1	     0.0%
-nam                                         		  0.0		  0.0%				Sun 12 Oct 2025 10:19:19 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs6/BMC/amb-verif                     		  8.6		 22.0%		 39.1		Tue 14 Oct 2025 09:36:10 GMT	     5.2	     3.6	    765647	     0.0%	49152000000
+backfill                                    		  7.0		 17.8%				Tue 14 Oct 2025 09:34:07 GMT	     4.1	     2.5	    482581	     0.0%
+data                                        		  1.1		  2.8%				Tue 14 Oct 2025 09:36:10 GMT	     1.1	     1.1	    279962	     0.0%
+hamilton                                    		  0.5		  1.3%				Tue 14 Oct 2025 09:34:13 GMT	     0.0	     0.0	      3091	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 09:36:10 GMT	     0.0	     0.0	         0	     0.0%
+met_output                                  		  0.0		  0.0%				Tue 14 Oct 2025 09:34:13 GMT	     0.0	     0.0	         7	     0.0%
+db_restore                                  		  0.0		  0.0%				Tue 14 Oct 2025 09:34:07 GMT	     0.0	     0.0	         3	     0.0%
+gfs                                         		  0.0		  0.0%				Tue 14 Oct 2025 09:34:13 GMT	     0.0	     0.0	         1	     0.0%
+nam                                         		  0.0		  0.0%				Tue 14 Oct 2025 09:34:13 GMT	     0.0	     0.0	         1	     0.0%
+hluo                                        		  0.0		  0.0%				Tue 14 Oct 2025 09:36:10 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs6/BMC/wrfruc                        		1331.4		 97.4%		1367.2		Sun 12 Oct 2025 15:41:35 GMT	   610.0	   245.3	  26378731	     0.0%	286720000000
-span                                        		335.8		 24.6%				Sun 12 Oct 2025 14:03:34 GMT	   224.7	    65.6	   2915830	     0.0%
-Chunhua.Zhou                                		274.0		 20.0%				Sun 12 Oct 2025 12:11:54 GMT	     6.0	     5.3	   2342727	     0.0%
-Junjun.Hu                                   		151.5		 11.1%				Sun 12 Oct 2025 14:36:41 GMT	   103.7	    78.9	   3830424	     0.0%
-ddowell                                     		145.2		 10.6%				Sun 12 Oct 2025 15:17:34 GMT	    51.6	    31.1	   2427686	     0.0%
-ejames                                      		120.6		  8.8%				Sun 12 Oct 2025 12:25:45 GMT	    88.7	     4.8	    971705	     0.0%
-hluo                                        		113.7		  8.3%				Sun 12 Oct 2025 11:22:07 GMT	    16.6	    15.7	   5603956	     0.0%
-Ruifang.Li                                  		 68.1		  5.0%				Sun 12 Oct 2025 10:46:11 GMT	    66.3	     0.0	   8217800	     0.0%
-MPAS_dev4                                   		 43.0		  3.1%				Sun 12 Oct 2025 11:25:13 GMT	     0.2	     0.0	    158820	     0.0%
-gge                                         		 38.9		  2.8%				Sun 12 Oct 2025 15:41:35 GMT	    36.9	    29.1	   1072836	     0.0%
-MPAS_dev3                                   		 21.8		  1.6%				Sun 12 Oct 2025 10:54:16 GMT	     0.3	     0.0	    273459	     0.0%
-aback                                       		  6.1		  0.4%				Sun 12 Oct 2025 14:04:29 GMT	     6.1	     6.0	    139900	     0.0%
---unseen-by-du--                            		  3.2		  0.2%				Sun 12 Oct 2025 15:41:35 GMT	     0.0	     0.0	         0	     0.0%
-jderrico                                    		  2.7		  0.2%				Sun 12 Oct 2025 14:06:53 GMT	     2.7	     2.7	    339835	     0.0%
-MPAS_physics_dev2                           		  2.5		  0.2%				Sun 12 Oct 2025 14:08:49 GMT	     2.5	     2.5	    117659	     0.0%
-jensen                                      		  2.3		  0.2%				Sun 12 Oct 2025 11:22:10 GMT	     2.3	     2.3	       266	     0.0%
-Hongli.Wang                                 		  0.7		  0.1%				Sun 12 Oct 2025 14:07:33 GMT	     0.2	     0.2	     76061	     0.0%
-smirnova                                    		  0.6		  0.0%				Sun 12 Oct 2025 14:41:36 GMT	     0.6	     0.6	    234677	     0.0%
-murdzek                                     		  0.3		  0.0%				Sun 12 Oct 2025 14:08:15 GMT	     0.2	     0.2	    125489	     0.0%
-mpassit_test                                		  0.2		  0.0%				Sun 12 Oct 2025 15:17:35 GMT	     0.2	     0.2	       139	     0.0%
-mhu                                         		  0.1		  0.0%				Sun 12 Oct 2025 14:09:10 GMT	     0.0	     0.0	     65174	     0.0%
-Xia.Sun                                     		  0.0		  0.0%				Sun 12 Oct 2025 14:03:35 GMT	     0.0	     0.0	       863	     0.0%
-Samuel.Trahan                               		  0.0		  0.0%				Sun 12 Oct 2025 11:25:47 GMT	     0.0	     0.0	    145398	     0.0%
-HRRRv5                                      		  0.0		  0.0%				Sun 12 Oct 2025 11:22:10 GMT	     0.0	     0.0	      1977	     0.0%
-nbharwani                                   		  0.0		  0.0%				Sun 12 Oct 2025 14:08:50 GMT	     0.0	     0.0	      1625	     0.0%
-MPAS_conus12km                              		  0.0		  0.0%				Sun 12 Oct 2025 10:54:16 GMT	     0.0	     0.0	         2	     0.0%
-Paul.Madden                                 		  0.0		  0.0%				Sun 12 Oct 2025 11:22:07 GMT	     0.0	     0.0	         1	     0.0%
-elcarpenter                                 		  0.0		  0.0%				Sun 12 Oct 2025 14:41:36 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs6/BMC/wrfruc                        		1355.2		 99.1%		1367.2		Tue 14 Oct 2025 16:40:42 GMT	   609.8	   259.4	  26883025	     0.0%	286720000000
+span                                        		338.5		 24.8%				Tue 14 Oct 2025 14:37:29 GMT	   224.7	    79.2	   2925259	     0.0%
+Chunhua.Zhou                                		274.4		 20.1%				Tue 14 Oct 2025 12:02:23 GMT	     6.0	     5.3	   2366943	     0.0%
+Junjun.Hu                                   		152.2		 11.1%				Tue 14 Oct 2025 15:29:29 GMT	   104.0	    78.9	   3851651	     0.0%
+ddowell                                     		145.2		 10.6%				Tue 14 Oct 2025 16:20:51 GMT	    51.6	    31.3	   2427686	     0.0%
+hluo                                        		123.2		  9.0%				Tue 14 Oct 2025 10:48:58 GMT	    16.1	    16.0	   5998434	     0.0%
+ejames                                      		120.6		  8.8%				Tue 14 Oct 2025 12:18:22 GMT	    88.7	     5.0	    971705	     0.0%
+Ruifang.Li                                  		 68.1		  5.0%				Tue 14 Oct 2025 10:05:36 GMT	    66.3	     0.0	   8217800	     0.0%
+MPAS_dev4                                   		 46.1		  3.4%				Tue 14 Oct 2025 10:56:30 GMT	     0.2	     0.0	    161134	     0.0%
+gge                                         		 38.9		  2.8%				Tue 14 Oct 2025 16:40:42 GMT	    36.9	    29.1	   1072836	     0.0%
+MPAS_dev3                                   		 22.7		  1.7%				Tue 14 Oct 2025 10:18:04 GMT	     0.3	     0.0	    275515	     0.0%
+--unseen-by-du--                            		  7.3		  0.5%				Tue 14 Oct 2025 16:40:42 GMT	     0.0	     0.0	         0	     0.0%
+aback                                       		  6.1		  0.4%				Tue 14 Oct 2025 14:40:27 GMT	     6.1	     6.0	    139900	     0.0%
+jderrico                                    		  2.7		  0.2%				Tue 14 Oct 2025 14:45:37 GMT	     2.7	     2.7	    339835	     0.0%
+murdzek                                     		  2.7		  0.2%				Tue 14 Oct 2025 14:49:37 GMT	     0.2	     0.2	    125611	     0.0%
+MPAS_physics_dev2                           		  2.5		  0.2%				Tue 14 Oct 2025 14:50:40 GMT	     2.5	     2.5	    117659	     0.0%
+jensen                                      		  2.3		  0.2%				Tue 14 Oct 2025 10:49:02 GMT	     2.3	     2.3	       266	     0.0%
+Hongli.Wang                                 		  0.7		  0.1%				Tue 14 Oct 2025 14:47:27 GMT	     0.2	     0.2	     76061	     0.0%
+smirnova                                    		  0.6		  0.0%				Tue 14 Oct 2025 15:40:02 GMT	     0.6	     0.6	    234677	     0.0%
+mpassit_test                                		  0.2		  0.0%				Tue 14 Oct 2025 16:20:51 GMT	     0.2	     0.2	       139	     0.0%
+mhu                                         		  0.1		  0.0%				Tue 14 Oct 2025 14:52:28 GMT	     0.0	     0.0	     65174	     0.0%
+Xia.Sun                                     		  0.0		  0.0%				Tue 14 Oct 2025 14:37:34 GMT	     0.0	     0.0	       863	     0.0%
+Samuel.Trahan                               		  0.0		  0.0%				Tue 14 Oct 2025 10:56:55 GMT	     0.0	     0.0	    145398	     0.0%
+HRRRv5                                      		  0.0		  0.0%				Tue 14 Oct 2025 10:49:01 GMT	     0.0	     0.0	      1977	     0.0%
+nbharwani                                   		  0.0		  0.0%				Tue 14 Oct 2025 14:50:43 GMT	     0.0	     0.0	      1625	     0.0%
+MPAS_conus12km                              		  0.0		  0.0%				Tue 14 Oct 2025 10:18:04 GMT	     0.0	     0.0	         2	     0.0%
+Paul.Madden                                 		  0.0		  0.0%				Tue 14 Oct 2025 10:48:58 GMT	     0.0	     0.0	         1	     0.0%
+elcarpenter                                 		  0.0		  0.0%				Tue 14 Oct 2025 15:40:02 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs6/BMC/nrtrr                         		 39.5		 40.4%		 97.7		Sun 12 Oct 2025 12:04:47 GMT	    37.7	    37.5	    894804	     0.0%	20480000000
-May2024                                     		 38.6		 39.6%				Sun 12 Oct 2025 12:04:47 GMT	    37.0	    36.7	    553747	     0.0%
-nbharwani                                   		  0.8		  0.8%				Sun 12 Oct 2025 12:00:11 GMT	     0.8	     0.8	     45408	     0.0%
-spack-stack                                 		  0.0		  0.0%				Sun 12 Oct 2025 12:03:32 GMT	     0.0	     0.0	    293945	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 12:04:47 GMT	     0.0	     0.0	      1665	     0.0%
-Paul.Madden                                 		  0.0		  0.0%				Sun 12 Oct 2025 12:04:47 GMT	     0.0	     0.0	        37	     0.0%
-RRFS2_RETRO_DATA                            		  0.0		  0.0%				Sun 12 Oct 2025 12:00:11 GMT	     0.0	     0.0	         2	     0.0%
+/mnt/lfs6/BMC/nrtrr                         		 39.5		 40.4%		 97.7		Tue 14 Oct 2025 10:47:54 GMT	    37.7	    37.5	    894804	     0.0%	20480000000
+May2024                                     		 38.6		 39.6%				Tue 14 Oct 2025 10:47:54 GMT	    37.0	    36.7	    553747	     0.0%
+nbharwani                                   		  0.8		  0.8%				Tue 14 Oct 2025 10:44:20 GMT	     0.8	     0.8	     45408	     0.0%
+spack-stack                                 		  0.0		  0.0%				Tue 14 Oct 2025 10:46:39 GMT	     0.0	     0.0	    293945	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 10:47:54 GMT	     0.0	     0.0	      1665	     0.0%
+Paul.Madden                                 		  0.0		  0.0%				Tue 14 Oct 2025 10:47:54 GMT	     0.0	     0.0	        37	     0.0%
+RRFS2_RETRO_DATA                            		  0.0		  0.0%				Tue 14 Oct 2025 10:44:20 GMT	     0.0	     0.0	         2	     0.0%
 
-/mnt/lfs6/BMC/rtwbl                         		 66.9		 22.8%		293.0		Sun 12 Oct 2025 12:18:31 GMT	    45.1	     2.8	    450618	     0.0%	61440000000
-Xia.Sun                                     		 43.7		 14.9%				Sun 12 Oct 2025 12:15:29 GMT	    43.2	     2.8	    180937	     0.0%
-rap-chem                                    		 19.5		  6.6%				Sun 12 Oct 2025 12:18:31 GMT	     0.0	     0.0	     82683	     0.0%
-minsusee                                    		  1.8		  0.6%				Sun 12 Oct 2025 12:16:50 GMT	     1.8	     0.0	         8	     0.0%
-cheMPAS-Fire                                		  0.9		  0.3%				Sun 12 Oct 2025 12:17:30 GMT	     0.0	     0.0	    117418	     0.0%
-Sudheer                                     		  0.6		  0.2%				Sun 12 Oct 2025 12:16:50 GMT	     0.0	     0.0	     68887	     0.0%
---unseen-by-du--                            		  0.4		  0.1%				Sun 12 Oct 2025 12:18:31 GMT	     0.0	     0.0	       685	     0.0%
+/mnt/lfs6/BMC/rtwbl                         		 72.7		 24.8%		293.0		Tue 14 Oct 2025 11:04:54 GMT	    45.1	    29.8	    456640	     0.0%	61440000000
+Xia.Sun                                     		 43.7		 14.9%				Tue 14 Oct 2025 11:01:17 GMT	    43.2	    29.7	    180937	     0.0%
+rap-chem                                    		 25.3		  8.6%				Tue 14 Oct 2025 11:04:54 GMT	     0.0	     0.0	     88706	     0.0%
+minsusee                                    		  1.8		  0.6%				Tue 14 Oct 2025 11:02:25 GMT	     1.8	     0.0	         8	     0.0%
+cheMPAS-Fire                                		  0.9		  0.3%				Tue 14 Oct 2025 11:04:00 GMT	     0.0	     0.0	    117418	     0.0%
+Sudheer                                     		  0.6		  0.2%				Tue 14 Oct 2025 11:02:25 GMT	     0.0	     0.0	     68887	     0.0%
+--unseen-by-du--                            		  0.4		  0.1%				Tue 14 Oct 2025 11:04:54 GMT	     0.0	     0.0	       684	     0.0%
 
-/mnt/lfs6/BMC/gsd-fv3-test                  		  0.0		  0.0%		  9.8		Sun 12 Oct 2025 15:44:00 GMT	     0.0	     0.0	         4	     0.0%	2048000000
-Michael.Kavulich                            		  0.0		  0.0%				Sun 12 Oct 2025 15:44:00 GMT	     0.0	     0.0	         3	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 15:44:00 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs6/BMC/gsd-fv3-test                  		  0.0		  0.0%		  9.8		Tue 14 Oct 2025 14:43:57 GMT	     0.0	     0.0	         4	     0.0%	2048000000
+Michael.Kavulich                            		  0.0		  0.0%				Tue 14 Oct 2025 14:43:57 GMT	     0.0	     0.0	         3	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 14:43:57 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs6/BMC/gsd-hpcs                      		  0.0		  0.0%		  2.0		Sun 12 Oct 2025 15:58:56 GMT	     0.0	     0.0	         2	     0.0%	409600000
-dom.heinzeller                              		  0.0		  0.0%				Sun 12 Oct 2025 15:58:56 GMT	     0.0	     0.0	         1	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 15:58:56 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs6/BMC/gsd-hpcs                      		  0.0		  0.0%		  2.0		Tue 14 Oct 2025 14:58:57 GMT	     0.0	     0.0	         2	     0.0%	409600000
+dom.heinzeller                              		  0.0		  0.0%				Tue 14 Oct 2025 14:58:57 GMT	     0.0	     0.0	         1	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 14:58:57 GMT	     0.0	     0.0	         1	     0.0%
 
-/mnt/lfs6/BMC/gsd-fv3-dev                   		 58.8		 44.6%		131.8		Sun 12 Oct 2025 16:35:44 GMT	    28.7	     2.4	   5463216	     0.0%	27648000000
-Michael.Kavulich                            		 44.9		 34.1%				Sun 12 Oct 2025 16:30:54 GMT	    14.9	     0.1	   4833502	     0.0%
-KaYee                                       		 13.3		 10.1%				Sun 12 Oct 2025 16:35:41 GMT	    13.3	     1.8	    533412	     0.0%
-Michelle.Harrold                            		  0.5		  0.4%				Sun 12 Oct 2025 16:35:44 GMT	     0.5	     0.5	      1618	     0.0%
---unseen-by-du--                            		  0.0		  0.0%				Sun 12 Oct 2025 16:35:44 GMT	     0.0	     0.0	         0	     0.0%
-Will.Mayfield                               		  0.0		  0.0%				Sun 12 Oct 2025 16:00:28 GMT	     0.0	     0.0	     94912	     0.0%
-du.sh.update                                		  0.0		  0.0%				Sun 12 Oct 2025 16:35:44 GMT	     0.0	     0.0	         1	     0.0%
-du.sh                                       		  0.0		  0.0%				Sun 12 Oct 2025 16:00:28 GMT	     0.0	     0.0	         1	     0.0%
+/mnt/lfs6/BMC/gsd-fv3-dev                   		 58.8		 44.6%		131.8		Tue 14 Oct 2025 16:15:00 GMT	    34.5	     3.0	   5463216	     0.0%	27648000000
+Michael.Kavulich                            		 44.9		 34.1%				Tue 14 Oct 2025 16:11:52 GMT	    20.7	     0.1	   4833502	     0.0%
+KaYee                                       		 13.3		 10.1%				Tue 14 Oct 2025 16:14:58 GMT	    13.3	     2.4	    533412	     0.0%
+Michelle.Harrold                            		  0.5		  0.4%				Tue 14 Oct 2025 16:15:00 GMT	     0.5	     0.5	      1618	     0.0%
+--unseen-by-du--                            		  0.0		  0.0%				Tue 14 Oct 2025 16:15:00 GMT	     0.0	     0.0	         0	     0.0%
+Will.Mayfield                               		  0.0		  0.0%				Tue 14 Oct 2025 15:14:42 GMT	     0.0	     0.0	     94912	     0.0%
+du.sh.update                                		  0.0		  0.0%				Tue 14 Oct 2025 16:15:00 GMT	     0.0	     0.0	         1	     0.0%
+du.sh                                       		  0.0		  0.0%				Tue 14 Oct 2025 15:14:42 GMT	     0.0	     0.0	         1	     0.0%
 
