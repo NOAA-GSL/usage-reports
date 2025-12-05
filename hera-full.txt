@@ -64,16 +64,16 @@ Christopher.W.Harrop                        		  1.7		  1.8%				Thu 04 Dec 2025 0
 isidora                                     		  1.1		  1.1%				Thu 04 Dec 2025 08:24:30 GMT	     1.1	     0.0	     47642	     0.1%
 Shan.Sun                                    		  0.0		  0.0%				Thu 04 Dec 2025 00:58:31 GMT	     0.0	     0.0	     99004	     0.1%
 
-/scratch3/BMC/gsd-fv3                       		 45.6		 58.4%		 78.1		Thu 04 Dec 2025 03:08:10 GMT	     9.8	     3.9	   1753211	     0.0%	16384000000
-rtruns                                      		 18.1		 23.2%				Thu 04 Dec 2025 01:47:00 GMT	     5.5	     0.1	    611296	     0.0%
-role.rtgsd-fv3-dev                          		 12.7		 16.3%				Thu 04 Dec 2025 02:14:14 GMT	     0.0	     0.0	    270286	     0.0%
---unseen-by-du--                            		  9.5		 12.1%				Thu 04 Dec 2025 03:08:10 GMT	     0.0	     0.0	         0	     0.0%
-exp                                         		  4.2		  5.3%				Thu 04 Dec 2025 03:06:22 GMT	     4.2	     3.7	    810320	     0.0%
-rtsubx_hera                                 		  1.0		  1.3%				Thu 04 Dec 2025 02:29:59 GMT	     0.1	     0.0	     53762	     0.0%
-rtsubx_ursa                                 		  0.1		  0.1%				Thu 04 Dec 2025 03:08:07 GMT	     0.1	     0.0	     10843	     0.0%
-ncl_graphics                                		  0.0		  0.0%				Thu 04 Dec 2025 02:14:24 GMT	     0.0	     0.0	      1943	     0.0%
-logs                                        		  0.0		  0.0%				Thu 04 Dec 2025 02:14:27 GMT	     0.0	     0.0	       227	     0.0%
-rtsubx                                      		  0.0		  0.0%				Thu 04 Dec 2025 00:30:51 GMT	     0.0	     0.0	         1	     0.0%
+/scratch3/BMC/gsd-fv3                       		 46.2		 59.2%		 78.1		Fri 05 Dec 2025 03:47:40 GMT	     9.8	     3.9	   1753939	     0.0%	16384000000
+rtruns                                      		 18.1		 23.2%				Fri 05 Dec 2025 01:43:32 GMT	     5.5	     0.1	    611128	     0.0%
+role.rtgsd-fv3-dev                          		 12.7		 16.3%				Fri 05 Dec 2025 02:15:50 GMT	     0.0	     0.0	    270286	     0.0%
+--unseen-by-du--                            		 10.1		 12.9%				Fri 05 Dec 2025 03:47:40 GMT	     0.0	     0.0	         0	     0.0%
+exp                                         		  4.2		  5.3%				Fri 05 Dec 2025 03:46:09 GMT	     4.2	     3.7	    810320	     0.0%
+rtsubx_hera                                 		  1.0		  1.3%				Fri 05 Dec 2025 02:30:07 GMT	     0.1	     0.0	     53762	     0.0%
+rtsubx_ursa                                 		  0.1		  0.1%				Fri 05 Dec 2025 03:47:40 GMT	     0.1	     0.0	     10843	     0.0%
+ncl_graphics                                		  0.0		  0.0%				Fri 05 Dec 2025 02:16:03 GMT	     0.0	     0.0	      1943	     0.0%
+logs                                        		  0.0		  0.0%				Fri 05 Dec 2025 02:16:05 GMT	     0.0	     0.0	       228	     0.0%
+rtsubx                                      		  0.0		  0.0%				Fri 05 Dec 2025 00:30:45 GMT	     0.0	     0.0	         1	     0.0%
 
 /scratch3/BMC/gmtb                          		 23.4		 80.0%		 29.3		Thu 04 Dec 2025 05:18:10 GMT	     9.7	     2.7	   2740090	     0.0%	6144000000
 Grant.Firl                                  		  9.7		 33.1%				Thu 04 Dec 2025 01:37:50 GMT	     0.9	     0.0	    413225	     0.0%
@@ -204,51 +204,51 @@ Samuel.Trahan                               		  1.2		 24.8%				Thu 04 Dec 2025 0
 soft                                        		  0.0		  0.0%				Thu 04 Dec 2025 05:21:43 GMT	     0.0	     0.0	        78	     0.0%
 Paul.Prestopnik                             		  0.0		  0.0%				Thu 04 Dec 2025 05:20:16 GMT	     0.0	     0.0	         1	     0.0%
 
-/scratch3/BMC/wrfruc                        		621.3		 90.9%		683.6		Thu 04 Dec 2025 04:12:58 GMT	   360.6	    20.1	  54509051	     0.0%	143360000000
-mpas                                        		 83.6		 12.2%				Wed 03 Dec 2025 13:14:36 GMT	    35.3	     0.0	    746828	     0.0%
---unseen-by-du--                            		 68.4		 10.0%				Thu 04 Dec 2025 04:12:58 GMT	     0.0	     0.0	     45923	     0.0%
-Ruifang.Li                                  		 62.6		  9.2%				Thu 04 Dec 2025 01:34:15 GMT	    59.0	     0.0	   9659386	     0.0%
-hlin                                        		 50.3		  7.4%				Wed 03 Dec 2025 09:14:21 GMT	    39.7	     0.0	   2248982	     0.0%
-naegele                                     		 40.8		  6.0%				Wed 03 Dec 2025 07:11:19 GMT	     3.0	     0.0	   2468725	     0.0%
-jenglish                                    		 40.5		  5.9%				Wed 03 Dec 2025 20:41:43 GMT	     5.0	     0.0	   3400724	     0.0%
-jjhu                                        		 37.4		  5.5%				Wed 03 Dec 2025 10:59:53 GMT	    37.4	     0.1	    336341	     0.0%
-ejames                                      		 37.0		  5.4%				Thu 04 Dec 2025 02:30:38 GMT	    26.8	     1.0	   3970373	     0.0%
-WaterInTheWest                              		 34.4		  5.0%				Wed 03 Dec 2025 10:53:32 GMT	    34.4	     0.0	    116814	     0.0%
-hwang                                       		 26.6		  3.9%				Wed 03 Dec 2025 11:54:17 GMT	    26.6	     0.0	    965460	     0.0%
-gge                                         		 26.2		  3.8%				Wed 03 Dec 2025 10:43:36 GMT	     9.2	     0.1	   1411739	     0.0%
-Xia.Sun                                     		 21.4		  3.1%				Wed 03 Dec 2025 17:19:25 GMT	    21.4	     0.0	  16110556	     0.0%
-eure                                        		 18.0		  2.6%				Wed 03 Dec 2025 07:39:52 GMT	    14.6	     0.0	    738639	     0.0%
-cholt                                       		 12.9		  1.9%				Thu 04 Dec 2025 03:38:40 GMT	    11.7	     5.8	   1720996	     0.0%
-Samuel.Trahan                               		 12.5		  1.8%				Thu 04 Dec 2025 04:12:58 GMT	     8.5	     0.2	    647097	     0.0%
-ewhite                                      		 10.6		  1.6%				Wed 03 Dec 2025 21:45:04 GMT	     4.3	     0.0	    827321	     0.0%
-mtoy                                        		  9.0		  1.3%				Wed 03 Dec 2025 18:23:50 GMT	     8.6	     7.9	   1363709	     0.0%
-aschein                                     		  8.8		  1.3%				Wed 03 Dec 2025 23:30:20 GMT	     3.0	     0.0	    810476	     0.0%
-span                                        		  6.2		  0.9%				Wed 03 Dec 2025 18:29:28 GMT	     0.0	     0.0	     96115	     0.0%
-Clark.Evans                                 		  3.6		  0.5%				Wed 03 Dec 2025 18:49:21 GMT	     3.4	     2.3	    137096	     0.0%
-olson                                       		  2.4		  0.4%				Wed 03 Dec 2025 18:42:27 GMT	     2.4	     2.4	    302928	     0.0%
-Gerard.Ketefian                             		  2.4		  0.4%				Wed 03 Dec 2025 22:56:08 GMT	     2.4	     0.0	   3495663	     0.0%
-aback                                       		  1.7		  0.2%				Wed 03 Dec 2025 10:48:42 GMT	     1.4	     0.0	    207225	     0.0%
-Shan.Sun                                    		  1.3		  0.2%				Wed 03 Dec 2025 09:18:25 GMT	     0.3	     0.2	     62633	     0.0%
-talcott                                     		  1.3		  0.2%				Wed 03 Dec 2025 11:55:15 GMT	     1.3	     0.0	     37541	     0.0%
-hera                                        		  0.3		  0.0%				Wed 03 Dec 2025 07:20:09 GMT	     0.3	     0.0	    286383	     0.0%
-elcarpenter                                 		  0.3		  0.0%				Wed 03 Dec 2025 12:43:12 GMT	     0.0	     0.0	    612168	     0.0%
-chunhua                                     		  0.2		  0.0%				Wed 03 Dec 2025 19:35:50 GMT	     0.1	     0.0	    986216	     0.0%
-murdzek                                     		  0.2		  0.0%				Wed 03 Dec 2025 09:36:34 GMT	     0.2	     0.0	    385778	     0.0%
-jdduda                                      		  0.1		  0.0%				Wed 03 Dec 2025 07:21:39 GMT	     0.0	     0.0	     42998	     0.0%
-kenyon                                      		  0.1		  0.0%				Wed 03 Dec 2025 10:44:50 GMT	     0.0	     0.0	     21530	     0.0%
-bjallen                                     		  0.1		  0.0%				Wed 03 Dec 2025 12:13:20 GMT	     0.1	     0.0	    142123	     0.0%
-aburke                                      		  0.0		  0.0%				Wed 03 Dec 2025 13:17:06 GMT	     0.0	     0.0	     48978	     0.0%
-jamison                                     		  0.0		  0.0%				Wed 03 Dec 2025 10:44:16 GMT	     0.0	     0.0	     14944	     0.0%
-uw_training                                 		  0.0		  0.0%				Wed 03 Dec 2025 07:21:43 GMT	     0.0	     0.0	      3169	     0.0%
-Craig.Hartsough                             		  0.0		  0.0%				Thu 04 Dec 2025 02:31:36 GMT	     0.0	     0.0	     28382	     0.0%
-jensen                                      		  0.0		  0.0%				Wed 03 Dec 2025 06:50:22 GMT	     0.0	     0.0	      3700	     0.0%
-terra                                       		  0.0		  0.0%				Wed 03 Dec 2025 18:29:29 GMT	     0.0	     0.0	       166	     0.0%
-Paul.Madden                                 		  0.0		  0.0%				Thu 04 Dec 2025 02:31:47 GMT	     0.0	     0.0	      3145	     0.0%
-alexander                                   		  0.0		  0.0%				Wed 03 Dec 2025 09:36:34 GMT	     0.0	     0.0	        74	     0.0%
-llin                                        		  0.0		  0.0%				Wed 03 Dec 2025 12:43:19 GMT	     0.0	     0.0	         3	     0.0%
-Stan.Benjamin                               		  0.0		  0.0%				Wed 03 Dec 2025 12:43:19 GMT	     0.0	     0.0	         2	     0.0%
-Nicholas.Gasperoni                          		  0.0		  0.0%				Wed 03 Dec 2025 13:17:06 GMT	     0.0	     0.0	         1	     0.0%
-Michael.Barlage                             		  0.0		  0.0%				Wed 03 Dec 2025 18:42:27 GMT	     0.0	     0.0	         1	     0.0%
+/scratch3/BMC/wrfruc                        		665.5		 97.4%		683.6		Fri 05 Dec 2025 03:47:38 GMT	   362.4	    20.1	  54787761	     0.0%	143360000000
+--unseen-by-du--                            		 96.4		 14.1%				Fri 05 Dec 2025 03:47:38 GMT	     0.0	     0.0	    327240	     0.0%
+mpas                                        		 85.1		 12.4%				Thu 04 Dec 2025 12:24:03 GMT	    35.6	     0.0	    749729	     0.0%
+Ruifang.Li                                  		 62.6		  9.2%				Fri 05 Dec 2025 00:20:22 GMT	    59.0	     0.0	   9659386	     0.0%
+hlin                                        		 51.6		  7.6%				Thu 04 Dec 2025 08:22:24 GMT	    41.0	     0.0	   2248992	     0.0%
+jenglish                                    		 48.5		  7.1%				Thu 04 Dec 2025 19:08:02 GMT	     5.0	     0.0	   3403191	     0.0%
+naegele                                     		 40.8		  6.0%				Thu 04 Dec 2025 06:07:49 GMT	     3.0	     0.0	   2469030	     0.0%
+ejames                                      		 37.4		  5.5%				Fri 05 Dec 2025 01:56:35 GMT	    27.1	     1.0	   4010345	     0.0%
+jjhu                                        		 37.4		  5.5%				Thu 04 Dec 2025 10:11:03 GMT	    37.4	     0.1	    336341	     0.0%
+WaterInTheWest                              		 34.4		  5.0%				Thu 04 Dec 2025 09:52:08 GMT	    34.4	     0.0	    116814	     0.0%
+gge                                         		 29.1		  4.3%				Thu 04 Dec 2025 09:40:00 GMT	     9.2	     0.1	   1413498	     0.0%
+hwang                                       		 26.6		  3.9%				Thu 04 Dec 2025 11:26:22 GMT	    26.6	     0.0	    965460	     0.0%
+Xia.Sun                                     		 21.4		  3.1%				Thu 04 Dec 2025 16:13:28 GMT	    21.4	     0.0	  16110556	     0.0%
+eure                                        		 20.1		  2.9%				Thu 04 Dec 2025 07:01:02 GMT	    14.7	     0.0	    688417	     0.0%
+cholt                                       		 12.9		  1.9%				Fri 05 Dec 2025 03:14:36 GMT	    11.7	     5.8	   1720996	     0.0%
+Samuel.Trahan                               		 12.5		  1.8%				Fri 05 Dec 2025 03:47:38 GMT	     8.5	     0.2	    647097	     0.0%
+ewhite                                      		 10.6		  1.6%				Thu 04 Dec 2025 20:32:37 GMT	     4.3	     0.0	    827321	     0.0%
+mtoy                                        		  9.0		  1.3%				Thu 04 Dec 2025 17:33:50 GMT	     8.6	     7.9	   1363832	     0.0%
+aschein                                     		  8.8		  1.3%				Thu 04 Dec 2025 22:33:33 GMT	     3.0	     0.0	    810555	     0.0%
+span                                        		  6.2		  0.9%				Thu 04 Dec 2025 17:37:24 GMT	     0.0	     0.0	     96115	     0.0%
+Clark.Evans                                 		  3.6		  0.5%				Thu 04 Dec 2025 17:51:58 GMT	     3.4	     2.3	    137096	     0.0%
+olson                                       		  2.4		  0.4%				Thu 04 Dec 2025 17:50:14 GMT	     2.4	     2.4	    302928	     0.0%
+Gerard.Ketefian                             		  2.4		  0.4%				Thu 04 Dec 2025 21:53:58 GMT	     2.4	     0.0	   3495663	     0.0%
+aback                                       		  1.7		  0.2%				Thu 04 Dec 2025 09:45:14 GMT	     1.4	     0.0	    207225	     0.0%
+Shan.Sun                                    		  1.3		  0.2%				Thu 04 Dec 2025 08:28:37 GMT	     0.3	     0.2	     62633	     0.0%
+talcott                                     		  1.3		  0.2%				Thu 04 Dec 2025 11:27:18 GMT	     1.3	     0.0	     37541	     0.0%
+hera                                        		  0.3		  0.0%				Thu 04 Dec 2025 06:17:50 GMT	     0.3	     0.0	    286383	     0.0%
+elcarpenter                                 		  0.3		  0.0%				Thu 04 Dec 2025 12:05:59 GMT	     0.0	     0.0	    612168	     0.0%
+chunhua                                     		  0.2		  0.0%				Thu 04 Dec 2025 18:23:29 GMT	     0.1	     0.0	    986215	     0.0%
+murdzek                                     		  0.2		  0.0%				Thu 04 Dec 2025 08:55:44 GMT	     0.2	     0.0	    385778	     0.0%
+jdduda                                      		  0.1		  0.0%				Thu 04 Dec 2025 06:18:48 GMT	     0.0	     0.0	     42998	     0.0%
+kenyon                                      		  0.1		  0.0%				Thu 04 Dec 2025 09:41:15 GMT	     0.0	     0.0	     21530	     0.0%
+bjallen                                     		  0.1		  0.0%				Thu 04 Dec 2025 11:34:21 GMT	     0.1	     0.0	    142123	     0.0%
+aburke                                      		  0.0		  0.0%				Thu 04 Dec 2025 12:27:08 GMT	     0.0	     0.0	     48978	     0.0%
+jamison                                     		  0.0		  0.0%				Thu 04 Dec 2025 09:40:39 GMT	     0.0	     0.0	     14944	     0.0%
+uw_training                                 		  0.0		  0.0%				Thu 04 Dec 2025 06:18:53 GMT	     0.0	     0.0	      3169	     0.0%
+Craig.Hartsough                             		  0.0		  0.0%				Fri 05 Dec 2025 01:58:28 GMT	     0.0	     0.0	     28382	     0.0%
+jensen                                      		  0.0		  0.0%				Thu 04 Dec 2025 05:30:33 GMT	     0.0	     0.0	      3700	     0.0%
+terra                                       		  0.0		  0.0%				Thu 04 Dec 2025 17:37:25 GMT	     0.0	     0.0	       166	     0.0%
+Paul.Madden                                 		  0.0		  0.0%				Fri 05 Dec 2025 01:58:43 GMT	     0.0	     0.0	      3145	     0.0%
+alexander                                   		  0.0		  0.0%				Thu 04 Dec 2025 08:55:44 GMT	     0.0	     0.0	        74	     0.0%
+llin                                        		  0.0		  0.0%				Thu 04 Dec 2025 12:05:59 GMT	     0.0	     0.0	         3	     0.0%
+Stan.Benjamin                               		  0.0		  0.0%				Thu 04 Dec 2025 12:05:59 GMT	     0.0	     0.0	         2	     0.0%
+Nicholas.Gasperoni                          		  0.0		  0.0%				Thu 04 Dec 2025 12:27:08 GMT	     0.0	     0.0	         1	     0.0%
+Michael.Barlage                             		  0.0		  0.0%				Thu 04 Dec 2025 17:50:14 GMT	     0.0	     0.0	         1	     0.0%
 
 /scratch4/BMC/wrfruc                        		522.8		 76.5%		683.6		Thu 04 Dec 2025 17:55:15 GMT	   284.7	    13.9	  41883836	     0.0%	143360000000
 ejames                                      		 96.2		 14.1%				Thu 04 Dec 2025 09:21:32 GMT	    22.8	     0.0	   5845403	     0.0%
