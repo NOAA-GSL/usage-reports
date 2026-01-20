@@ -1,13 +1,13 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/scratch4/BMC/gsd-hpcs                      		 78.0		 79.9%		 97.7		Mon 19 Jan 2026 03:13:23 GMT
---unseen-by-du--                            		 57.2		 58.6%				Mon 19 Jan 2026 03:13:23 GMT
-safarik                                     		 15.3		 15.6%				Mon 19 Jan 2026 01:24:38 GMT
-rosenberg                                   		  5.1		  5.2%				Mon 19 Jan 2026 01:21:30 GMT
-Christopher.W.Harrop                        		  0.3		  0.3%				Mon 19 Jan 2026 03:13:23 GMT
-jderrico                                    		  0.1		  0.1%				Mon 19 Jan 2026 00:50:47 GMT
-Timothy.S.Sliwinski                         		  0.0		  0.0%				Mon 19 Jan 2026 01:21:31 GMT
-Daniel.Abdi                                 		  0.0		  0.0%				Mon 19 Jan 2026 01:21:30 GMT
+/scratch4/BMC/gsd-hpcs                      		 78.8		 80.7%		 97.7		Tue 20 Jan 2026 03:21:47 GMT
+--unseen-by-du--                            		 58.0		 59.4%				Tue 20 Jan 2026 03:21:47 GMT
+safarik                                     		 15.3		 15.6%				Tue 20 Jan 2026 01:38:35 GMT
+rosenberg                                   		  5.1		  5.2%				Tue 20 Jan 2026 01:30:03 GMT
+Christopher.W.Harrop                        		  0.3		  0.3%				Tue 20 Jan 2026 03:21:47 GMT
+jderrico                                    		  0.1		  0.1%				Tue 20 Jan 2026 01:02:32 GMT
+Timothy.S.Sliwinski                         		  0.0		  0.0%				Tue 20 Jan 2026 01:30:03 GMT
+Daniel.Abdi                                 		  0.0		  0.0%				Tue 20 Jan 2026 01:30:03 GMT
 
 /scratch3/BMC/gsd-fv3-dev                   		 42.2		 54.1%		 78.1		Mon 19 Jan 2026 07:34:30 GMT
 NCEPDEV                                     		 12.0		 15.4%				Mon 19 Jan 2026 07:11:46 GMT
@@ -210,6 +210,53 @@ Samuel.Trahan                               		  1.9		 37.6%				Mon 19 Jan 2026 0
 --unseen-by-du--                            		  0.0		  0.0%				Mon 19 Jan 2026 06:21:47 GMT
 soft                                        		  0.0		  0.0%				Mon 19 Jan 2026 06:21:47 GMT
 Paul.Prestopnik                             		  0.0		  0.0%				Mon 19 Jan 2026 06:20:11 GMT
+
+/scratch3/BMC/wrfruc                        		710.3		 80.8%		878.9		Tue 20 Jan 2026 03:47:35 GMT
+--unseen-by-du--                            		115.7		 13.2%				Tue 20 Jan 2026 03:47:35 GMT
+mpas                                        		108.9		 12.4%				Mon 19 Jan 2026 13:27:45 GMT
+jenglish                                    		 98.1		 11.2%				Mon 19 Jan 2026 19:14:52 GMT
+naegele                                     		 40.8		  4.6%				Mon 19 Jan 2026 07:06:07 GMT
+Ruifang.Li                                  		 40.2		  4.6%				Mon 19 Jan 2026 22:58:47 GMT
+jjhu                                        		 37.5		  4.3%				Mon 19 Jan 2026 11:21:39 GMT
+ejames                                      		 35.3		  4.0%				Tue 20 Jan 2026 00:47:11 GMT
+WaterInTheWest                              		 34.4		  3.9%				Mon 19 Jan 2026 11:06:32 GMT
+hlin                                        		 32.3		  3.7%				Mon 19 Jan 2026 09:17:00 GMT
+gge                                         		 31.9		  3.6%				Mon 19 Jan 2026 10:47:33 GMT
+hwang                                       		 26.6		  3.0%				Mon 19 Jan 2026 11:51:59 GMT
+Xia.Sun                                     		 21.8		  2.5%				Mon 19 Jan 2026 16:55:24 GMT
+cholt                                       		 12.9		  1.5%				Tue 20 Jan 2026 02:53:46 GMT
+Samuel.Trahan                               		 12.5		  1.4%				Tue 20 Jan 2026 03:47:35 GMT
+ewhite                                      		 10.6		  1.2%				Mon 19 Jan 2026 20:11:55 GMT
+mtoy                                        		  9.0		  1.0%				Mon 19 Jan 2026 17:40:04 GMT
+aschein                                     		  8.8		  1.0%				Mon 19 Jan 2026 22:01:43 GMT
+span                                        		  7.8		  0.9%				Mon 19 Jan 2026 17:50:33 GMT
+eure                                        		  7.2		  0.8%				Mon 19 Jan 2026 07:40:33 GMT
+kenyon                                      		  3.9		  0.4%				Mon 19 Jan 2026 10:53:40 GMT
+Clark.Evans                                 		  3.6		  0.4%				Mon 19 Jan 2026 18:09:08 GMT
+olson                                       		  2.4		  0.3%				Mon 19 Jan 2026 18:07:53 GMT
+Gerard.Ketefian                             		  2.4		  0.3%				Mon 19 Jan 2026 20:58:35 GMT
+aback                                       		  1.7		  0.2%				Mon 19 Jan 2026 10:58:30 GMT
+Shan.Sun                                    		  1.3		  0.1%				Mon 19 Jan 2026 09:20:36 GMT
+talcott                                     		  1.3		  0.1%				Mon 19 Jan 2026 11:53:48 GMT
+hera                                        		  0.3		  0.0%				Mon 19 Jan 2026 07:17:12 GMT
+chunhua                                     		  0.3		  0.0%				Mon 19 Jan 2026 18:27:21 GMT
+elcarpenter                                 		  0.3		  0.0%				Mon 19 Jan 2026 12:59:00 GMT
+murdzek                                     		  0.2		  0.0%				Mon 19 Jan 2026 09:44:51 GMT
+jdduda                                      		  0.1		  0.0%				Mon 19 Jan 2026 07:18:30 GMT
+aburke                                      		  0.1		  0.0%				Mon 19 Jan 2026 13:33:42 GMT
+bjallen                                     		  0.1		  0.0%				Mon 19 Jan 2026 12:08:21 GMT
+jamison                                     		  0.0		  0.0%				Mon 19 Jan 2026 10:48:07 GMT
+extra_meshes                                		  0.0		  0.0%				Mon 19 Jan 2026 07:06:08 GMT
+uw_training                                 		  0.0		  0.0%				Mon 19 Jan 2026 07:18:36 GMT
+Craig.Hartsough                             		  0.0		  0.0%				Tue 20 Jan 2026 00:53:05 GMT
+jensen                                      		  0.0		  0.0%				Mon 19 Jan 2026 06:30:29 GMT
+terra                                       		  0.0		  0.0%				Mon 19 Jan 2026 17:50:34 GMT
+Paul.Madden                                 		  0.0		  0.0%				Tue 20 Jan 2026 00:53:27 GMT
+alexander                                   		  0.0		  0.0%				Mon 19 Jan 2026 09:44:51 GMT
+llin                                        		  0.0		  0.0%				Mon 19 Jan 2026 12:59:00 GMT
+Stan.Benjamin                               		  0.0		  0.0%				Mon 19 Jan 2026 12:59:00 GMT
+Nicholas.Gasperoni                          		  0.0		  0.0%				Mon 19 Jan 2026 13:33:42 GMT
+Michael.Barlage                             		  0.0		  0.0%				Mon 19 Jan 2026 18:07:53 GMT
 
 /scratch4/BMC/wrfruc                        		694.3		 79.0%		878.9		Mon 19 Jan 2026 20:12:39 GMT
 --unseen-by-du--                            		144.3		 16.4%				Mon 19 Jan 2026 20:12:39 GMT
