@@ -1,89 +1,89 @@
 Project Directory             Sub-Directory           Dir Use (TB)  Dir Quota (%)   Dir Quota (TB)      Last Checked
 
-/scratch4/BMC/gsd-hpcs                      		 77.9		 53.2%		146.5		Fri 30 Jan 2026 05:26:49 GMT
---unseen-by-du--                            		 57.1		 39.0%				Fri 30 Jan 2026 05:26:49 GMT
-safarik                                     		 15.3		 10.4%				Fri 30 Jan 2026 02:25:40 GMT
-rosenberg                                   		  5.1		  3.4%				Fri 30 Jan 2026 02:05:19 GMT
-Christopher.W.Harrop                        		  0.3		  0.2%				Fri 30 Jan 2026 05:26:49 GMT
-jderrico                                    		  0.1		  0.1%				Fri 30 Jan 2026 00:54:15 GMT
-Timothy.S.Sliwinski                         		  0.0		  0.0%				Fri 30 Jan 2026 02:05:20 GMT
-Daniel.Abdi                                 		  0.0		  0.0%				Fri 30 Jan 2026 02:05:19 GMT
+/scratch4/BMC/gsd-hpcs                      		 77.7		 53.1%		146.5		Sat 31 Jan 2026 05:59:17 GMT
+--unseen-by-du--                            		 57.0		 38.9%				Sat 31 Jan 2026 05:59:17 GMT
+safarik                                     		 15.3		 10.4%				Sat 31 Jan 2026 02:13:29 GMT
+rosenberg                                   		  5.1		  3.4%				Sat 31 Jan 2026 01:58:39 GMT
+Christopher.W.Harrop                        		  0.3		  0.2%				Sat 31 Jan 2026 05:59:17 GMT
+jderrico                                    		  0.1		  0.1%				Sat 31 Jan 2026 01:17:32 GMT
+Timothy.S.Sliwinski                         		  0.0		  0.0%				Sat 31 Jan 2026 01:58:40 GMT
+Daniel.Abdi                                 		  0.0		  0.0%				Sat 31 Jan 2026 01:58:39 GMT
 
-/scratch3/BMC/gsd-fv3-dev                   		 48.7		 62.3%		 78.1		Fri 30 Jan 2026 07:40:15 GMT
-NCEPDEV                                     		 14.2		 18.2%				Fri 30 Jan 2026 06:54:40 GMT
-Gonzalo.Ferrada                             		  6.9		  8.9%				Fri 30 Jan 2026 05:25:49 GMT
---unseen-by-du--                            		  4.8		  6.2%				Fri 30 Jan 2026 07:40:15 GMT
-Ben.Green                                   		  4.7		  6.1%				Fri 30 Jan 2026 07:11:28 GMT
-role.rtgsd-fv3-dev                          		  4.6		  5.9%				Fri 30 Jan 2026 06:31:26 GMT
-Shan.Sun                                    		  3.9		  5.0%				Fri 30 Jan 2026 05:08:46 GMT
-data_others                                 		  3.0		  3.8%				Fri 30 Jan 2026 01:49:26 GMT
-Haiqin.Li                                   		  2.5		  3.2%				Fri 30 Jan 2026 06:53:41 GMT
-lzhang                                      		  1.4		  1.8%				Fri 30 Jan 2026 03:43:23 GMT
-Ning.Wang                                   		  0.9		  1.2%				Fri 30 Jan 2026 01:46:32 GMT
-global_exp                                  		  0.9		  1.1%				Fri 30 Jan 2026 07:07:45 GMT
-KaYee.Wong                                  		  0.5		  0.7%				Fri 30 Jan 2026 01:12:18 GMT
-mpas_dev                                    		  0.1		  0.1%				Fri 30 Jan 2026 05:09:04 GMT
-bleck                                       		  0.1		  0.1%				Fri 30 Jan 2026 02:09:23 GMT
-Ted.Mansell                                 		  0.1		  0.1%				Fri 30 Jan 2026 07:20:19 GMT
-rtsubx                                      		  0.1		  0.1%				Fri 30 Jan 2026 02:12:59 GMT
-fimdata                                     		  0.0		  0.0%				Fri 30 Jan 2026 07:20:23 GMT
-Samuel.Trahan                               		  0.0		  0.0%				Fri 30 Jan 2026 07:40:15 GMT
-Bo.Huang                                    		  0.0		  0.0%				Fri 30 Jan 2026 07:16:59 GMT
-mss_xfr                                     		  0.0		  0.0%				Fri 30 Jan 2026 05:09:09 GMT
-GFS_RETRO_NETCDF                            		  0.0		  0.0%				Fri 30 Jan 2026 06:53:41 GMT
-Man.Zhang                                   		  0.0		  0.0%				Fri 30 Jan 2026 07:16:59 GMT
-Gerard.Ketefian                             		  0.0		  0.0%				Fri 30 Jan 2026 07:20:23 GMT
+/scratch3/BMC/gsd-fv3-dev                   		 48.5		 62.1%		 78.1		Sat 31 Jan 2026 07:58:37 GMT
+NCEPDEV                                     		 14.4		 18.4%				Sat 31 Jan 2026 07:36:57 GMT
+Gonzalo.Ferrada                             		  6.9		  8.9%				Sat 31 Jan 2026 05:23:30 GMT
+Ben.Green                                   		  4.7		  6.1%				Sat 31 Jan 2026 07:45:07 GMT
+role.rtgsd-fv3-dev                          		  4.6		  5.9%				Sat 31 Jan 2026 07:25:38 GMT
+--unseen-by-du--                            		  4.4		  5.6%				Sat 31 Jan 2026 07:58:37 GMT
+Shan.Sun                                    		  3.9		  5.0%				Sat 31 Jan 2026 04:55:08 GMT
+data_others                                 		  3.0		  3.8%				Sat 31 Jan 2026 01:54:07 GMT
+Haiqin.Li                                   		  2.5		  3.2%				Sat 31 Jan 2026 07:36:05 GMT
+lzhang                                      		  1.4		  1.8%				Sat 31 Jan 2026 03:18:43 GMT
+Ning.Wang                                   		  0.9		  1.2%				Sat 31 Jan 2026 01:51:19 GMT
+global_exp                                  		  0.9		  1.1%				Sat 31 Jan 2026 07:44:02 GMT
+KaYee.Wong                                  		  0.5		  0.7%				Sat 31 Jan 2026 01:19:08 GMT
+mpas_dev                                    		  0.1		  0.1%				Sat 31 Jan 2026 04:55:55 GMT
+bleck                                       		  0.1		  0.1%				Sat 31 Jan 2026 02:14:40 GMT
+Ted.Mansell                                 		  0.1		  0.1%				Sat 31 Jan 2026 07:50:54 GMT
+rtsubx                                      		  0.1		  0.1%				Sat 31 Jan 2026 02:17:23 GMT
+fimdata                                     		  0.0		  0.0%				Sat 31 Jan 2026 07:50:56 GMT
+Samuel.Trahan                               		  0.0		  0.0%				Sat 31 Jan 2026 07:58:37 GMT
+Bo.Huang                                    		  0.0		  0.0%				Sat 31 Jan 2026 07:48:21 GMT
+mss_xfr                                     		  0.0		  0.0%				Sat 31 Jan 2026 04:56:19 GMT
+GFS_RETRO_NETCDF                            		  0.0		  0.0%				Sat 31 Jan 2026 07:36:05 GMT
+Man.Zhang                                   		  0.0		  0.0%				Sat 31 Jan 2026 07:48:21 GMT
+Gerard.Ketefian                             		  0.0		  0.0%				Sat 31 Jan 2026 07:50:56 GMT
 
-/scratch4/BMC/gsd-fv3-dev                   		 58.4		 74.8%		 78.1		Fri 30 Jan 2026 09:23:47 GMT
-Gonzalo.Ferrada                             		 11.9		 15.2%				Fri 30 Jan 2026 05:47:26 GMT
---unseen-by-du--                            		  7.4		  9.5%				Fri 30 Jan 2026 09:23:47 GMT
-Ben.Green                                   		  6.4		  8.1%				Fri 30 Jan 2026 05:05:23 GMT
-Shan.Sun                                    		  6.3		  8.1%				Fri 30 Jan 2026 06:27:32 GMT
-lzhang                                      		  5.5		  7.1%				Fri 30 Jan 2026 01:27:15 GMT
-Bo.Huang                                    		  4.6		  5.9%				Fri 30 Jan 2026 04:39:25 GMT
-Haiqin.Li                                   		  3.7		  4.7%				Fri 30 Jan 2026 05:42:07 GMT
-NCEPDEV                                     		  3.6		  4.7%				Fri 30 Jan 2026 05:47:49 GMT
-role.rtgsd-fv3-dev                          		  3.3		  4.2%				Fri 30 Jan 2026 05:42:08 GMT
-Michael.Kavulich                            		  2.5		  3.2%				Fri 30 Jan 2026 09:23:47 GMT
-Ning.Wang                                   		  1.5		  1.9%				Fri 30 Jan 2026 05:28:37 GMT
-bleck                                       		  1.1		  1.5%				Fri 30 Jan 2026 05:30:50 GMT
-Gerard.Ketefian                             		  0.5		  0.6%				Fri 30 Jan 2026 05:19:20 GMT
-Darri.Stuber                                		  0.2		  0.2%				Fri 30 Jan 2026 01:41:33 GMT
-KaYee.Wong                                  		  0.0		  0.0%				Fri 30 Jan 2026 05:47:49 GMT
+/scratch4/BMC/gsd-fv3-dev                   		 59.3		 75.9%		 78.1		Sat 31 Jan 2026 09:07:43 GMT
+Gonzalo.Ferrada                             		 11.9		 15.2%				Sat 31 Jan 2026 06:20:19 GMT
+--unseen-by-du--                            		  8.1		 10.3%				Sat 31 Jan 2026 09:07:43 GMT
+Ben.Green                                   		  6.4		  8.1%				Sat 31 Jan 2026 05:40:21 GMT
+Shan.Sun                                    		  6.3		  8.1%				Sat 31 Jan 2026 06:58:50 GMT
+lzhang                                      		  5.7		  7.3%				Sat 31 Jan 2026 01:39:37 GMT
+Bo.Huang                                    		  4.6		  5.9%				Sat 31 Jan 2026 04:50:23 GMT
+Haiqin.Li                                   		  3.7		  4.7%				Sat 31 Jan 2026 06:15:55 GMT
+NCEPDEV                                     		  3.6		  4.7%				Sat 31 Jan 2026 06:20:41 GMT
+role.rtgsd-fv3-dev                          		  3.3		  4.2%				Sat 31 Jan 2026 06:15:55 GMT
+Michael.Kavulich                            		  2.6		  3.3%				Sat 31 Jan 2026 09:07:43 GMT
+Ning.Wang                                   		  1.5		  1.9%				Sat 31 Jan 2026 06:02:59 GMT
+bleck                                       		  1.1		  1.5%				Sat 31 Jan 2026 06:05:17 GMT
+Gerard.Ketefian                             		  0.5		  0.6%				Sat 31 Jan 2026 05:51:37 GMT
+Darri.Stuber                                		  0.2		  0.2%				Sat 31 Jan 2026 02:31:52 GMT
+KaYee.Wong                                  		  0.0		  0.0%				Sat 31 Jan 2026 06:20:41 GMT
 
-/scratch3/BMC/gsd-hpcs                      		 86.4		 59.0%		146.5		Fri 30 Jan 2026 10:06:24 GMT
-Timothy.S.Sliwinski                         		 38.8		 26.5%				Fri 30 Jan 2026 08:25:11 GMT
-Daniel.Abdi                                 		 13.9		  9.5%				Fri 30 Jan 2026 10:06:24 GMT
-Christopher.W.Harrop                        		 12.7		  8.6%				Fri 30 Jan 2026 00:58:12 GMT
-rosenberg                                   		  9.9		  6.8%				Fri 30 Jan 2026 08:51:16 GMT
-safarik                                     		  5.3		  3.6%				Fri 30 Jan 2026 08:38:45 GMT
---unseen-by-du--                            		  4.5		  3.1%				Fri 30 Jan 2026 10:06:24 GMT
-isidora                                     		  1.1		  0.7%				Fri 30 Jan 2026 08:26:03 GMT
-Paul.Madden                                 		  0.2		  0.1%				Fri 30 Jan 2026 09:15:25 GMT
-Shan.Sun                                    		  0.0		  0.0%				Fri 30 Jan 2026 01:18:58 GMT
+/scratch3/BMC/gsd-hpcs                      		 86.9		 59.3%		146.5		Sat 31 Jan 2026 10:56:54 GMT
+Timothy.S.Sliwinski                         		 38.8		 26.5%				Sat 31 Jan 2026 08:28:51 GMT
+Daniel.Abdi                                 		 13.9		  9.5%				Sat 31 Jan 2026 10:56:54 GMT
+Christopher.W.Harrop                        		 12.7		  8.6%				Sat 31 Jan 2026 02:20:18 GMT
+rosenberg                                   		 10.1		  6.9%				Sat 31 Jan 2026 08:58:00 GMT
+safarik                                     		  5.5		  3.8%				Sat 31 Jan 2026 08:43:15 GMT
+--unseen-by-du--                            		  4.7		  3.2%				Sat 31 Jan 2026 10:56:54 GMT
+isidora                                     		  1.1		  0.7%				Sat 31 Jan 2026 08:29:48 GMT
+Paul.Madden                                 		  0.2		  0.1%				Sat 31 Jan 2026 09:25:23 GMT
+Shan.Sun                                    		  0.0		  0.0%				Sat 31 Jan 2026 02:41:16 GMT
 
-/scratch3/BMC/gsd-fv3                       		 61.1		 78.2%		 78.1		Fri 30 Jan 2026 05:06:05 GMT
-role.rtgsd-fv3-dev                          		 20.5		 26.3%				Fri 30 Jan 2026 03:14:25 GMT
-rtruns                                      		 20.1		 25.7%				Fri 30 Jan 2026 02:23:56 GMT
---unseen-by-du--                            		 14.7		 18.8%				Fri 30 Jan 2026 05:06:05 GMT
-exp                                         		  4.2		  5.3%				Fri 30 Jan 2026 05:05:16 GMT
-rtsubx_hera                                 		  1.6		  2.0%				Fri 30 Jan 2026 03:43:44 GMT
-rtsubx_ursa                                 		  0.1		  0.1%				Fri 30 Jan 2026 05:06:05 GMT
-ncl_graphics                                		  0.0		  0.0%				Fri 30 Jan 2026 03:14:40 GMT
-logs                                        		  0.0		  0.0%				Fri 30 Jan 2026 03:14:45 GMT
-rtsubx                                      		  0.0		  0.0%				Fri 30 Jan 2026 00:30:16 GMT
+/scratch3/BMC/gsd-fv3                       		 59.9		 76.7%		 78.1		Sat 31 Jan 2026 05:30:54 GMT
+role.rtgsd-fv3-dev                          		 20.5		 26.3%				Sat 31 Jan 2026 03:11:36 GMT
+rtruns                                      		 20.1		 25.7%				Sat 31 Jan 2026 02:42:17 GMT
+--unseen-by-du--                            		 13.5		 17.3%				Sat 31 Jan 2026 05:30:54 GMT
+exp                                         		  4.2		  5.3%				Sat 31 Jan 2026 05:29:57 GMT
+rtsubx_hera                                 		  1.6		  2.0%				Sat 31 Jan 2026 03:40:55 GMT
+rtsubx_ursa                                 		  0.1		  0.1%				Sat 31 Jan 2026 05:30:54 GMT
+ncl_graphics                                		  0.0		  0.0%				Sat 31 Jan 2026 03:11:48 GMT
+logs                                        		  0.0		  0.0%				Sat 31 Jan 2026 03:11:52 GMT
+rtsubx                                      		  0.0		  0.0%				Sat 31 Jan 2026 00:30:16 GMT
 
-/scratch3/BMC/gmtb                          		 31.1		106.0%		 29.3		Fri 30 Jan 2026 06:06:50 GMT
-Grant.Firl                                  		  8.7		 29.9%				Fri 30 Jan 2026 02:09:43 GMT
---unseen-by-du--                            		  7.7		 26.2%				Fri 30 Jan 2026 06:06:50 GMT
-Dustin.Swales                               		  5.8		 19.7%				Fri 30 Jan 2026 01:43:21 GMT
-Man.Zhang                                   		  5.8		 19.6%				Fri 30 Jan 2026 04:29:15 GMT
-Weiwei.Li                                   		  2.7		  9.1%				Fri 30 Jan 2026 05:58:33 GMT
-Tracy.Hertneky                              		  0.2		  0.7%				Fri 30 Jan 2026 06:06:50 GMT
-Xia.Sun                                     		  0.2		  0.7%				Fri 30 Jan 2026 04:50:23 GMT
-Dom.Heinzeller                              		  0.0		  0.1%				Fri 30 Jan 2026 06:00:57 GMT
-ccpp-scm-software                           		  0.0		  0.0%				Fri 30 Jan 2026 04:59:14 GMT
-Michael.Kavulich                            		  0.0		  0.0%				Fri 30 Jan 2026 01:43:37 GMT
+/scratch3/BMC/gmtb                          		 31.2		106.4%		 29.3		Sat 31 Jan 2026 07:02:56 GMT
+Grant.Firl                                  		  8.9		 30.4%				Sat 31 Jan 2026 02:38:13 GMT
+--unseen-by-du--                            		  7.6		 25.9%				Sat 31 Jan 2026 07:02:56 GMT
+Dustin.Swales                               		  5.8		 19.8%				Sat 31 Jan 2026 02:10:05 GMT
+Man.Zhang                                   		  5.8		 19.6%				Sat 31 Jan 2026 04:27:43 GMT
+Weiwei.Li                                   		  2.7		  9.1%				Sat 31 Jan 2026 06:57:29 GMT
+Tracy.Hertneky                              		  0.2		  0.7%				Sat 31 Jan 2026 07:02:56 GMT
+Xia.Sun                                     		  0.2		  0.7%				Sat 31 Jan 2026 04:52:54 GMT
+Dom.Heinzeller                              		  0.0		  0.1%				Sat 31 Jan 2026 06:59:06 GMT
+ccpp-scm-software                           		  0.0		  0.0%				Sat 31 Jan 2026 05:03:35 GMT
+Michael.Kavulich                            		  0.0		  0.0%				Sat 31 Jan 2026 02:10:28 GMT
 
 /scratch3/BMC/acomp                         		181.3		 92.8%		195.3		Sat 31 Jan 2026 03:26:05 GMT
 minsusee                                    		 61.5		 31.5%				Sat 31 Jan 2026 03:26:05 GMT
@@ -96,124 +96,125 @@ rrfs-sd_tools                               		  0.0		  0.0%				Sat 31 Jan 2026 0
 Jordan                                      		  0.0		  0.0%				Sat 31 Jan 2026 03:23:47 GMT
 Gonzalo.Ferrada                             		  0.0		  0.0%				Sat 31 Jan 2026 02:54:44 GMT
 
-/scratch4/BMC/rtrr                          		384.8		 78.8%		488.3		Fri 30 Jan 2026 02:36:34 GMT
---unseen-by-du--                            		152.4		 31.2%				Fri 30 Jan 2026 02:36:34 GMT
-NCO_dirs                                    		138.9		 28.5%				Fri 30 Jan 2026 02:30:46 GMT
-Chunhua.Zhou                                		 46.9		  9.6%				Fri 30 Jan 2026 02:25:39 GMT
-RRFS2_RETRO_DATA                            		 35.4		  7.2%				Fri 30 Jan 2026 02:24:36 GMT
-MPAS_GFS_na3km                              		  7.3		  1.5%				Fri 30 Jan 2026 01:54:37 GMT
-FIX_RRFS2                                   		  1.4		  0.3%				Fri 30 Jan 2026 01:54:35 GMT
-RDAS_DATA                                   		  0.9		  0.2%				Fri 30 Jan 2026 01:54:02 GMT
-save.to_be_removed                          		  0.7		  0.1%				Fri 30 Jan 2026 02:26:02 GMT
-MPAS_RRFSA_na3km                            		  0.4		  0.1%				Fri 30 Jan 2026 02:20:32 GMT
-FIX_RRFS                                    		  0.3		  0.1%				Fri 30 Jan 2026 02:20:39 GMT
-gge                                         		  0.2		  0.0%				Fri 30 Jan 2026 02:26:20 GMT
-FIX_pyDAmonitor                             		  0.1		  0.0%				Fri 30 Jan 2026 02:20:44 GMT
-ssun                                        		  0.0		  0.0%				Fri 30 Jan 2026 02:13:10 GMT
-miniconda                                   		  0.0		  0.0%				Fri 30 Jan 2026 02:36:34 GMT
-wps_geog                                    		  0.0		  0.0%				Fri 30 Jan 2026 02:13:10 GMT
-rrfs-workflow                               		  0.0		  0.0%				Fri 30 Jan 2026 02:27:55 GMT
-nohup.out                                   		  0.0		  0.0%				Fri 30 Jan 2026 01:54:02 GMT
+/scratch4/BMC/rtrr                          		397.4		 81.4%		488.3		Sat 31 Jan 2026 04:22:37 GMT
+--unseen-by-du--                            		156.5		 32.0%				Sat 31 Jan 2026 04:22:37 GMT
+NCO_dirs                                    		147.5		 30.2%				Sat 31 Jan 2026 04:17:34 GMT
+Chunhua.Zhou                                		 46.9		  9.6%				Sat 31 Jan 2026 04:12:56 GMT
+RRFS2_RETRO_DATA                            		 35.4		  7.2%				Sat 31 Jan 2026 04:12:02 GMT
+MPAS_GFS_na3km                              		  7.3		  1.5%				Sat 31 Jan 2026 03:35:26 GMT
+FIX_RRFS2                                   		  1.4		  0.3%				Sat 31 Jan 2026 03:35:23 GMT
+RDAS_DATA                                   		  0.9		  0.2%				Sat 31 Jan 2026 03:34:27 GMT
+save.to_be_removed                          		  0.7		  0.1%				Sat 31 Jan 2026 04:13:19 GMT
+MPAS_RRFSA_na3km                            		  0.4		  0.1%				Sat 31 Jan 2026 04:07:05 GMT
+FIX_RRFS                                    		  0.3		  0.1%				Sat 31 Jan 2026 04:07:12 GMT
+gge                                         		  0.2		  0.0%				Sat 31 Jan 2026 04:13:34 GMT
+FIX_pyDAmonitor                             		  0.1		  0.0%				Sat 31 Jan 2026 04:07:18 GMT
+ssun                                        		  0.0		  0.0%				Sat 31 Jan 2026 04:01:04 GMT
+miniconda                                   		  0.0		  0.0%				Sat 31 Jan 2026 04:22:37 GMT
+wps_geog                                    		  0.0		  0.0%				Sat 31 Jan 2026 04:01:05 GMT
+rrfs-workflow                               		  0.0		  0.0%				Sat 31 Jan 2026 04:15:10 GMT
+nohup.out                                   		  0.0		  0.0%				Sat 31 Jan 2026 03:34:27 GMT
 
-/scratch4/BMC/zrtrr                         		155.5		 71.4%		217.8		Fri 30 Jan 2026 06:19:42 GMT
-Samuel.Degelia                              		 60.9		 28.0%				Fri 30 Jan 2026 03:27:21 GMT
---unseen-by-du--                            		 27.7		 12.7%				Fri 30 Jan 2026 06:19:42 GMT
-olson                                       		 22.6		 10.4%				Fri 30 Jan 2026 06:08:31 GMT
-aback                                       		 16.7		  7.7%				Fri 30 Jan 2026 03:51:23 GMT
-Ruifang.Li                                  		 15.8		  7.3%				Fri 30 Jan 2026 06:07:40 GMT
-jdduda                                      		  6.6		  3.0%				Fri 30 Jan 2026 03:42:17 GMT
-Gerard.Ketefian                             		  2.3		  1.0%				Fri 30 Jan 2026 03:27:26 GMT
-bjallen                                     		  2.0		  0.9%				Fri 30 Jan 2026 03:32:56 GMT
-llin                                        		  0.5		  0.2%				Fri 30 Jan 2026 03:05:20 GMT
-cholt                                       		  0.3		  0.1%				Fri 30 Jan 2026 02:42:18 GMT
-jsimonson                                   		  0.1		  0.0%				Fri 30 Jan 2026 03:58:55 GMT
-elcarpenter                                 		  0.0		  0.0%				Fri 30 Jan 2026 06:19:42 GMT
-kenyon                                      		  0.0		  0.0%				Fri 30 Jan 2026 06:08:31 GMT
+/scratch4/BMC/zrtrr                         		150.2		 69.0%		217.8		Sat 31 Jan 2026 07:13:55 GMT
+Samuel.Degelia                              		 60.9		 28.0%				Sat 31 Jan 2026 05:02:18 GMT
+--unseen-by-du--                            		 25.1		 11.5%				Sat 31 Jan 2026 07:13:55 GMT
+olson                                       		 19.9		  9.1%				Sat 31 Jan 2026 07:10:19 GMT
+aback                                       		 16.7		  7.7%				Sat 31 Jan 2026 05:33:19 GMT
+Ruifang.Li                                  		 15.8		  7.3%				Sat 31 Jan 2026 07:09:50 GMT
+jdduda                                      		  6.6		  3.0%				Sat 31 Jan 2026 05:17:13 GMT
+Gerard.Ketefian                             		  2.3		  1.0%				Sat 31 Jan 2026 05:02:26 GMT
+bjallen                                     		  2.0		  0.9%				Sat 31 Jan 2026 05:06:12 GMT
+llin                                        		  0.5		  0.2%				Sat 31 Jan 2026 04:36:31 GMT
+cholt                                       		  0.3		  0.1%				Sat 31 Jan 2026 04:22:04 GMT
+elcarpenter                                 		  0.1		  0.0%				Sat 31 Jan 2026 07:13:55 GMT
+jsimonson                                   		  0.1		  0.0%				Sat 31 Jan 2026 05:39:56 GMT
+kenyon                                      		  0.0		  0.0%				Sat 31 Jan 2026 07:10:19 GMT
 
-/scratch4/BMC/rtruc                         		  0.1		  2.4%		  3.0		Fri 30 Jan 2026 05:11:30 GMT
-RUC13                                       		  0.1		  2.0%				Fri 30 Jan 2026 05:11:06 GMT
-Kevin.Brundage                              		  0.0		  0.4%				Fri 30 Jan 2026 05:11:17 GMT
-Paul.Madden                                 		  0.0		  0.0%				Fri 30 Jan 2026 05:11:30 GMT
---unseen-by-du--                            		  0.0		  0.0%				Fri 30 Jan 2026 05:11:30 GMT
-ncl_graphics                                		  0.0		  0.0%				Fri 30 Jan 2026 05:10:52 GMT
-log                                         		  0.0		  0.0%				Fri 30 Jan 2026 05:11:06 GMT
+/scratch4/BMC/rtruc                         		  0.1		  2.4%		  3.0		Sat 31 Jan 2026 04:32:17 GMT
+RUC13                                       		  0.1		  2.0%				Sat 31 Jan 2026 04:31:47 GMT
+Kevin.Brundage                              		  0.0		  0.4%				Sat 31 Jan 2026 04:32:00 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Sat 31 Jan 2026 04:32:17 GMT
+Paul.Madden                                 		  0.0		  0.0%				Sat 31 Jan 2026 04:32:16 GMT
+ncl_graphics                                		  0.0		  0.0%				Sat 31 Jan 2026 04:30:15 GMT
+log                                         		  0.0		  0.0%				Sat 31 Jan 2026 04:31:47 GMT
 
-/scratch3/BMC/zrtrr                         		116.6		 79.5%		146.6		Fri 30 Jan 2026 05:35:16 GMT
-ejames                                      		 92.8		 63.3%				Fri 30 Jan 2026 05:33:29 GMT
---unseen-by-du--                            		 11.9		  8.1%				Fri 30 Jan 2026 05:35:16 GMT
-RRFS_RETRO_DATA                             		  8.6		  5.9%				Fri 30 Jan 2026 05:23:18 GMT
-bjallen                                     		  2.0		  1.4%				Fri 30 Jan 2026 05:31:06 GMT
-Samuel.Degelia                              		  1.1		  0.8%				Fri 30 Jan 2026 05:35:16 GMT
-aback                                       		  0.0		  0.0%				Fri 30 Jan 2026 05:29:04 GMT
-gge                                         		  0.0		  0.0%				Fri 30 Jan 2026 05:26:41 GMT
-jdduda                                      		  0.0		  0.0%				Fri 30 Jan 2026 05:23:21 GMT
-hlin                                        		  0.0		  0.0%				Fri 30 Jan 2026 05:23:21 GMT
-llin                                        		  0.0		  0.0%				Fri 30 Jan 2026 05:31:06 GMT
-Ruifang.Li                                  		  0.0		  0.0%				Fri 30 Jan 2026 05:31:06 GMT
-kenyon                                      		  0.0		  0.0%				Fri 30 Jan 2026 05:26:41 GMT
-olson                                       		  0.0		  0.0%				Fri 30 Jan 2026 05:31:06 GMT
+/scratch3/BMC/zrtrr                         		116.6		 79.5%		146.6		Sat 31 Jan 2026 05:01:00 GMT
+ejames                                      		 92.8		 63.3%				Sat 31 Jan 2026 04:58:52 GMT
+--unseen-by-du--                            		 11.9		  8.1%				Sat 31 Jan 2026 05:01:00 GMT
+RRFS_RETRO_DATA                             		  8.6		  5.9%				Sat 31 Jan 2026 04:43:15 GMT
+bjallen                                     		  2.0		  1.4%				Sat 31 Jan 2026 04:56:25 GMT
+Samuel.Degelia                              		  1.1		  0.8%				Sat 31 Jan 2026 05:01:00 GMT
+aback                                       		  0.0		  0.0%				Sat 31 Jan 2026 04:50:51 GMT
+gge                                         		  0.0		  0.0%				Sat 31 Jan 2026 04:47:36 GMT
+jdduda                                      		  0.0		  0.0%				Sat 31 Jan 2026 04:43:18 GMT
+hlin                                        		  0.0		  0.0%				Sat 31 Jan 2026 04:43:18 GMT
+elcarpenter                                 		  0.0		  0.0%				Sat 31 Jan 2026 04:56:25 GMT
+llin                                        		  0.0		  0.0%				Sat 31 Jan 2026 04:56:25 GMT
+Ruifang.Li                                  		  0.0		  0.0%				Sat 31 Jan 2026 04:56:25 GMT
+kenyon                                      		  0.0		  0.0%				Sat 31 Jan 2026 04:47:36 GMT
+olson                                       		  0.0		  0.0%				Sat 31 Jan 2026 04:56:25 GMT
 
-/scratch3/BMC/hmtb                          		 14.3		 25.2%		 56.7		Fri 30 Jan 2026 08:22:35 GMT
-Michael.Kavulich                            		  5.7		 10.0%				Fri 30 Jan 2026 08:07:34 GMT
---unseen-by-du--                            		  4.4		  7.8%				Fri 30 Jan 2026 08:22:35 GMT
-Daniel.Abdi                                 		  3.0		  5.2%				Fri 30 Jan 2026 08:22:17 GMT
-harrold                                     		  0.9		  1.5%				Fri 30 Jan 2026 05:47:47 GMT
-mayfield                                    		  0.4		  0.7%				Fri 30 Jan 2026 08:22:35 GMT
-isidora                                     		  0.0		  0.0%				Fri 30 Jan 2026 05:47:50 GMT
-beck                                        		  0.0		  0.0%				Fri 30 Jan 2026 05:47:48 GMT
-Paul.Madden                                 		  0.0		  0.0%				Fri 30 Jan 2026 08:07:34 GMT
+/scratch3/BMC/hmtb                          		 14.3		 25.2%		 56.7		Sat 31 Jan 2026 07:25:39 GMT
+Michael.Kavulich                            		  5.7		 10.0%				Sat 31 Jan 2026 07:08:07 GMT
+--unseen-by-du--                            		  4.4		  7.8%				Sat 31 Jan 2026 07:25:39 GMT
+Daniel.Abdi                                 		  3.0		  5.2%				Sat 31 Jan 2026 07:25:08 GMT
+harrold                                     		  0.9		  1.5%				Sat 31 Jan 2026 05:18:29 GMT
+mayfield                                    		  0.4		  0.7%				Sat 31 Jan 2026 07:25:39 GMT
+isidora                                     		  0.0		  0.0%				Sat 31 Jan 2026 05:18:33 GMT
+beck                                        		  0.0		  0.0%				Sat 31 Jan 2026 05:18:31 GMT
+Paul.Madden                                 		  0.0		  0.0%				Sat 31 Jan 2026 07:08:07 GMT
 
-/scratch4/BMC/gsd-fv3-test                  		 52.9		120.3%		 43.9		Fri 30 Jan 2026 05:55:42 GMT
-Shan.Sun                                    		 25.4		 57.8%				Fri 30 Jan 2026 05:53:17 GMT
---unseen-by-du--                            		 21.2		 48.4%				Fri 30 Jan 2026 05:55:42 GMT
-Kate.Zhang                                  		  5.7		 13.0%				Fri 30 Jan 2026 05:40:34 GMT
-Gonzalo.Ferrada                             		  0.5		  1.2%				Fri 30 Jan 2026 05:40:39 GMT
-Michael.Kavulich                            		  0.0		  0.0%				Fri 30 Jan 2026 05:55:42 GMT
+/scratch4/BMC/gsd-fv3-test                  		 50.6		115.1%		 43.9		Sat 31 Jan 2026 05:55:49 GMT
+Shan.Sun                                    		 23.4		 53.3%				Sat 31 Jan 2026 05:54:39 GMT
+--unseen-by-du--                            		 21.0		 47.7%				Sat 31 Jan 2026 05:55:49 GMT
+Kate.Zhang                                  		  5.7		 13.0%				Sat 31 Jan 2026 05:41:22 GMT
+Gonzalo.Ferrada                             		  0.5		  1.2%				Sat 31 Jan 2026 05:41:28 GMT
+Michael.Kavulich                            		  0.0		  0.0%				Sat 31 Jan 2026 05:55:49 GMT
 
-/scratch4/BMC/ap-fc                         		 20.9		 41.8%		 49.9		Fri 30 Jan 2026 06:07:13 GMT
-minsusee                                    		  9.1		 18.3%				Fri 30 Jan 2026 06:07:13 GMT
-Jana                                        		  8.8		 17.6%				Fri 30 Jan 2026 06:07:13 GMT
---unseen-by-du--                            		  3.0		  6.0%				Fri 30 Jan 2026 06:07:13 GMT
-Ravan                                       		  0.0		  0.0%				Fri 30 Jan 2026 06:00:15 GMT
+/scratch4/BMC/ap-fc                         		 20.9		 41.8%		 49.9		Sat 31 Jan 2026 06:03:48 GMT
+minsusee                                    		  9.1		 18.3%				Sat 31 Jan 2026 06:03:47 GMT
+Jana                                        		  8.8		 17.6%				Sat 31 Jan 2026 06:03:48 GMT
+--unseen-by-du--                            		  3.0		  6.0%				Sat 31 Jan 2026 06:03:48 GMT
+Ravan                                       		  0.0		  0.0%				Sat 31 Jan 2026 06:00:15 GMT
 
-/scratch4/BMC/acomp                         		182.1		 93.3%		195.3		Fri 30 Jan 2026 09:29:58 GMT
-Johana.R                                    		 87.0		 44.5%				Fri 30 Jan 2026 07:29:24 GMT
-minsusee                                    		 27.5		 14.1%				Fri 30 Jan 2026 08:43:18 GMT
---unseen-by-du--                            		 24.4		 12.5%				Fri 30 Jan 2026 09:29:58 GMT
-Sudheer                                     		 24.1		 12.3%				Fri 30 Jan 2026 08:36:58 GMT
-cheMPAS-Fire                                		  7.8		  4.0%				Fri 30 Jan 2026 09:28:38 GMT
-Jordan                                      		  5.7		  2.9%				Fri 30 Jan 2026 09:29:58 GMT
-Gonzalo.Ferrada                             		  5.3		  2.7%				Fri 30 Jan 2026 09:28:39 GMT
-Haiqin.Li                                   		  0.4		  0.2%				Fri 30 Jan 2026 08:53:44 GMT
-Lindsey                                     		  0.0		  0.0%				Fri 30 Jan 2026 09:29:58 GMT
-Ravan                                       		  0.0		  0.0%				Fri 30 Jan 2026 06:10:12 GMT
+/scratch4/BMC/acomp                         		183.4		 93.9%		195.3		Sat 31 Jan 2026 07:20:10 GMT
+Johana.R                                    		 87.0		 44.5%				Sat 31 Jan 2026 06:19:00 GMT
+minsusee                                    		 29.0		 14.8%				Sat 31 Jan 2026 07:00:20 GMT
+--unseen-by-du--                            		 24.1		 12.4%				Sat 31 Jan 2026 07:20:10 GMT
+Sudheer                                     		 24.1		 12.3%				Sat 31 Jan 2026 06:57:31 GMT
+cheMPAS-Fire                                		  7.8		  4.0%				Sat 31 Jan 2026 07:19:30 GMT
+Jordan                                      		  5.7		  2.9%				Sat 31 Jan 2026 07:20:10 GMT
+Gonzalo.Ferrada                             		  5.3		  2.7%				Sat 31 Jan 2026 07:19:31 GMT
+Haiqin.Li                                   		  0.4		  0.2%				Sat 31 Jan 2026 07:03:28 GMT
+Lindsey                                     		  0.0		  0.0%				Sat 31 Jan 2026 07:20:10 GMT
+Ravan                                       		  0.0		  0.0%				Sat 31 Jan 2026 06:00:17 GMT
 
-/scratch4/BMC/fv3lam                        		280.8		104.5%		268.6		Fri 30 Jan 2026 15:55:14 GMT
-HWT                                         		 94.5		 35.2%				Fri 30 Jan 2026 11:47:31 GMT
-ajohns                                      		 53.0		 19.7%				Fri 30 Jan 2026 13:53:37 GMT
---unseen-by-du--                            		 43.5		 16.2%				Fri 30 Jan 2026 15:55:14 GMT
-Gerard.Ketefian                             		 25.9		  9.7%				Fri 30 Jan 2026 11:20:42 GMT
-RRFS_prototype                              		 16.8		  6.3%				Fri 30 Jan 2026 08:25:28 GMT
-mayfield                                    		 11.9		  4.4%				Fri 30 Jan 2026 07:48:51 GMT
-HIWT                                        		 10.4		  3.9%				Fri 30 Jan 2026 11:24:39 GMT
-Vanderlei.Vargas                            		  8.2		  3.1%				Fri 30 Jan 2026 13:36:08 GMT
-larson                                      		  7.9		  2.9%				Fri 30 Jan 2026 12:13:21 GMT
-beck                                        		  2.1		  0.8%				Fri 30 Jan 2026 12:00:37 GMT
-Michael.Kavulich                            		  1.9		  0.7%				Fri 30 Jan 2026 15:55:14 GMT
-ens_design_RRFS                             		  1.7		  0.6%				Fri 30 Jan 2026 08:56:07 GMT
-kalb                                        		  1.4		  0.5%				Fri 30 Jan 2026 09:03:38 GMT
-MPAS_stoch                                  		  0.7		  0.3%				Fri 30 Jan 2026 12:42:40 GMT
-harrold                                     		  0.4		  0.2%				Fri 30 Jan 2026 13:42:20 GMT
-schwartz                                    		  0.4		  0.1%				Fri 30 Jan 2026 13:36:30 GMT
-MUMIP                                       		  0.1		  0.0%				Fri 30 Jan 2026 14:04:20 GMT
-WPS_GEOG                                    		  0.0		  0.0%				Fri 30 Jan 2026 13:38:24 GMT
-du.sh                                       		  0.0		  0.0%				Fri 30 Jan 2026 11:47:31 GMT
+/scratch4/BMC/fv3lam                        		273.9		102.0%		268.6		Sat 31 Jan 2026 11:41:37 GMT
+HWT                                         		 94.5		 35.2%				Sat 31 Jan 2026 09:07:12 GMT
+ajohns                                      		 53.0		 19.7%				Sat 31 Jan 2026 10:39:10 GMT
+--unseen-by-du--                            		 36.7		 13.7%				Sat 31 Jan 2026 11:41:37 GMT
+Gerard.Ketefian                             		 25.9		  9.7%				Sat 31 Jan 2026 08:47:05 GMT
+RRFS_prototype                              		 16.8		  6.3%				Sat 31 Jan 2026 07:04:23 GMT
+mayfield                                    		 11.9		  4.4%				Sat 31 Jan 2026 06:51:53 GMT
+HIWT                                        		 10.4		  3.9%				Sat 31 Jan 2026 08:50:43 GMT
+Vanderlei.Vargas                            		  8.2		  3.1%				Sat 31 Jan 2026 10:21:07 GMT
+larson                                      		  7.9		  2.9%				Sat 31 Jan 2026 09:49:48 GMT
+beck                                        		  2.1		  0.8%				Sat 31 Jan 2026 09:34:45 GMT
+Michael.Kavulich                            		  1.9		  0.7%				Sat 31 Jan 2026 11:41:37 GMT
+ens_design_RRFS                             		  1.7		  0.6%				Sat 31 Jan 2026 07:10:41 GMT
+kalb                                        		  1.4		  0.5%				Sat 31 Jan 2026 07:18:35 GMT
+MPAS_stoch                                  		  0.7		  0.3%				Sat 31 Jan 2026 09:59:25 GMT
+harrold                                     		  0.4		  0.2%				Sat 31 Jan 2026 10:29:57 GMT
+schwartz                                    		  0.4		  0.1%				Sat 31 Jan 2026 10:21:12 GMT
+MUMIP                                       		  0.1		  0.0%				Sat 31 Jan 2026 10:46:42 GMT
+WPS_GEOG                                    		  0.0		  0.0%				Sat 31 Jan 2026 10:22:02 GMT
+du.sh                                       		  0.0		  0.0%				Sat 31 Jan 2026 09:07:12 GMT
 
-/scratch4/BMC/ifi                           		  1.9		 37.6%		  5.0		Fri 30 Jan 2026 06:22:46 GMT
-Samuel.Trahan                               		  1.9		 37.6%				Fri 30 Jan 2026 06:22:45 GMT
---unseen-by-du--                            		  0.0		  0.0%				Fri 30 Jan 2026 06:22:46 GMT
-soft                                        		  0.0		  0.0%				Fri 30 Jan 2026 06:22:46 GMT
-Paul.Prestopnik                             		  0.0		  0.0%				Fri 30 Jan 2026 06:20:13 GMT
+/scratch4/BMC/ifi                           		  1.9		 37.6%		  5.0		Sat 31 Jan 2026 07:12:19 GMT
+Samuel.Trahan                               		  1.9		 37.6%				Sat 31 Jan 2026 07:12:18 GMT
+--unseen-by-du--                            		  0.0		  0.0%				Sat 31 Jan 2026 07:12:19 GMT
+soft                                        		  0.0		  0.0%				Sat 31 Jan 2026 07:12:19 GMT
+Paul.Prestopnik                             		  0.0		  0.0%				Sat 31 Jan 2026 07:10:12 GMT
 
 /scratch3/BMC/wrfruc                        		715.9		 81.4%		878.9		Sat 31 Jan 2026 04:01:13 GMT
 jenglish                                    		122.5		 13.9%				Fri 30 Jan 2026 20:06:25 GMT
@@ -262,107 +263,107 @@ Stan.Benjamin                               		  0.0		  0.0%				Fri 30 Jan 2026 1
 Nicholas.Gasperoni                          		  0.0		  0.0%				Fri 30 Jan 2026 13:25:14 GMT
 Michael.Barlage                             		  0.0		  0.0%				Fri 30 Jan 2026 18:49:56 GMT
 
-/scratch4/BMC/wrfruc                        		820.1		 93.3%		878.9		Sat 31 Jan 2026 00:05:59 GMT
---unseen-by-du--                            		175.0		 19.9%				Sat 31 Jan 2026 00:05:59 GMT
-jjhu                                        		164.9		 18.8%				Fri 30 Jan 2026 15:47:04 GMT
-hwang                                       		 69.6		  7.9%				Fri 30 Jan 2026 21:08:32 GMT
-eure                                        		 57.0		  6.5%				Fri 30 Jan 2026 11:29:06 GMT
-hlin                                        		 38.3		  4.4%				Fri 30 Jan 2026 14:19:58 GMT
-chunhua                                     		 35.8		  4.1%				Fri 30 Jan 2026 09:18:55 GMT
-jensen                                      		 35.8		  4.1%				Fri 30 Jan 2026 12:36:52 GMT
-ejames                                      		 31.9		  3.6%				Fri 30 Jan 2026 11:54:08 GMT
-mhu                                         		 30.0		  3.4%				Sat 31 Jan 2026 00:05:58 GMT
-Shan.Sun                                    		 28.4		  3.2%				Fri 30 Jan 2026 23:17:10 GMT
-Xia.Sun                                     		 23.4		  2.7%				Fri 30 Jan 2026 11:14:49 GMT
-span                                        		 19.0		  2.2%				Fri 30 Jan 2026 16:33:08 GMT
-llin                                        		 18.8		  2.1%				Fri 30 Jan 2026 10:01:31 GMT
-gge.hera                                    		 16.3		  1.9%				Fri 30 Jan 2026 09:05:45 GMT
-gge                                         		  9.8		  1.1%				Fri 30 Jan 2026 21:59:13 GMT
-talcott                                     		  9.4		  1.1%				Fri 30 Jan 2026 19:00:07 GMT
-mayfield                                    		  7.7		  0.9%				Fri 30 Jan 2026 09:03:14 GMT
-Ruifang.Li                                  		  7.6		  0.9%				Fri 30 Jan 2026 22:06:22 GMT
-jenglish                                    		  6.7		  0.8%				Fri 30 Jan 2026 18:55:26 GMT
-olson                                       		  6.2		  0.7%				Fri 30 Jan 2026 23:21:57 GMT
-Gerard.Ketefian                             		  5.7		  0.6%				Fri 30 Jan 2026 14:58:14 GMT
-mtoy                                        		  5.0		  0.6%				Fri 30 Jan 2026 16:48:01 GMT
-Haiqin.Li                                   		  2.5		  0.3%				Fri 30 Jan 2026 16:18:54 GMT
-aburke                                      		  2.4		  0.3%				Fri 30 Jan 2026 17:33:08 GMT
-ddowell                                     		  2.3		  0.3%				Fri 30 Jan 2026 23:28:33 GMT
-Samuel.Trahan                               		  2.2		  0.3%				Fri 30 Jan 2026 18:46:58 GMT
-murdzek                                     		  2.2		  0.2%				Fri 30 Jan 2026 09:21:24 GMT
-naegele                                     		  2.0		  0.2%				Fri 30 Jan 2026 16:37:19 GMT
-hluo                                        		  1.5		  0.2%				Fri 30 Jan 2026 16:09:51 GMT
-schumacher                                  		  0.7		  0.1%				Fri 30 Jan 2026 14:58:33 GMT
-aback                                       		  0.5		  0.1%				Fri 30 Jan 2026 18:59:11 GMT
-mpas                                        		  0.5		  0.1%				Fri 30 Jan 2026 21:29:55 GMT
-Guoqing.Ge                                  		  0.3		  0.0%				Fri 30 Jan 2026 19:00:17 GMT
-jamison                                     		  0.2		  0.0%				Fri 30 Jan 2026 16:10:29 GMT
-jderrico                                    		  0.2		  0.0%				Fri 30 Jan 2026 17:02:14 GMT
-Michael.Barlage                             		  0.2		  0.0%				Fri 30 Jan 2026 17:35:38 GMT
-bjallen                                     		  0.0		  0.0%				Fri 30 Jan 2026 15:00:49 GMT
-NCEPDEV                                     		  0.0		  0.0%				Fri 30 Jan 2026 18:55:27 GMT
-aschein                                     		  0.0		  0.0%				Fri 30 Jan 2026 17:33:18 GMT
-badbads3                                    		  0.0		  0.0%				Fri 30 Jan 2026 19:00:07 GMT
-rrfs-workflow                               		  0.0		  0.0%				Fri 30 Jan 2026 22:07:04 GMT
-jdduda                                      		  0.0		  0.0%				Fri 30 Jan 2026 18:55:41 GMT
-elcarpenter                                 		  0.0		  0.0%				Fri 30 Jan 2026 23:28:34 GMT
-uwtools_training                            		  0.0		  0.0%				Fri 30 Jan 2026 10:01:31 GMT
-sch                                         		  0.0		  0.0%				Fri 30 Jan 2026 23:28:33 GMT
-cholt                                       		  0.0		  0.0%				Fri 30 Jan 2026 09:05:45 GMT
-kenyon                                      		  0.0		  0.0%				Fri 30 Jan 2026 23:28:33 GMT
+/scratch4/BMC/wrfruc                        		830.9		 94.5%		878.9		Sat 31 Jan 2026 21:05:52 GMT
+--unseen-by-du--                            		179.8		 20.5%				Sat 31 Jan 2026 21:05:52 GMT
+jjhu                                        		170.8		 19.4%				Sat 31 Jan 2026 12:15:35 GMT
+hwang                                       		 69.6		  7.9%				Sat 31 Jan 2026 18:08:23 GMT
+eure                                        		 57.0		  6.5%				Sat 31 Jan 2026 09:36:49 GMT
+hlin                                        		 38.3		  4.4%				Sat 31 Jan 2026 11:22:37 GMT
+chunhua                                     		 35.8		  4.1%				Sat 31 Jan 2026 08:16:02 GMT
+jensen                                      		 35.8		  4.1%				Sat 31 Jan 2026 10:37:11 GMT
+ejames                                      		 31.9		  3.6%				Sat 31 Jan 2026 09:53:17 GMT
+mhu                                         		 30.0		  3.4%				Sat 31 Jan 2026 21:05:52 GMT
+Shan.Sun                                    		 28.4		  3.2%				Sat 31 Jan 2026 20:21:01 GMT
+Xia.Sun                                     		 23.4		  2.7%				Sat 31 Jan 2026 09:23:23 GMT
+span                                        		 19.0		  2.2%				Sat 31 Jan 2026 13:03:47 GMT
+llin                                        		 18.8		  2.1%				Sat 31 Jan 2026 08:55:15 GMT
+gge.hera                                    		 16.3		  1.9%				Sat 31 Jan 2026 08:03:14 GMT
+gge                                         		  9.8		  1.1%				Sat 31 Jan 2026 18:55:07 GMT
+talcott                                     		  9.4		  1.1%				Sat 31 Jan 2026 16:19:31 GMT
+mayfield                                    		  7.7		  0.9%				Sat 31 Jan 2026 08:02:14 GMT
+Ruifang.Li                                  		  7.6		  0.9%				Sat 31 Jan 2026 19:03:44 GMT
+jenglish                                    		  6.7		  0.8%				Sat 31 Jan 2026 16:15:00 GMT
+olson                                       		  6.2		  0.7%				Sat 31 Jan 2026 20:26:04 GMT
+Gerard.Ketefian                             		  5.7		  0.6%				Sat 31 Jan 2026 11:38:48 GMT
+mtoy                                        		  5.0		  0.6%				Sat 31 Jan 2026 13:15:02 GMT
+Haiqin.Li                                   		  2.5		  0.3%				Sat 31 Jan 2026 12:51:56 GMT
+aburke                                      		  2.4		  0.3%				Sat 31 Jan 2026 15:07:14 GMT
+ddowell                                     		  2.3		  0.3%				Sat 31 Jan 2026 20:34:35 GMT
+Samuel.Trahan                               		  2.2		  0.3%				Sat 31 Jan 2026 16:09:40 GMT
+murdzek                                     		  2.2		  0.2%				Sat 31 Jan 2026 08:18:48 GMT
+naegele                                     		  2.0		  0.2%				Sat 31 Jan 2026 13:05:51 GMT
+hluo                                        		  1.5		  0.2%				Sat 31 Jan 2026 12:41:08 GMT
+schumacher                                  		  0.7		  0.1%				Sat 31 Jan 2026 11:39:21 GMT
+aback                                       		  0.5		  0.1%				Sat 31 Jan 2026 16:18:50 GMT
+mpas                                        		  0.5		  0.1%				Sat 31 Jan 2026 18:25:22 GMT
+Guoqing.Ge                                  		  0.3		  0.0%				Sat 31 Jan 2026 16:19:39 GMT
+jamison                                     		  0.2		  0.0%				Sat 31 Jan 2026 12:43:28 GMT
+jderrico                                    		  0.2		  0.0%				Sat 31 Jan 2026 13:28:44 GMT
+Michael.Barlage                             		  0.2		  0.0%				Sat 31 Jan 2026 15:08:42 GMT
+bjallen                                     		  0.0		  0.0%				Sat 31 Jan 2026 11:40:57 GMT
+NCEPDEV                                     		  0.0		  0.0%				Sat 31 Jan 2026 16:15:01 GMT
+aschein                                     		  0.0		  0.0%				Sat 31 Jan 2026 15:07:20 GMT
+badbads3                                    		  0.0		  0.0%				Sat 31 Jan 2026 16:19:31 GMT
+rrfs-workflow                               		  0.0		  0.0%				Sat 31 Jan 2026 19:05:55 GMT
+jdduda                                      		  0.0		  0.0%				Sat 31 Jan 2026 16:15:16 GMT
+elcarpenter                                 		  0.0		  0.0%				Sat 31 Jan 2026 20:34:36 GMT
+uwtools_training                            		  0.0		  0.0%				Sat 31 Jan 2026 08:55:16 GMT
+sch                                         		  0.0		  0.0%				Sat 31 Jan 2026 20:34:35 GMT
+cholt                                       		  0.0		  0.0%				Sat 31 Jan 2026 08:03:14 GMT
+kenyon                                      		  0.0		  0.0%				Sat 31 Jan 2026 20:34:35 GMT
 
-/scratch3/BMC/amb-verif                     		  8.2		 28.1%		 29.3		Fri 30 Jan 2026 09:26:49 GMT
---unseen-by-du--                            		  4.4		 15.0%				Fri 30 Jan 2026 09:26:49 GMT
-VERIF                                       		  3.0		 10.1%				Fri 30 Jan 2026 08:57:39 GMT
-RETRO_GRAPHICS                              		  0.6		  2.1%				Fri 30 Jan 2026 08:13:58 GMT
-hamilton                                    		  0.1		  0.4%				Fri 30 Jan 2026 09:26:03 GMT
-FSS_RT                                      		  0.1		  0.2%				Fri 30 Jan 2026 09:23:18 GMT
-Haar_wavelet_verification                   		  0.0		  0.1%				Fri 30 Jan 2026 08:19:50 GMT
-acars_retro_data                            		  0.0		  0.1%				Fri 30 Jan 2026 09:26:20 GMT
-tmp_dirs                                    		  0.0		  0.0%				Fri 30 Jan 2026 09:26:49 GMT
-embverify                                   		  0.0		  0.0%				Fri 30 Jan 2026 08:11:47 GMT
-miniconda                                   		  0.0		  0.0%				Fri 30 Jan 2026 08:19:20 GMT
-metviewer                                   		  0.0		  0.0%				Fri 30 Jan 2026 08:12:14 GMT
-rtma_mesonet_uselists                       		  0.0		  0.0%				Fri 30 Jan 2026 09:26:06 GMT
-rap_ops_mesonet_uselists                    		  0.0		  0.0%				Fri 30 Jan 2026 08:57:43 GMT
-mesonet_uselists                            		  0.0		  0.0%				Fri 30 Jan 2026 09:26:06 GMT
-hrrr_mesonet_uselists                       		  0.0		  0.0%				Fri 30 Jan 2026 08:12:14 GMT
-ejames                                      		  0.0		  0.0%				Fri 30 Jan 2026 09:26:16 GMT
-mvloadrequests                              		  0.0		  0.0%				Fri 30 Jan 2026 08:57:41 GMT
-murdzek                                     		  0.0		  0.0%				Fri 30 Jan 2026 08:12:14 GMT
-git                                         		  0.0		  0.0%				Fri 30 Jan 2026 09:23:19 GMT
-jenglish                                    		  0.0		  0.0%				Fri 30 Jan 2026 09:23:23 GMT
-Ruifang.Li                                  		  0.0		  0.0%				Fri 30 Jan 2026 09:26:05 GMT
-mvprocessing_2.7                            		  0.0		  0.0%				Fri 30 Jan 2026 08:57:42 GMT
-mvprocessing_2.2                            		  0.0		  0.0%				Fri 30 Jan 2026 08:12:17 GMT
-Hui.Liu                                     		  0.0		  0.0%				Fri 30 Jan 2026 08:12:14 GMT
-aback                                       		  0.0		  0.0%				Fri 30 Jan 2026 08:13:59 GMT
-mvprocessing_2.5                            		  0.0		  0.0%				Fri 30 Jan 2026 09:26:05 GMT
-mvprocessing_2.6                            		  0.0		  0.0%				Fri 30 Jan 2026 08:12:15 GMT
-log                                         		  0.0		  0.0%				Fri 30 Jan 2026 09:23:27 GMT
-precip_mesonets2_staging                    		  0.0		  0.0%				Fri 30 Jan 2026 08:13:59 GMT
-jasper                                      		  0.0		  0.0%				Fri 30 Jan 2026 08:13:59 GMT
-dturner                                     		  0.0		  0.0%				Fri 30 Jan 2026 08:57:40 GMT
-mvloadrequests_v2                           		  0.0		  0.0%				Fri 30 Jan 2026 08:13:59 GMT
+/scratch3/BMC/amb-verif                     		  8.3		 28.2%		 29.3		Sat 31 Jan 2026 08:57:16 GMT
+--unseen-by-du--                            		  4.4		 15.0%				Sat 31 Jan 2026 08:57:16 GMT
+VERIF                                       		  3.0		 10.1%				Sat 31 Jan 2026 08:20:54 GMT
+RETRO_GRAPHICS                              		  0.6		  2.1%				Sat 31 Jan 2026 07:33:41 GMT
+hamilton                                    		  0.1		  0.4%				Sat 31 Jan 2026 08:56:31 GMT
+FSS_RT                                      		  0.1		  0.2%				Sat 31 Jan 2026 08:52:07 GMT
+Haar_wavelet_verification                   		  0.0		  0.1%				Sat 31 Jan 2026 07:40:21 GMT
+acars_retro_data                            		  0.0		  0.1%				Sat 31 Jan 2026 08:56:53 GMT
+tmp_dirs                                    		  0.0		  0.0%				Sat 31 Jan 2026 08:57:16 GMT
+embverify                                   		  0.0		  0.0%				Sat 31 Jan 2026 07:31:48 GMT
+miniconda                                   		  0.0		  0.0%				Sat 31 Jan 2026 07:39:11 GMT
+metviewer                                   		  0.0		  0.0%				Sat 31 Jan 2026 07:32:11 GMT
+rtma_mesonet_uselists                       		  0.0		  0.0%				Sat 31 Jan 2026 08:56:36 GMT
+rap_ops_mesonet_uselists                    		  0.0		  0.0%				Sat 31 Jan 2026 08:20:58 GMT
+mesonet_uselists                            		  0.0		  0.0%				Sat 31 Jan 2026 08:56:35 GMT
+hrrr_mesonet_uselists                       		  0.0		  0.0%				Sat 31 Jan 2026 07:32:11 GMT
+ejames                                      		  0.0		  0.0%				Sat 31 Jan 2026 08:56:46 GMT
+mvloadrequests                              		  0.0		  0.0%				Sat 31 Jan 2026 08:20:55 GMT
+murdzek                                     		  0.0		  0.0%				Sat 31 Jan 2026 07:32:11 GMT
+git                                         		  0.0		  0.0%				Sat 31 Jan 2026 08:52:08 GMT
+jenglish                                    		  0.0		  0.0%				Sat 31 Jan 2026 08:52:12 GMT
+Ruifang.Li                                  		  0.0		  0.0%				Sat 31 Jan 2026 08:56:34 GMT
+mvprocessing_2.7                            		  0.0		  0.0%				Sat 31 Jan 2026 08:20:57 GMT
+mvprocessing_2.2                            		  0.0		  0.0%				Sat 31 Jan 2026 07:32:14 GMT
+Hui.Liu                                     		  0.0		  0.0%				Sat 31 Jan 2026 07:32:11 GMT
+aback                                       		  0.0		  0.0%				Sat 31 Jan 2026 07:33:41 GMT
+mvprocessing_2.5                            		  0.0		  0.0%				Sat 31 Jan 2026 08:56:34 GMT
+mvprocessing_2.6                            		  0.0		  0.0%				Sat 31 Jan 2026 07:32:12 GMT
+log                                         		  0.0		  0.0%				Sat 31 Jan 2026 08:52:15 GMT
+precip_mesonets2_staging                    		  0.0		  0.0%				Sat 31 Jan 2026 07:33:41 GMT
+jasper                                      		  0.0		  0.0%				Sat 31 Jan 2026 07:33:41 GMT
+dturner                                     		  0.0		  0.0%				Sat 31 Jan 2026 08:20:54 GMT
+mvloadrequests_v2                           		  0.0		  0.0%				Sat 31 Jan 2026 07:33:41 GMT
 
-/scratch4/BMC/amb-verif                     		 17.6		 59.9%		 29.3		Fri 30 Jan 2026 08:45:36 GMT
-global_g2g_verif                            		  5.1		 17.6%				Fri 30 Jan 2026 08:45:33 GMT
-regional_g2g_verif                          		  4.4		 14.9%				Fri 30 Jan 2026 08:42:28 GMT
-RT_ensemble_prod                            		  3.1		 10.6%				Fri 30 Jan 2026 08:38:23 GMT
---unseen-by-du--                            		  3.1		 10.5%				Fri 30 Jan 2026 08:45:36 GMT
-FSS_RT                                      		  1.7		  5.7%				Fri 30 Jan 2026 08:42:32 GMT
-hamilton                                    		  0.2		  0.5%				Fri 30 Jan 2026 08:38:25 GMT
-dturner                                     		  0.0		  0.1%				Fri 30 Jan 2026 08:38:28 GMT
-mesonet_uselists                            		  0.0		  0.0%				Fri 30 Jan 2026 08:38:25 GMT
-couchbase_load_test_data                    		  0.0		  0.0%				Fri 30 Jan 2026 08:38:42 GMT
-tcmet                                       		  0.0		  0.0%				Fri 30 Jan 2026 08:38:00 GMT
-amdar                                       		  0.0		  0.0%				Fri 30 Jan 2026 08:30:17 GMT
-mats_metadata                               		  0.0		  0.0%				Fri 30 Jan 2026 08:38:31 GMT
-amdar_reject_lists                          		  0.0		  0.0%				Fri 30 Jan 2026 08:45:36 GMT
-hrrre_samples                               		  0.0		  0.0%				Fri 30 Jan 2026 08:38:25 GMT
-ensemble                                    		  0.0		  0.0%				Fri 30 Jan 2026 08:38:42 GMT
-precip_mesonets2                            		  0.0		  0.0%				Fri 30 Jan 2026 08:38:24 GMT
-metadata_output                             		  0.0		  0.0%				Fri 30 Jan 2026 08:45:36 GMT
-HFIP_2025_TC_tracks_from_Jet                		  0.0		  0.0%				Fri 30 Jan 2026 08:38:25 GMT
-mollys                                      		  0.0		  0.0%				Fri 30 Jan 2026 08:38:25 GMT
+/scratch4/BMC/amb-verif                     		 17.7		 60.5%		 29.3		Sat 31 Jan 2026 07:48:48 GMT
+global_g2g_verif                            		  5.2		 17.9%				Sat 31 Jan 2026 07:48:45 GMT
+regional_g2g_verif                          		  4.4		 15.1%				Sat 31 Jan 2026 07:44:47 GMT
+RT_ensemble_prod                            		  3.1		 10.6%				Sat 31 Jan 2026 07:40:56 GMT
+--unseen-by-du--                            		  3.1		 10.5%				Sat 31 Jan 2026 07:48:48 GMT
+FSS_RT                                      		  1.7		  5.7%				Sat 31 Jan 2026 07:44:48 GMT
+hamilton                                    		  0.2		  0.5%				Sat 31 Jan 2026 07:40:58 GMT
+dturner                                     		  0.0		  0.1%				Sat 31 Jan 2026 07:41:01 GMT
+mesonet_uselists                            		  0.0		  0.0%				Sat 31 Jan 2026 07:40:58 GMT
+couchbase_load_test_data                    		  0.0		  0.0%				Sat 31 Jan 2026 07:41:15 GMT
+tcmet                                       		  0.0		  0.0%				Sat 31 Jan 2026 07:40:34 GMT
+amdar                                       		  0.0		  0.0%				Sat 31 Jan 2026 07:30:18 GMT
+mats_metadata                               		  0.0		  0.0%				Sat 31 Jan 2026 07:41:03 GMT
+amdar_reject_lists                          		  0.0		  0.0%				Sat 31 Jan 2026 07:48:47 GMT
+hrrre_samples                               		  0.0		  0.0%				Sat 31 Jan 2026 07:40:58 GMT
+ensemble                                    		  0.0		  0.0%				Sat 31 Jan 2026 07:41:16 GMT
+precip_mesonets2                            		  0.0		  0.0%				Sat 31 Jan 2026 07:40:56 GMT
+metadata_output                             		  0.0		  0.0%				Sat 31 Jan 2026 07:48:47 GMT
+HFIP_2025_TC_tracks_from_Jet                		  0.0		  0.0%				Sat 31 Jan 2026 07:40:58 GMT
+mollys                                      		  0.0		  0.0%				Sat 31 Jan 2026 07:40:58 GMT
 
